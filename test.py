@@ -29,3 +29,10 @@ class Test(TestCase):
     def test_length(self):
         words = Counter(["hello", "world"])
         self.assertAlmostEqual(main.length(words), 0.006666,delta=1e-4)
+
+#test complexity
+def test_complexity(self):
+        words = Counter(["hello", "world"])
+        self.assertAlmostEqual(main.complexity(words), 0.04)
+        words = Counter(["hello", "love","nice","to","meet","you"])
+        self.assertAlmostEqual(main.complexity(words), 0.12)
