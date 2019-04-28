@@ -2,7 +2,6 @@ import os
 import sys
 from collections import Counter
 
-#rearrange file read path
 
 #kid safe description
 def kid_safe(words):
@@ -48,11 +47,7 @@ def mood(words):
 
 #added length function
 def length(words):
-    # print (sum(words.values())/300)
     return round(min(1.0, sum(words.values()) / 300),2)
-    #a=sum(words.values()) / 300
-    #return min(1.0,"{0:.2f}".format(a))
-
 
 #complexity description
 def complexity(words):
@@ -66,6 +61,7 @@ def complexity(words):
             num += 1
     
     return min(1.0, 1.0 * num / 5)
+
 
 #Reading lyrics file and giving output
 def read_data(file_path):
@@ -104,8 +100,3 @@ if __name__ == "__main__":
     data=read_data(args.file_path)
     print (data)
     
-    
-    
-    #file_path = sys.argv[1]
-    #data = read_data(file_path)
-    #print(data)
