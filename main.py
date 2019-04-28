@@ -50,8 +50,8 @@ def mood(words):
 def length(words):
     # print (sum(words.values())/300)
     
-     a=sum(words.values()) / 300
-    return min(1.0,"%.2f" % a)
+    a=sum(words.values()) / 300
+    return min(1.0,"{0:.2f}".format(a))
 
 
 #complexity description
