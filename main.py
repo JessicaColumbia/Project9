@@ -51,31 +51,6 @@ def length(words):
     return min(1.0, sum(words.values()) / 300)
 
 
-def read_data(file_path):
-    data = {"characterizations": []}
-    for i in os.listdir(file_path):
-        item = {}
-        infos = i.split("~")
-        item["id"] = int(infos[0])
-        item['artist'] = infos[1].replace("-", " ")
-        item["title"] = infos[2].replace("-", " ")
-        file_name = os.path.join(file_path, i)
-        words = []
-        with open(file_name, encoding='utf-8') as fp:
-            for line in fp.readlines():
-                line = line.replace("\n", "").split(" ")
-                for word in line:
-                    words.append(word.lower())
-        words = Counter(words)
-        item["kid_safe"] = kid_safe(words)
-        item["love"] = love(words)
-        item["mood"] = mood(words)
-        item["length"] = length(words)
-        item["complexity"] = complexity(words)
-        data["characterizations"].append(item)
-    return data
-
-
 #complexity description
 def complexity(words):
     gre = set()
