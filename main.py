@@ -19,7 +19,7 @@ def kid_safe(words):
 # adding love function 
 def love(words):
     love_words = {"love", "lovesick", "lovestruck", "crush", "infatuation", "romantic", "darling", "marriage",
-                  "proposal"}
+                  "proposal", "loved", "sweet", "honey", "kiss", "miss", "heart"}
     num = 0
     for word in words.keys():
         if word in love_words:
@@ -28,8 +28,8 @@ def love(words):
 
 #mood description
 def mood(words):
-    happy_words = {"happy", "excited", "high"}
-    sad_words = {"sad", "down", "low"}
+    happy_words = {"happy", "excited", "high", "proud", "perfect", "joy", "joyful", "hope", "confiedent", "powerful", "sweet", "nice", "love", "exciting", "amuse", "amazing", "happily", "great", "lucky"}
+    sad_words = {"sad", "down", "low", "sorry", "tear", "war", "bitter"}
     happy_num = 0
     sad_num = 0
 
