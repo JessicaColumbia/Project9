@@ -2,25 +2,7 @@ import os
 import sys
 from collections import Counter
 
-lyrics_list=os.listdir("Lyrics")
-
-cleaned_lyrics_list_of_list=[]
-
-for i in range(len(lyrics_list)):
-    select=lyrics_list[i]
-	select=select.strip('.txt')
-	select=select.replace('-',' ')
-	select=select.split('~')
-	cleaned_lyrics_list_of_list.append(select)	
-
-for i in range(len(lyrics_list)):
-	a=cleaned_lyrics_list_of_list[i][0]
-	b=int(a)
-	cleaned_lyrics_list_of_list[i][0]=b
-
-from operator import itemgetter
-sorted_lyrics=sorted(cleaned_lyrics_list_of_list,key=itemgetter(0))
-
+#rearrange file read path
 
 #kid safe description
 def kid_safe(words):
@@ -131,3 +113,9 @@ def read_data(file_path):
         data["characterizations"].append(item)
     return data
 
+
+#read file path from command line
+if __name__ == "__main__":
+    file_path = sys.argv[1]
+    data = read_data(file_path)
+    print(data)
