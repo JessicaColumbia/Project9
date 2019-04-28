@@ -17,10 +17,15 @@ class Test(TestCase):
         self.assertAlmostEqual(main.love(words), 1.0/9)
 
 #test mood function        
-def test_mood(self):
+    def test_mood(self):
         words = Counter(["hello", "happy"])
         self.assertAlmostEqual(main.mood(words), 1)
         words = Counter(["hello", "sad"])
         self.assertAlmostEqual(main.mood(words), 0)
         words = Counter(["hello", "world"])
         self.assertAlmostEqual(main.mood(words), 0.5)
+
+#test length 
+    def test_length(self):
+        words = Counter(["hello", "world"])
+        self.assertAlmostEqual(main.length(words), 0.006666,delta=1e-4)
