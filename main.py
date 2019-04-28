@@ -68,19 +68,26 @@ def length(words):
     # print (sum(words.values())/300)
     return min(1.0, sum(words.values()) / 300)
 
-
-
-total_output_list=[]
-for i in range(len(sorted_lyrics)):
-	song_output={}
-	song_output['id']=sorted_lyrics[i][0]
-	song_output["artist"]=sorted_lyrics[i][1]
-	song_output["title"]=sorted_lyrics[i][2]
-	song_output['kid_safe']=0
-	song_output['love']=0
-	song_output['mood']=0
-	song_output['length']=0
-	song_output['complexity']=0
-	total_output_list.append(song_output)
-
-final_output={'characterizations':total_output_list}
+def read_data(file_path):
+    data = {"characterizations": []}
+    for i in os.listdir(file_path):
+        item = {}
+        infos = i.split("~")
+        item["id"] = int(infos[0])
+        item['artist'] = infos[1].replace("-", " ")
+        item["title"] = infos[2].replace("-", " ")
+        file_name = os.path.join(file_path, i)
+        words = []
+        with open(file_name, encoding='utf-8') as fp:
+            for line in fp.readlines():
+                line = line.replace("\n", "").split(" ")
+                for word in line:
+                    words.append(word.lower())
+        words = Counter(words)
+        item["kid_safe"] = kid_safe(words)
+        item["love"] = love(words)
+        item["mood"] = mood(words)
+        item["length"] = length(words)
+        item["complexity"] = complexity(words)
+        data["characterizations"].append(item)
+    return data
