@@ -43,3 +43,8 @@ class Test(TestCase):
         data = main.read_data("./Lyrics")
         self.assertEqual(len(data["characterizations"]),1001)
         
+        
+suite = unittest.defaultTestLoader.loadTestsFromTestCase(Test)
+# Run each test in suite
+unittest.TextTestRunner().run(suite)
+        
