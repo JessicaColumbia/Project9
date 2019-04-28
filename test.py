@@ -33,9 +33,9 @@ class Test(unittest.TestCase):
 #test complexity
     def test_complexity(self):
         words = Counter(["hello", "world"])
-        self.assertAlmostEqual(main.complexity(words), 0.04)
-        words = Counter(["hello", "love","nice","to","meet","you"])
-        self.assertAlmostEqual(main.complexity(words), 0.12)
+        self.assertAlmostEqual(main.complexity(words), 0)
+        words = Counter(["hello", "brandish"])
+        self.assertAlmostEqual(main.complexity(words), 0.2)
         
         
 #test read data        
