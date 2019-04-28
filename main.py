@@ -44,6 +44,26 @@ def love(words):
             num += 1
     return 1.0 * num / len(love_words)
 
+#mood description
+def mood(words):
+    happy_words = {"happy", "excited", "high"}
+    sad_words = {"sad", "down", "low"}
+    happy_num = 0
+    sad_num = 0
+
+    for word in words.keys():
+        if word in happy_words:
+            happy_num += 1
+        if word in sad_words:
+            sad_num += 1
+    if sad_num == 0:
+        if happy_num == 0:
+            return 0.5
+        return 1
+
+    return min(1.0, 1.0 * happy_num / sad_num)
+
+
 
 total_output_list=[]
 for i in range(len(sorted_lyrics)):
