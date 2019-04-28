@@ -49,7 +49,9 @@ def mood(words):
 #added length function
 def length(words):
     # print (sum(words.values())/300)
-    return min(1.0, sum(words.values()) / 300)
+    
+     a=sum(words.values()) / 300
+    return min(1.0,"%.2f" % a)
 
 
 #complexity description
@@ -62,7 +64,8 @@ def complexity(words):
     for word in words.keys():
         if word in gre:
             num += 1
-    return min(1.0, 1.0 * num / 5)
+    
+    return min(1.0, "%.2f" % a 1.0 * num / 5)
 
 #Reading lyrics file and giving output
 def read_data(file_path):
