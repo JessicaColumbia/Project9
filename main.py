@@ -86,7 +86,7 @@ def complexity(words):
     for word in words.keys():
         if word in gre:
             num += 1
-    return min(1.0, 1.0 * num / 10)
+    return min(1.0, 1.0 * num / 5)
 
 #Reading lyrics file and giving output
 def read_data(file_path):
