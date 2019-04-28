@@ -34,6 +34,16 @@ def kid_safe(words):
             num += 1
     return min(1, 1 - num / 10)
 
+# adding love function 
+def love(words):
+    love_words = {"love", "lovesick", "lovestruck", "crush", "infatuation", "romantic", "darling", "marriage",
+                  "proposal"}
+    num = 0
+    for word in words.keys():
+        if word in love_words:
+            num += 1
+    return 1.0 * num / len(love_words)
+
 
 total_output_list=[]
 for i in range(len(sorted_lyrics)):
