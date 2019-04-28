@@ -63,6 +63,11 @@ def mood(words):
 
     return min(1.0, 1.0 * happy_num / sad_num)
 
+#added length function
+def length(words):
+    # print (sum(words.values())/300)
+    return min(1.0, sum(words.values()) / 300)
+
 
 
 total_output_list=[]
