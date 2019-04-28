@@ -22,6 +22,19 @@ from operator import itemgetter
 sorted_lyrics=sorted(cleaned_lyrics_list_of_list,key=itemgetter(0))
 
 
+#kid safe description
+def kid_safe(words):
+    bad_words = set()
+    with open("bad_words.txt") as fp:
+        for line in fp.readlines():
+            bad_words.add(line.replace("\n", ""))
+    num = 0
+    for word in words.keys():
+        if word in bad_words:
+            num += 1
+    return min(1, 1 - num / 10)
+
+
 total_output_list=[]
 for i in range(len(sorted_lyrics)):
 	song_output={}
