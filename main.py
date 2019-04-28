@@ -49,9 +49,9 @@ def mood(words):
 #added length function
 def length(words):
     # print (sum(words.values())/300)
-    
-    a=sum(words.values()) / 300
-    return min(1.0,"{0:.2f}".format(a))
+    return round(min(1.0, sum(words.values()) / 300),2)
+    #a=sum(words.values()) / 300
+    #return min(1.0,"{0:.2f}".format(a))
 
 
 #complexity description
