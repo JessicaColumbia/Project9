@@ -69,6 +69,18 @@ def length(words):
     return min(1.0, sum(words.values()) / 300)
 
 
+#complexity description
+def complexity(words):
+    gre = set()
+    with open("gre.txt") as fp:
+        for line in fp.readlines():
+            gre.add(line.replace("\n", ""))
+    num = 0
+    for word in words.keys():
+        if word in gre:
+            num += 1
+    return min(1.0, 1.0 * num / 50)
+
 
 total_output_list=[]
 for i in range(len(sorted_lyrics)):
