@@ -24,7 +24,7 @@ def love(words):
     for word in words.keys():
         if word in love_words:
             num += 1
-    return 1.0 * num / len(love_words)
+    return 1.0 * num / 5
 
 #mood description
 def mood(words):
