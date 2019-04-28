@@ -8,3 +8,10 @@ class Test(TestCase):
         self.assertAlmostEqual(main.kid_safe(words),1)
         words = Counter(["hello", "sex"])
         self.assertAlmostEqual(main.kid_safe(words), 0.9)
+        
+#test love words
+    def test_love(self):
+        words = Counter(["hello", "world"])
+        self.assertAlmostEqual(main.love(words), 0)
+        words = Counter(["hello", "love"])
+        self.assertAlmostEqual(main.love(words), 1.0/9)
