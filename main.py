@@ -1,10 +1,13 @@
 import os
+import sys
+from collections import Counter
+
 lyrics_list=os.listdir("Lyrics")
 
 cleaned_lyrics_list_of_list=[]
 
 for i in range(len(lyrics_list)):
-	select=lyrics_list[i]
+    select=lyrics_list[i]
 	select=select.strip('.txt')
 	select=select.replace('-',' ')
 	select=select.split('~')
@@ -31,7 +34,5 @@ for i in range(len(sorted_lyrics)):
 	song_output['length']=0
 	song_output['complexity']=0
 	total_output_list.append(song_output)
-
-
 
 final_output={'characterizations':total_output_list}
