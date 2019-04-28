@@ -68,6 +68,7 @@ def length(words):
     # print (sum(words.values())/300)
     return min(1.0, sum(words.values()) / 300)
 
+<<<<<<< HEAD
 def read_data(file_path):
     data = {"characterizations": []}
     for i in os.listdir(file_path):
@@ -91,3 +92,33 @@ def read_data(file_path):
         item["complexity"] = complexity(words)
         data["characterizations"].append(item)
     return data
+=======
+
+#complexity description
+def complexity(words):
+    gre = set()
+    with open("gre.txt") as fp:
+        for line in fp.readlines():
+            gre.add(line.replace("\n", ""))
+    num = 0
+    for word in words.keys():
+        if word in gre:
+            num += 1
+    return min(1.0, 1.0 * num / 50)
+
+
+total_output_list=[]
+for i in range(len(sorted_lyrics)):
+	song_output={}
+	song_output['id']=sorted_lyrics[i][0]
+	song_output["artist"]=sorted_lyrics[i][1]
+	song_output["title"]=sorted_lyrics[i][2]
+	song_output['kid_safe']=0
+	song_output['love']=0
+	song_output['mood']=0
+	song_output['length']=0
+	song_output['complexity']=0
+	total_output_list.append(song_output)
+
+final_output={'characterizations':total_output_list}
+>>>>>>> d1df88faa79128390ea55395b2dc1ed57bc1612c
