@@ -31,8 +31,15 @@ class Test(TestCase):
         self.assertAlmostEqual(main.length(words), 0.006666,delta=1e-4)
 
 #test complexity
-def test_complexity(self):
+    def test_complexity(self):
         words = Counter(["hello", "world"])
         self.assertAlmostEqual(main.complexity(words), 0.04)
         words = Counter(["hello", "love","nice","to","meet","you"])
         self.assertAlmostEqual(main.complexity(words), 0.12)
+        
+        
+#test read data        
+    def test_read_data(self):
+        data = main.read_data("./Lyrics")
+        self.assertEqual(len(data["characterizations"]),1001)
+        
