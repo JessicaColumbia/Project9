@@ -116,6 +116,17 @@ def read_data(file_path):
 
 #read file path from command line
 if __name__ == "__main__":
-    file_path = sys.argv[1]
-    data = read_data(file_path)
-    print(data)
+    
+    import argparse
+    parser = argparse.ArgumentParser('Input file path for lyrics')
+    parser.add_argument('file_path', help='path where the lyrics are stored')
+    args = parser.parse_args()
+
+    data=read_data(file_path)
+    print (data)
+    
+    
+    
+    #file_path = sys.argv[1]
+    #data = read_data(file_path)
+    #print(data)
