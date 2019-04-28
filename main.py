@@ -122,7 +122,7 @@ if __name__ == "__main__":
     parser.add_argument('file_path', help='path where the lyrics are stored')
     args = parser.parse_args()
 
-    data=read_data(file_path)
+    data=read_data(args.file_path)
     print (data)
     
     
