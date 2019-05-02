@@ -44,11 +44,11 @@ def mood(words):
             return 0.5
         return 1
 
-    return round(min(1.0, 1.0 * happy_num / sad_num),2)
+    return round(min(1.0, 1.0 * happy_num / sad_num),1)
 
 #added length function
 def length(words):
-    return round(min(1.0, sum(words.values()) / 300),2)
+    return round(min(1.0, sum(words.values()) / 300),1)
 
 #complexity description
 def complexity(words):
@@ -107,3 +107,7 @@ if __name__ == "__main__":
             indent=True,  # pretty printing
             sort_keys=True,  # sorting for easier lookup by a human, sort alphebetically
         )
+    with open('CSV-JSON-lyrics-out.json','r') as fp:
+        print_data = json.load(fp)
+    
+        print(print_data)
