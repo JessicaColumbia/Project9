@@ -1,6 +1,7 @@
 import os
 import sys
 from collections import Counter
+import json
 
 
 #kid safe description
@@ -43,7 +44,7 @@ def mood(words):
             return 0.5
         return 1
 
-    return min(1.0, 1.0 * happy_num / sad_num)
+    return round(min(1.0, 1.0 * happy_num / sad_num),2)
 
 #added length function
 def length(words):
@@ -71,7 +72,7 @@ def read_data(file_path):
         infos = i.split("~")
         item["id"] = int(infos[0])
         item['artist'] = infos[1].replace("-", " ")
-        item["title"] = infos[2].replace("-", " ")
+        item["title"] = infos[2].replace("-", " ").strip('.txt')
         file_name = os.path.join(file_path, i)
         words = []
         with open(file_name, encoding='utf-8') as fp:
@@ -98,5 +99,11 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     data=read_data(args.file_path)
-    print (data)
     
+    with open('CSV-JSON-lyrics-out.json', 'w') as fp:
+        json.dump(
+            obj=data,
+            fp=fp,
+            indent=True,  # pretty printing
+            sort_keys=True,  # sorting for easier lookup by a human, sort alphebetically
+        )

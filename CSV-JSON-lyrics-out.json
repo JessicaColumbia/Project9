@@ -1,0 +1,10014 @@
+{
+ "characterizations": [
+  {
+   "artist": "Anne Farnsworth",
+   "complexity": 0.2,
+   "id": 943,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Moondance"
+  },
+  {
+   "artist": "The Human Beinz",
+   "complexity": 0.2,
+   "id": 956,
+   "kid_safe": 1,
+   "length": 0.61,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Nobody But Me"
+  },
+  {
+   "artist": "Moonlight Serenaders",
+   "complexity": 0.4,
+   "id": 420,
+   "kid_safe": 1,
+   "length": 0.75,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Begin the Beguine"
+  },
+  {
+   "artist": "Deitrick Haddon",
+   "complexity": 0.2,
+   "id": 758,
+   "kid_safe": 1,
+   "length": 0.52,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Jesus Is Coming"
+  },
+  {
+   "artist": "Yank Rachell",
+   "complexity": 0.4,
+   "id": 625,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Rainy Day Blues"
+  },
+  {
+   "artist": "The Platters",
+   "complexity": 0.2,
+   "id": 605,
+   "kid_safe": 1,
+   "length": 0.73,
+   "love": 0.8,
+   "mood": 1,
+   "title": "With This Ring"
+  },
+  {
+   "artist": "Alexandre Poulin",
+   "complexity": 0.4,
+   "id": 797,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "R\u00eave de Ti Cul"
+  },
+  {
+   "artist": "Chet Baker",
+   "complexity": 0.2,
+   "id": 616,
+   "kid_safe": 1,
+   "length": 0.56,
+   "love": 0.2,
+   "mood": 1,
+   "title": "My Old Flame"
+  },
+  {
+   "artist": "Jill Corey",
+   "complexity": 0.2,
+   "id": 272,
+   "kid_safe": 1,
+   "length": 0.42,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Bye Bye Blackbird"
+  },
+  {
+   "artist": "Gloria Estefan",
+   "complexity": 0.4,
+   "id": 155,
+   "kid_safe": 1,
+   "length": 0.86,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Con Los A\u00f1os Que Me Quedan [With the Years That I Have Left]"
+  },
+  {
+   "artist": "Jerry Keller",
+   "complexity": 0.2,
+   "id": 873,
+   "kid_safe": 1,
+   "length": 0.81,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "Here Comes Summer"
+  },
+  {
+   "artist": "Ike & Tina Turner",
+   "complexity": 0.2,
+   "id": 918,
+   "kid_safe": 1,
+   "length": 0.63,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Bold Soul Sister"
+  },
+  {
+   "artist": "The Midway State",
+   "complexity": 0.4,
+   "id": 144,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 0.5,
+   "title": "Nobody Understands"
+  },
+  {
+   "artist": "Edyta G\u00f3rniak",
+   "complexity": 0.0,
+   "id": 523,
+   "kid_safe": 1,
+   "length": 0.66,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Anything"
+  },
+  {
+   "artist": "Joe Arroyo Y La Verdad",
+   "complexity": 0.4,
+   "id": 986,
+   "kid_safe": 0.9,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Pa'l Bailador"
+  },
+  {
+   "artist": "Mango",
+   "complexity": 0.6,
+   "id": 154,
+   "kid_safe": 1,
+   "length": 0.68,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Mediterraneo"
+  },
+  {
+   "artist": "Mother Mother",
+   "complexity": 0.2,
+   "id": 532,
+   "kid_safe": 1,
+   "length": 0.61,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Alone and Sublime"
+  },
+  {
+   "artist": "Belly",
+   "complexity": 0.2,
+   "id": 596,
+   "kid_safe": 0.4,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Might No"
+  },
+  {
+   "artist": "Ken Colyer",
+   "complexity": 0.2,
+   "id": 782,
+   "kid_safe": 1,
+   "length": 0.68,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "When I Leave the World Behind"
+  },
+  {
+   "artist": "Madita",
+   "complexity": 0.6,
+   "id": 583,
+   "kid_safe": 1,
+   "length": 0.52,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Ceylon"
+  },
+  {
+   "artist": "Beyonc\u00e9",
+   "complexity": 0.2,
+   "id": 815,
+   "kid_safe": 1,
+   "length": 0.93,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Blue"
+  },
+  {
+   "artist": "Michael Nesmith",
+   "complexity": 0.2,
+   "id": 739,
+   "kid_safe": 1,
+   "length": 0.59,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Silver Moon"
+  },
+  {
+   "artist": "The Tremble Kids",
+   "complexity": 0.4,
+   "id": 206,
+   "kid_safe": 1,
+   "length": 0.23,
+   "love": 0.6,
+   "mood": 1,
+   "title": "Embraceable You"
+  },
+  {
+   "artist": "Fats Waller",
+   "complexity": 0.4,
+   "id": 205,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Two Sleepy People"
+  },
+  {
+   "artist": "Illy",
+   "complexity": 0.2,
+   "id": 280,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Riptide"
+  },
+  {
+   "artist": "Sam Cooke",
+   "complexity": 0.2,
+   "id": 947,
+   "kid_safe": 1,
+   "length": 0.28,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Trouble Blues"
+  },
+  {
+   "artist": "The Saints Jazz Band",
+   "complexity": 0.2,
+   "id": 319,
+   "kid_safe": 1,
+   "length": 0.39,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Tiger Rag"
+  },
+  {
+   "artist": "Soft Machine",
+   "complexity": 0.6,
+   "id": 52,
+   "kid_safe": 0.9,
+   "length": 0.33,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Hibou Anemone & Bear"
+  },
+  {
+   "artist": "Riot",
+   "complexity": 0.0,
+   "id": 462,
+   "kid_safe": 1,
+   "length": 0.42,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Hard Lovin' Man"
+  },
+  {
+   "artist": "De Danann",
+   "complexity": 0.2,
+   "id": 220,
+   "kid_safe": 1,
+   "length": 0.51,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Danny Boy"
+  },
+  {
+   "artist": "John Basile",
+   "complexity": 0.2,
+   "id": 76,
+   "kid_safe": 1,
+   "length": 0.7,
+   "love": 0.4,
+   "mood": 1,
+   "title": "That Old Feeling"
+  },
+  {
+   "artist": "Spike Jones",
+   "complexity": 0.4,
+   "id": 928,
+   "kid_safe": 1,
+   "length": 0.72,
+   "love": 0.6,
+   "mood": 1,
+   "title": "Ramona"
+  },
+  {
+   "artist": "Edie Brickell & New Bohemians",
+   "complexity": 0.0,
+   "id": 324,
+   "kid_safe": 1,
+   "length": 0.3,
+   "love": 0.0,
+   "mood": 0.33,
+   "title": "Nothing"
+  },
+  {
+   "artist": "Shaznay Lewis",
+   "complexity": 0.4,
+   "id": 453,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Dance"
+  },
+  {
+   "artist": "Shakira",
+   "complexity": 0.4,
+   "id": 345,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "How Do You Do"
+  },
+  {
+   "artist": "Bobby Caldwell",
+   "complexity": 0.2,
+   "id": 879,
+   "kid_safe": 1,
+   "length": 0.55,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Stay With Me"
+  },
+  {
+   "artist": "Rock Goddess",
+   "complexity": 0.2,
+   "id": 881,
+   "kid_safe": 1,
+   "length": 0.67,
+   "love": 0.4,
+   "mood": 0.5,
+   "title": "Heartache"
+  },
+  {
+   "artist": "Cornelio Reyna",
+   "complexity": 0.4,
+   "id": 964,
+   "kid_safe": 1,
+   "length": 0.39,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Te Vas Angel Mio"
+  },
+  {
+   "artist": "V Ice",
+   "complexity": 0.6,
+   "id": 81,
+   "kid_safe": 0.9,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "I Know"
+  },
+  {
+   "artist": "Mar\u00eda Dolores Pradera",
+   "complexity": 0.4,
+   "id": 409,
+   "kid_safe": 1,
+   "length": 0.69,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "El Rosario de Mi Madre"
+  },
+  {
+   "artist": "Kiki Dee",
+   "complexity": 0.2,
+   "id": 845,
+   "kid_safe": 1,
+   "length": 0.83,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "Star"
+  },
+  {
+   "artist": "Jordan Smith",
+   "complexity": 0.4,
+   "id": 172,
+   "kid_safe": 1,
+   "length": 0.94,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Halo"
+  },
+  {
+   "artist": "P\u00e9rez Prado",
+   "complexity": 0.2,
+   "id": 121,
+   "kid_safe": 1,
+   "length": 0.38,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Mambo No. 5"
+  },
+  {
+   "artist": "Chris Rea",
+   "complexity": 0.4,
+   "id": 7,
+   "kid_safe": 1,
+   "length": 0.34,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Lucky Day"
+  },
+  {
+   "artist": "Ellie Goulding",
+   "complexity": 0.2,
+   "id": 654,
+   "kid_safe": 1,
+   "length": 0.95,
+   "love": 0.2,
+   "mood": 0.33,
+   "title": "Devotion"
+  },
+  {
+   "artist": "Fats Waller",
+   "complexity": 0.2,
+   "id": 126,
+   "kid_safe": 1,
+   "length": 0.77,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Dinah"
+  },
+  {
+   "artist": "Palast Orchester",
+   "complexity": 0.4,
+   "id": 700,
+   "kid_safe": 1,
+   "length": 0.46,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Sex Bomb"
+  },
+  {
+   "artist": "Diana Ross & the Supremes",
+   "complexity": 0.2,
+   "id": 613,
+   "kid_safe": 1,
+   "length": 0.46,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Will This Be the Day"
+  },
+  {
+   "artist": "Charlie Parker",
+   "complexity": 0.2,
+   "id": 382,
+   "kid_safe": 1,
+   "length": 0.22,
+   "love": 0.6,
+   "mood": 1,
+   "title": "Cherokee"
+  },
+  {
+   "artist": "Dir en Grey",
+   "complexity": 0.2,
+   "id": 580,
+   "kid_safe": 1,
+   "length": 0.22,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Merciless Cul"
+  },
+  {
+   "artist": "Ian Campbell",
+   "complexity": 0.6,
+   "id": 186,
+   "kid_safe": 1,
+   "length": 0.31,
+   "love": 0.2,
+   "mood": 1,
+   "title": "I Think It's Going to Rain Today"
+  },
+  {
+   "artist": "Beny Mor\u00e9",
+   "complexity": 0.2,
+   "id": 612,
+   "kid_safe": 1,
+   "length": 0.38,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Mambo No. 5"
+  },
+  {
+   "artist": "Shirley Bassey",
+   "complexity": 0.2,
+   "id": 448,
+   "kid_safe": 1,
+   "length": 0.47,
+   "love": 0.4,
+   "mood": 0.0,
+   "title": "Goldfinger"
+  },
+  {
+   "artist": "Dinah Washington",
+   "complexity": 0.2,
+   "id": 57,
+   "kid_safe": 1,
+   "length": 0.64,
+   "love": 0.4,
+   "mood": 0.5,
+   "title": "Drinking Again"
+  },
+  {
+   "artist": "Controlled Bleeding",
+   "complexity": 0.2,
+   "id": 162,
+   "kid_safe": 1,
+   "length": 0.17,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Untitled #2"
+  },
+  {
+   "artist": "Hampton String Quartet",
+   "complexity": 0.2,
+   "id": 611,
+   "kid_safe": 1,
+   "length": 0.38,
+   "love": 0.4,
+   "mood": 0.33,
+   "title": "Let It Snow! Let It Snow! Let It Snow!"
+  },
+  {
+   "artist": "Paulina Rubio",
+   "complexity": 0.2,
+   "id": 226,
+   "kid_safe": 0.9,
+   "length": 0.78,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Causa y Efecto"
+  },
+  {
+   "artist": "Michael Cleveland",
+   "complexity": 0.2,
+   "id": 792,
+   "kid_safe": 1,
+   "length": 0.52,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Miller's Cave"
+  },
+  {
+   "artist": "The Charlatans UK",
+   "complexity": 0.4,
+   "id": 892,
+   "kid_safe": 1,
+   "length": 0.93,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Title Figh"
+  },
+  {
+   "artist": "Tommy Emmanuel",
+   "complexity": 0.2,
+   "id": 507,
+   "kid_safe": 1,
+   "length": 0.73,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Lover Come Back to Me"
+  },
+  {
+   "artist": "Dr. Feelgood",
+   "complexity": 0.2,
+   "id": 334,
+   "kid_safe": 1,
+   "length": 0.71,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Johnny B Goode"
+  },
+  {
+   "artist": "Perry Como",
+   "complexity": 0.2,
+   "id": 317,
+   "kid_safe": 1,
+   "length": 0.97,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Hot Diggity (Dog Ziggity Boom)"
+  },
+  {
+   "artist": "Asia",
+   "complexity": 0.2,
+   "id": 874,
+   "kid_safe": 1,
+   "length": 0.51,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Time Again"
+  },
+  {
+   "artist": "Nate James",
+   "complexity": 0.2,
+   "id": 248,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Pretend"
+  },
+  {
+   "artist": "Jeff Beck",
+   "complexity": 0.2,
+   "id": 3,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1,
+   "title": "All Shook Up"
+  },
+  {
+   "artist": "Natalie Imbruglia",
+   "complexity": 0.2,
+   "id": 737,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 0.5,
+   "title": "Torn"
+  },
+  {
+   "artist": "Willis \"Gator\" Jackson",
+   "complexity": 0.2,
+   "id": 249,
+   "kid_safe": 1,
+   "length": 0.76,
+   "love": 0.4,
+   "mood": 0.5,
+   "title": "It's Too Late"
+  },
+  {
+   "artist": "Al Green",
+   "complexity": 0.2,
+   "id": 109,
+   "kid_safe": 1,
+   "length": 0.49,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Precious Lord"
+  },
+  {
+   "artist": "Infected Mushroom",
+   "complexity": 0.2,
+   "id": 514,
+   "kid_safe": 1,
+   "length": 0.21,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "Cities of the Future"
+  },
+  {
+   "artist": "Ra Ra Riot",
+   "complexity": 0.6,
+   "id": 260,
+   "kid_safe": 1,
+   "length": 0.95,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Binary Mind"
+  },
+  {
+   "artist": "Bobby Darin",
+   "complexity": 0.2,
+   "id": 899,
+   "kid_safe": 1,
+   "length": 0.77,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Splish Splash"
+  },
+  {
+   "artist": "Perry Como",
+   "complexity": 0.2,
+   "id": 48,
+   "kid_safe": 1,
+   "length": 0.35,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Silent Nigh"
+  },
+  {
+   "artist": "Sha Na Na",
+   "complexity": 0.2,
+   "id": 713,
+   "kid_safe": 1,
+   "length": 0.74,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Come Go with Me"
+  },
+  {
+   "artist": "Beastie Boys",
+   "complexity": 0.2,
+   "id": 866,
+   "kid_safe": 1,
+   "length": 0.31,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Jimi"
+  },
+  {
+   "artist": "Sandi Thom",
+   "complexity": 0.2,
+   "id": 44,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "I Wish I Was a Punk Rocker (With Flowers in My Hair)"
+  },
+  {
+   "artist": "Richard \"Cookie\" Thomas",
+   "complexity": 0.2,
+   "id": 122,
+   "kid_safe": 1,
+   "length": 0.62,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Hallelujah I Just Love Her So"
+  },
+  {
+   "artist": "Chris Norman",
+   "complexity": 0.4,
+   "id": 434,
+   "kid_safe": 1,
+   "length": 0.85,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Midnight Lady"
+  },
+  {
+   "artist": "Jimmie Noone",
+   "complexity": 0.2,
+   "id": 431,
+   "kid_safe": 1,
+   "length": 0.45,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Little White Lies"
+  },
+  {
+   "artist": "Buy This Song",
+   "complexity": 0.2,
+   "id": 351,
+   "kid_safe": 1,
+   "length": 0.64,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Firefly"
+  },
+  {
+   "artist": "Lindsay Lohan",
+   "complexity": 0.6,
+   "id": 118,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "A Little More Personal"
+  },
+  {
+   "artist": "Z.Z. Hill",
+   "complexity": 0.2,
+   "id": 148,
+   "kid_safe": 1,
+   "length": 0.66,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Put a Little Love in Your Heart [*]"
+  },
+  {
+   "artist": "Miles Davis",
+   "complexity": 0.2,
+   "id": 992,
+   "kid_safe": 1,
+   "length": 0.35,
+   "love": 0.4,
+   "mood": 1,
+   "title": "I Fall in Love Too Easily (A)"
+  },
+  {
+   "artist": "Gregory Porter",
+   "complexity": 0.2,
+   "id": 411,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "1960 What? [Opolopo Kick and Bass Rerub]"
+  },
+  {
+   "artist": "The Supremes",
+   "complexity": 0.2,
+   "id": 257,
+   "kid_safe": 1,
+   "length": 0.68,
+   "love": 0.2,
+   "mood": 1,
+   "title": "This is the Story"
+  },
+  {
+   "artist": "The Fall",
+   "complexity": 0.4,
+   "id": 50,
+   "kid_safe": 1,
+   "length": 0.72,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Totally Wired"
+  },
+  {
+   "artist": "OneRepublic",
+   "complexity": 0.2,
+   "id": 505,
+   "kid_safe": 1,
+   "length": 0.58,
+   "love": 0.0,
+   "mood": 1,
+   "title": "Sucker Punch"
+  },
+  {
+   "artist": "Tommy Sparks",
+   "complexity": 0.2,
+   "id": 842,
+   "kid_safe": 1,
+   "length": 0.75,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "She's Got Me Dancing"
+  },
+  {
+   "artist": "Do or Die",
+   "complexity": 1.0,
+   "id": 994,
+   "kid_safe": 0.19999999999999996,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Alpha and Omega"
+  },
+  {
+   "artist": "Vic Dickenson",
+   "complexity": 0.2,
+   "id": 180,
+   "kid_safe": 1,
+   "length": 0.13,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Dear Old Southland"
+  },
+  {
+   "artist": "Buy This Song",
+   "complexity": 0.4,
+   "id": 688,
+   "kid_safe": 1,
+   "length": 0.56,
+   "love": 0.4,
+   "mood": 1,
+   "title": "I Wanna Be Loved"
+  },
+  {
+   "artist": "Anita O'Day",
+   "complexity": 0.2,
+   "id": 774,
+   "kid_safe": 1,
+   "length": 0.51,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Ain't Misbehavin'"
+  },
+  {
+   "artist": "The Faders",
+   "complexity": 0.4,
+   "id": 888,
+   "kid_safe": 1,
+   "length": 0.85,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Here with Me"
+  },
+  {
+   "artist": "The Beach Boys",
+   "complexity": 0.4,
+   "id": 254,
+   "kid_safe": 1,
+   "length": 0.74,
+   "love": 0.6,
+   "mood": 0.5,
+   "title": "I'm Waiting For the Day"
+  },
+  {
+   "artist": "Sam Chatmon",
+   "complexity": 0.6,
+   "id": 545,
+   "kid_safe": 1,
+   "length": 0.48,
+   "love": 0.4,
+   "mood": 0.5,
+   "title": "St. Louis Blues"
+  },
+  {
+   "artist": "Elton John",
+   "complexity": 0.6,
+   "id": 39,
+   "kid_safe": 1,
+   "length": 0.5,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Street Boogie"
+  },
+  {
+   "artist": "Yeah Yeah Yeahs",
+   "complexity": 0.4,
+   "id": 132,
+   "kid_safe": 1,
+   "length": 0.83,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Subway"
+  },
+  {
+   "artist": "Iron Maiden",
+   "complexity": 0.2,
+   "id": 660,
+   "kid_safe": 1,
+   "length": 0.8,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Wildest Dreams"
+  },
+  {
+   "artist": "the Colour Field",
+   "complexity": 0.0,
+   "id": 982,
+   "kid_safe": 1,
+   "length": 0.8,
+   "love": 0.6,
+   "mood": 1,
+   "title": "Can't Get Enough of You Baby"
+  },
+  {
+   "artist": "Buy This Song",
+   "complexity": 0.2,
+   "id": 352,
+   "kid_safe": 1,
+   "length": 0.58,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Ha Ha Said the Clown"
+  },
+  {
+   "artist": "Kate Smith",
+   "complexity": 0.2,
+   "id": 871,
+   "kid_safe": 1,
+   "length": 0.16,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Who Cares?"
+  },
+  {
+   "artist": "Beastie Boys",
+   "complexity": 0.2,
+   "id": 22,
+   "kid_safe": 1,
+   "length": 0.31,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Jimi"
+  },
+  {
+   "artist": "The Four Freshmen",
+   "complexity": 0.2,
+   "id": 497,
+   "kid_safe": 1,
+   "length": 0.9,
+   "love": 0.4,
+   "mood": 1,
+   "title": "I Can't Believe That You're In Love With Me"
+  },
+  {
+   "artist": "Israel & New Breed",
+   "complexity": 0.2,
+   "id": 791,
+   "kid_safe": 1,
+   "length": 0.32,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Friend"
+  },
+  {
+   "artist": "David Bowie",
+   "complexity": 0.2,
+   "id": 259,
+   "kid_safe": 0.9,
+   "length": 0.58,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Cracked Actor"
+  },
+  {
+   "artist": "Matt Monro",
+   "complexity": 0.2,
+   "id": 250,
+   "kid_safe": 1,
+   "length": 0.59,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "(They Long to Be) Close to You"
+  },
+  {
+   "artist": "Mario Lanza",
+   "complexity": 0.4,
+   "id": 997,
+   "kid_safe": 1,
+   "length": 0.71,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Funicul\u00ec, Funicul\u00e0"
+  },
+  {
+   "artist": "As I Lay Dying",
+   "complexity": 0.8,
+   "id": 637,
+   "kid_safe": 1,
+   "length": 0.52,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Tear Out My Eyes"
+  },
+  {
+   "artist": "The Marshall Tucker Band",
+   "complexity": 0.8,
+   "id": 731,
+   "kid_safe": 1,
+   "length": 0.49,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Hillbilly Band"
+  },
+  {
+   "artist": "Slowdive",
+   "complexity": 0.2,
+   "id": 508,
+   "kid_safe": 1,
+   "length": 0.36,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Rutti"
+  },
+  {
+   "artist": "Ismael Rivera",
+   "complexity": 0.4,
+   "id": 484,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Me Tienes Loco"
+  },
+  {
+   "artist": "The Exploited",
+   "complexity": 0.2,
+   "id": 540,
+   "kid_safe": 0.8,
+   "length": 0.82,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Beat the Bastards"
+  },
+  {
+   "artist": "Kool & the Gang",
+   "complexity": 0.2,
+   "id": 696,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 1,
+   "title": "Celebration"
+  },
+  {
+   "artist": "Connie Francis",
+   "complexity": 0.2,
+   "id": 241,
+   "kid_safe": 1,
+   "length": 0.39,
+   "love": 0.4,
+   "mood": 1,
+   "title": "I'll Close My Eyes"
+  },
+  {
+   "artist": "Mich\u00e9le Ramo",
+   "complexity": 0.2,
+   "id": 54,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "The Song is You"
+  },
+  {
+   "artist": "Corina Bartra",
+   "complexity": 0.2,
+   "id": 397,
+   "kid_safe": 1,
+   "length": 0.39,
+   "love": 0.6,
+   "mood": 0.33,
+   "title": "You Don't Know What Love Is"
+  },
+  {
+   "artist": "Yellowcard",
+   "complexity": 0.2,
+   "id": 466,
+   "kid_safe": 1,
+   "length": 0.77,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "California"
+  },
+  {
+   "artist": "Jefferson Airplane",
+   "complexity": 0.0,
+   "id": 436,
+   "kid_safe": 1,
+   "length": 0.73,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "The Other Side of This Life"
+  },
+  {
+   "artist": "John Mellencamp",
+   "complexity": 0.4,
+   "id": 485,
+   "kid_safe": 1,
+   "length": 0.95,
+   "love": 0.2,
+   "mood": 0.25,
+   "title": "This May Not Be the End of the World"
+  },
+  {
+   "artist": "Kathy Mattea",
+   "complexity": 0.2,
+   "id": 145,
+   "kid_safe": 1,
+   "length": 0.95,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Trouble With Angels"
+  },
+  {
+   "artist": "Frankie Ruiz",
+   "complexity": 0.2,
+   "id": 588,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Mi Libertad"
+  },
+  {
+   "artist": "Don Gibson",
+   "complexity": 0.0,
+   "id": 423,
+   "kid_safe": 1,
+   "length": 0.32,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Rings of Gold"
+  },
+  {
+   "artist": "Tommy Steele",
+   "complexity": 0.4,
+   "id": 990,
+   "kid_safe": 1,
+   "length": 0.45,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "A Handful of Songs"
+  },
+  {
+   "artist": "Louis Armstrong",
+   "complexity": 0.2,
+   "id": 541,
+   "kid_safe": 1,
+   "length": 0.41,
+   "love": 0.2,
+   "mood": 1,
+   "title": "What a Wonderful World"
+  },
+  {
+   "artist": "Jethro Tull",
+   "complexity": 0.0,
+   "id": 376,
+   "kid_safe": 1,
+   "length": 0.05,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Grace"
+  },
+  {
+   "artist": "Jarabe de Palo",
+   "complexity": 0.6,
+   "id": 890,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Somos"
+  },
+  {
+   "artist": "B.B. King",
+   "complexity": 0.2,
+   "id": 539,
+   "kid_safe": 1,
+   "length": 0.45,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Let Me Make You Cry a Little Longer"
+  },
+  {
+   "artist": "B.B. King",
+   "complexity": 0.2,
+   "id": 902,
+   "kid_safe": 1,
+   "length": 0.58,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "That Evil Child"
+  },
+  {
+   "artist": "Armand Van Helden",
+   "complexity": 1.0,
+   "id": 883,
+   "kid_safe": 0.8,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 0.5,
+   "title": "Witch Doktor"
+  },
+  {
+   "artist": "James Blunt",
+   "complexity": 0.2,
+   "id": 476,
+   "kid_safe": 1,
+   "length": 0.58,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "High"
+  },
+  {
+   "artist": "Johnny Cash",
+   "complexity": 0.6,
+   "id": 403,
+   "kid_safe": 1,
+   "length": 0.67,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Ring of Fire"
+  },
+  {
+   "artist": "The Subdudes",
+   "complexity": 0.0,
+   "id": 528,
+   "kid_safe": 1,
+   "length": 0.83,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Light in Your Eyes"
+  },
+  {
+   "artist": "Haste the Day",
+   "complexity": 0.0,
+   "id": 125,
+   "kid_safe": 1,
+   "length": 0.46,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Needles"
+  },
+  {
+   "artist": "Tony Joe White",
+   "complexity": 0.4,
+   "id": 534,
+   "kid_safe": 1,
+   "length": 0.91,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Stud Spider"
+  },
+  {
+   "artist": "Mary Wells",
+   "complexity": 0.2,
+   "id": 356,
+   "kid_safe": 1,
+   "length": 0.79,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "The One Who Really Loves You"
+  },
+  {
+   "artist": "Julio Jaramillo",
+   "complexity": 0.4,
+   "id": 920,
+   "kid_safe": 1,
+   "length": 0.76,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Odiame"
+  },
+  {
+   "artist": "Alabama",
+   "complexity": 0.2,
+   "id": 335,
+   "kid_safe": 1,
+   "length": 0.79,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Take a Little Trip"
+  },
+  {
+   "artist": "UCLA Marching Band",
+   "complexity": 0.2,
+   "id": 565,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Word Up"
+  },
+  {
+   "artist": "Fred Waring & His Pennsylvanians",
+   "complexity": 0.2,
+   "id": 67,
+   "kid_safe": 1,
+   "length": 0.45,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Little White Lies"
+  },
+  {
+   "artist": "VX",
+   "complexity": 0.2,
+   "id": 900,
+   "kid_safe": 1,
+   "length": 0.33,
+   "love": 0.0,
+   "mood": 1,
+   "title": "Constan"
+  },
+  {
+   "artist": "Elvis Presley",
+   "complexity": 0.2,
+   "id": 42,
+   "kid_safe": 1,
+   "length": 0.81,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Blue Suede Shoes"
+  },
+  {
+   "artist": "Bloc Party",
+   "complexity": 0.2,
+   "id": 650,
+   "kid_safe": 0.9,
+   "length": 0.82,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Helicopter"
+  },
+  {
+   "artist": "Luis Fonsi",
+   "complexity": 0.4,
+   "id": 16,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Gritar [Video] [*][Multimedia Track]"
+  },
+  {
+   "artist": "Jimmy Reed",
+   "complexity": 0.2,
+   "id": 856,
+   "kid_safe": 1,
+   "length": 0.36,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Baby What You Want Me to Do"
+  },
+  {
+   "artist": "Del Amitri",
+   "complexity": 0.6,
+   "id": 312,
+   "kid_safe": 1,
+   "length": 0.87,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Hammering Hear"
+  },
+  {
+   "artist": "Van Morrison",
+   "complexity": 0.4,
+   "id": 139,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Whenever God Shines His Ligh"
+  },
+  {
+   "artist": "Jim Croce",
+   "complexity": 0.8,
+   "id": 934,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "You Don't Mess Around with Jim"
+  },
+  {
+   "artist": "Buy This Song",
+   "complexity": 0.0,
+   "id": 203,
+   "kid_safe": 1,
+   "length": 0.37,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Scooby Doo, Where Are You? (TV Theme)"
+  },
+  {
+   "artist": "Randy Travis",
+   "complexity": 0.4,
+   "id": 85,
+   "kid_safe": 1,
+   "length": 0.98,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Tonight I'm Playin' Possum [Solo Version] [Version]"
+  },
+  {
+   "artist": "They Might Be Giants",
+   "complexity": 0.2,
+   "id": 429,
+   "kid_safe": 1,
+   "length": 0.32,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Hall of Heads"
+  },
+  {
+   "artist": "Sarah Blasko",
+   "complexity": 0.4,
+   "id": 942,
+   "kid_safe": 1,
+   "length": 0.58,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "All I Wan"
+  },
+  {
+   "artist": "Tokio Hotel",
+   "complexity": 0.6,
+   "id": 832,
+   "kid_safe": 1,
+   "length": 0.62,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Reden"
+  },
+  {
+   "artist": "Young Buck",
+   "complexity": 0.6,
+   "id": 727,
+   "kid_safe": 0.6,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Lose My Mind"
+  },
+  {
+   "artist": "Iron Butterfly",
+   "complexity": 0.2,
+   "id": 799,
+   "kid_safe": 1,
+   "length": 0.35,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "In A Gadda Da Vida"
+  },
+  {
+   "artist": "Jad Fair",
+   "complexity": 0.2,
+   "id": 822,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Frankenstein"
+  },
+  {
+   "artist": "Black M",
+   "complexity": 0.4,
+   "id": 456,
+   "kid_safe": 1,
+   "length": 0.94,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "On s'fait du mal"
+  },
+  {
+   "artist": "Buy This Song",
+   "complexity": 0.4,
+   "id": 213,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Goodnight Sweethear"
+  },
+  {
+   "artist": "Glashaus",
+   "complexity": 0.6,
+   "id": 858,
+   "kid_safe": 1,
+   "length": 0.83,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Wenn das Liebe Ist (Director's Cut)"
+  },
+  {
+   "artist": "The Who",
+   "complexity": 0.0,
+   "id": 768,
+   "kid_safe": 1,
+   "length": 0.09,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Overture"
+  },
+  {
+   "artist": "White Plains",
+   "complexity": 0.2,
+   "id": 552,
+   "kid_safe": 1,
+   "length": 0.98,
+   "love": 0.2,
+   "mood": 1,
+   "title": "My Baby Loves Lovin'"
+  },
+  {
+   "artist": "George Shearing",
+   "complexity": 0.2,
+   "id": 278,
+   "kid_safe": 1,
+   "length": 0.32,
+   "love": 0.4,
+   "mood": 1,
+   "title": "High on a Windy Hill"
+  },
+  {
+   "artist": "Lewis, John",
+   "complexity": 0.2,
+   "id": 468,
+   "kid_safe": 1,
+   "length": 0.75,
+   "love": 0.2,
+   "mood": 1,
+   "title": "I Didn't Know What Time It Was"
+  },
+  {
+   "artist": "Shirley Bassey",
+   "complexity": 0.2,
+   "id": 435,
+   "kid_safe": 1,
+   "length": 0.37,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Spinning Wheel [DJ Spinna Remix]"
+  },
+  {
+   "artist": "Guy & Ralna",
+   "complexity": 0.2,
+   "id": 544,
+   "kid_safe": 1,
+   "length": 0.47,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Why Me"
+  },
+  {
+   "artist": "Jimmy Reed",
+   "complexity": 0.2,
+   "id": 381,
+   "kid_safe": 1,
+   "length": 0.32,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "You Don't Have to Go"
+  },
+  {
+   "artist": "Jenni Rivera",
+   "complexity": 0.2,
+   "id": 439,
+   "kid_safe": 1,
+   "length": 0.48,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Angel Baby"
+  },
+  {
+   "artist": "Art Blakey & the Jazz Messengers",
+   "complexity": 0.4,
+   "id": 848,
+   "kid_safe": 1,
+   "length": 0.64,
+   "love": 0.2,
+   "mood": 1,
+   "title": "It's Only a Paper Moon"
+  },
+  {
+   "artist": "No Use for a Name",
+   "complexity": 0.2,
+   "id": 364,
+   "kid_safe": 1,
+   "length": 0.78,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "On the Outside"
+  },
+  {
+   "artist": "Goo Goo Dolls",
+   "complexity": 0.2,
+   "id": 563,
+   "kid_safe": 1,
+   "length": 0.84,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Iris [Album Version]"
+  },
+  {
+   "artist": "Viola Wills",
+   "complexity": 0.4,
+   "id": 941,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "If You Could Read My Mind"
+  },
+  {
+   "artist": "The Heptones",
+   "complexity": 0.4,
+   "id": 168,
+   "kid_safe": 1,
+   "length": 0.73,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Why Must I"
+  },
+  {
+   "artist": "Craig Duncan and the Smoky Mountain Band",
+   "complexity": 0.2,
+   "id": 665,
+   "kid_safe": 1,
+   "length": 0.45,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Orange Blossom Special"
+  },
+  {
+   "artist": "Paradise Lost",
+   "complexity": 0.4,
+   "id": 592,
+   "kid_safe": 0.9,
+   "length": 0.67,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Deus Misereatur (Intro)"
+  },
+  {
+   "artist": "Buy This Song",
+   "complexity": 0.2,
+   "id": 715,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.2,
+   "mood": 1,
+   "title": "O Little Town of Bethlehem"
+  },
+  {
+   "artist": "Nina Nastasia",
+   "complexity": 0.2,
+   "id": 101,
+   "kid_safe": 1,
+   "length": 0.54,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "That's All There Is"
+  },
+  {
+   "artist": "Coldplay",
+   "complexity": 0.2,
+   "id": 763,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Speed of Sound"
+  },
+  {
+   "artist": "Carmen McRae",
+   "complexity": 0.2,
+   "id": 971,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "If You Could See Me Now"
+  },
+  {
+   "artist": "Terence Trent D'Arby",
+   "complexity": 0.8,
+   "id": 61,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "If You All Get to Heaven"
+  },
+  {
+   "artist": "Tilly and the Wall",
+   "complexity": 0.0,
+   "id": 231,
+   "kid_safe": 1,
+   "length": 0.51,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Brave Day"
+  },
+  {
+   "artist": "Junie C. Cobb",
+   "complexity": 0.2,
+   "id": 819,
+   "kid_safe": 1,
+   "length": 0.74,
+   "love": 0.6,
+   "mood": 1,
+   "title": "Just Squeeze Me (But Don't Tease Me)"
+  },
+  {
+   "artist": "The Orchestra",
+   "complexity": 0.2,
+   "id": 642,
+   "kid_safe": 1,
+   "length": 0.82,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Overture (LP version) [*]"
+  },
+  {
+   "artist": "Mantovani Orchestra",
+   "complexity": 0.6,
+   "id": 885,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "[Unspecified] Swedish Rhapsody"
+  },
+  {
+   "artist": "Cymande",
+   "complexity": 0.4,
+   "id": 752,
+   "kid_safe": 1,
+   "length": 0.77,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Brothers on the Slide"
+  },
+  {
+   "artist": "Vic Damone",
+   "complexity": 0.2,
+   "id": 357,
+   "kid_safe": 1,
+   "length": 0.32,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Among My Souvenirs"
+  },
+  {
+   "artist": "Michel Sardou",
+   "complexity": 0.2,
+   "id": 170,
+   "kid_safe": 1,
+   "length": 0.41,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Les Ricains"
+  },
+  {
+   "artist": "Rita Wilson",
+   "complexity": 0.2,
+   "id": 167,
+   "kid_safe": 1,
+   "length": 0.77,
+   "love": 0.2,
+   "mood": 0.2,
+   "title": "River"
+  },
+  {
+   "artist": "Grin",
+   "complexity": 0.2,
+   "id": 868,
+   "kid_safe": 1,
+   "length": 0.68,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "White Lies"
+  },
+  {
+   "artist": "The Statler Brothers",
+   "complexity": 0.2,
+   "id": 31,
+   "kid_safe": 1,
+   "length": 0.88,
+   "love": 0.4,
+   "mood": 0.5,
+   "title": "Just a Little Talk with Jesus"
+  },
+  {
+   "artist": "Inner Circle",
+   "complexity": 0.2,
+   "id": 326,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Bad Boys"
+  },
+  {
+   "artist": "Eva Cassidy",
+   "complexity": 0.2,
+   "id": 800,
+   "kid_safe": 1,
+   "length": 0.37,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Songbird"
+  },
+  {
+   "artist": "Wilson Pickett",
+   "complexity": 0.2,
+   "id": 876,
+   "kid_safe": 1,
+   "length": 0.43,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "It's All Over"
+  },
+  {
+   "artist": "Ohio Players",
+   "complexity": 0.6,
+   "id": 338,
+   "kid_safe": 1,
+   "length": 0.75,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Whats Going on"
+  },
+  {
+   "artist": "Oscar Peterson",
+   "complexity": 0.4,
+   "id": 926,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.6,
+   "mood": 1,
+   "title": "On Green Dolphin Stree"
+  },
+  {
+   "artist": "Bloodhound Gang",
+   "complexity": 0.2,
+   "id": 173,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "It's Tricky"
+  },
+  {
+   "artist": "Billy Currington",
+   "complexity": 0.2,
+   "id": 11,
+   "kid_safe": 1,
+   "length": 0.84,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "People Are Crazy"
+  },
+  {
+   "artist": "El Viejo Paulino y Su Gente Juli\u00e1n Garza",
+   "complexity": 0.4,
+   "id": 717,
+   "kid_safe": 1,
+   "length": 0.55,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Misa De Cuerpo Presente"
+  },
+  {
+   "artist": "Sheppard",
+   "complexity": 0.2,
+   "id": 635,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Geronimo"
+  },
+  {
+   "artist": "Mitch Ryder",
+   "complexity": 0.2,
+   "id": 258,
+   "kid_safe": 1,
+   "length": 0.86,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Jenny Take a Ride"
+  },
+  {
+   "artist": "Alaska y Dinarama",
+   "complexity": 0.4,
+   "id": 106,
+   "kid_safe": 1,
+   "length": 0.95,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "A  Quien Le Importa"
+  },
+  {
+   "artist": "Carlos Gardel",
+   "complexity": 0.2,
+   "id": 808,
+   "kid_safe": 1,
+   "length": 0.58,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Caminito"
+  },
+  {
+   "artist": "Renaud",
+   "complexity": 0.0,
+   "id": 252,
+   "kid_safe": 1,
+   "length": 0.05,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Rita (Chanson d'Amour)"
+  },
+  {
+   "artist": "Sade",
+   "complexity": 0.2,
+   "id": 692,
+   "kid_safe": 1,
+   "length": 0.41,
+   "love": 0.2,
+   "mood": 1,
+   "title": "I Never Thought I'd See the Day"
+  },
+  {
+   "artist": "The Bobs",
+   "complexity": 0.2,
+   "id": 810,
+   "kid_safe": 1,
+   "length": 0.21,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Elwood Decker"
+  },
+  {
+   "artist": "Starsailor",
+   "complexity": 0.6,
+   "id": 114,
+   "kid_safe": 1,
+   "length": 0.49,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Listen Up"
+  },
+  {
+   "artist": "Alien Sex Fiend",
+   "complexity": 0.4,
+   "id": 405,
+   "kid_safe": 1,
+   "length": 0.37,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "New Christian Music [DVD]"
+  },
+  {
+   "artist": "The Damned",
+   "complexity": 0.6,
+   "id": 96,
+   "kid_safe": 1,
+   "length": 0.73,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Billy Bad Breaks"
+  },
+  {
+   "artist": "The Bobs",
+   "complexity": 0.2,
+   "id": 944,
+   "kid_safe": 1,
+   "length": 0.55,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "White Room"
+  },
+  {
+   "artist": "Nat King Cole",
+   "complexity": 0.2,
+   "id": 102,
+   "kid_safe": 1,
+   "length": 0.32,
+   "love": 0.4,
+   "mood": 1,
+   "title": "(I Love You) For Sentimental Reasons"
+  },
+  {
+   "artist": "Brezz Zelenka",
+   "complexity": 0.2,
+   "id": 47,
+   "kid_safe": 1,
+   "length": 0.73,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Tupelo Honey"
+  },
+  {
+   "artist": "Seal",
+   "complexity": 0.4,
+   "id": 861,
+   "kid_safe": 1,
+   "length": 0.58,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Knock on Wood"
+  },
+  {
+   "artist": "The Four Seasons",
+   "complexity": 0.2,
+   "id": 838,
+   "kid_safe": 0.9,
+   "length": 0.57,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "What Child is This"
+  },
+  {
+   "artist": "Garou",
+   "complexity": 0.2,
+   "id": 363,
+   "kid_safe": 1,
+   "length": 0.63,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Gentleman cambrioleur"
+  },
+  {
+   "artist": "Blutengel",
+   "complexity": 0.4,
+   "id": 28,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Dancing in the Ligh"
+  },
+  {
+   "artist": "Paul Weller",
+   "complexity": 0.4,
+   "id": 853,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Bring Back the Funk, Pts. 1 & 2"
+  },
+  {
+   "artist": "Emma Veary",
+   "complexity": 0.2,
+   "id": 153,
+   "kid_safe": 1,
+   "length": 0.81,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "My Little Grass Shack"
+  },
+  {
+   "artist": "Stan Getz",
+   "complexity": 0.2,
+   "id": 834,
+   "kid_safe": 1,
+   "length": 0.27,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Don't Get Around Much Anymore"
+  },
+  {
+   "artist": "Parachute",
+   "complexity": 0.4,
+   "id": 674,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.67,
+   "title": "The New Year"
+  },
+  {
+   "artist": "The Kinks",
+   "complexity": 0.4,
+   "id": 287,
+   "kid_safe": 1,
+   "length": 0.88,
+   "love": 0.0,
+   "mood": 1,
+   "title": "Powerman"
+  },
+  {
+   "artist": "Ian Van Dahl",
+   "complexity": 0.2,
+   "id": 379,
+   "kid_safe": 1,
+   "length": 0.34,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Castles in the Sky"
+  },
+  {
+   "artist": "Dakota",
+   "complexity": 0.6,
+   "id": 323,
+   "kid_safe": 1,
+   "length": 0.83,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Life in a Northern Town"
+  },
+  {
+   "artist": "Tyga",
+   "complexity": 0.4,
+   "id": 15,
+   "kid_safe": 0.9,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Rack City"
+  },
+  {
+   "artist": "Shiloh",
+   "complexity": 0.2,
+   "id": 89,
+   "kid_safe": 1,
+   "length": 0.61,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Alrigh"
+  },
+  {
+   "artist": "Britney Spears",
+   "complexity": 0.2,
+   "id": 219,
+   "kid_safe": 1,
+   "length": 0.99,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Don't Cry"
+  },
+  {
+   "artist": "Rubberneck",
+   "complexity": 0.2,
+   "id": 179,
+   "kid_safe": 1,
+   "length": 0.8,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Twisted"
+  },
+  {
+   "artist": "Buck Clayton's Orchestra",
+   "complexity": 0.2,
+   "id": 750,
+   "kid_safe": 1,
+   "length": 0.28,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "You're My Thrill"
+  },
+  {
+   "artist": "Paul Hopkins",
+   "complexity": 0.2,
+   "id": 327,
+   "kid_safe": 1,
+   "length": 0.54,
+   "love": 0.0,
+   "mood": 1,
+   "title": "When You're Smiling"
+  },
+  {
+   "artist": "Roger McGuinn",
+   "complexity": 0.2,
+   "id": 623,
+   "kid_safe": 1,
+   "length": 0.61,
+   "love": 0.4,
+   "mood": 1,
+   "title": "It Won't Be Wrong"
+  },
+  {
+   "artist": "Michael Bloomfield",
+   "complexity": 0.6,
+   "id": 568,
+   "kid_safe": 1,
+   "length": 0.88,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Flip, Flop and Fly"
+  },
+  {
+   "artist": "Cornelio Reyna",
+   "complexity": 0.4,
+   "id": 367,
+   "kid_safe": 1,
+   "length": 0.6,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Me Cai de La Nube"
+  },
+  {
+   "artist": "Current 93",
+   "complexity": 0.4,
+   "id": 212,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Black Flowers Please"
+  },
+  {
+   "artist": "Michael Kwan",
+   "complexity": 0.4,
+   "id": 217,
+   "kid_safe": 1,
+   "length": 0.63,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Ren Zai Lu Tu Sa Lei Shi"
+  },
+  {
+   "artist": "Bobby Darin",
+   "complexity": 0.0,
+   "id": 939,
+   "kid_safe": 1,
+   "length": 0.29,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Make Someone Happy"
+  },
+  {
+   "artist": "Carina Round",
+   "complexity": 0.2,
+   "id": 447,
+   "kid_safe": 1,
+   "length": 0.45,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Ready to Confess"
+  },
+  {
+   "artist": "Down",
+   "complexity": 0.2,
+   "id": 73,
+   "kid_safe": 1,
+   "length": 0.39,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Levitation"
+  },
+  {
+   "artist": "Dirty Vegas",
+   "complexity": 0.4,
+   "id": 829,
+   "kid_safe": 1,
+   "length": 0.59,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Walkintothesun"
+  },
+  {
+   "artist": "Robin Greenstein",
+   "complexity": 0.2,
+   "id": 807,
+   "kid_safe": 1,
+   "length": 0.48,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Searching"
+  },
+  {
+   "artist": "Django Reinhardt",
+   "complexity": 0.2,
+   "id": 670,
+   "kid_safe": 1,
+   "length": 0.52,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Moonglow"
+  },
+  {
+   "artist": "Mark Morrison",
+   "complexity": 0.6,
+   "id": 785,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Crazy [Album Version]"
+  },
+  {
+   "artist": "Mahalia Jackson",
+   "complexity": 0.4,
+   "id": 962,
+   "kid_safe": 1,
+   "length": 0.62,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "It Came Upon a Midnight Clear"
+  },
+  {
+   "artist": "Fairport Convention",
+   "complexity": 0.4,
+   "id": 689,
+   "kid_safe": 1,
+   "length": 0.59,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "Reynard the Fo"
+  },
+  {
+   "artist": "Common",
+   "complexity": 1.0,
+   "id": 238,
+   "kid_safe": 0.8,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "The Game"
+  },
+  {
+   "artist": "Tex Beneke",
+   "complexity": 0.6,
+   "id": 192,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.6,
+   "mood": 1,
+   "title": "These Foolish Things"
+  },
+  {
+   "artist": "Hipmotism",
+   "complexity": 0.0,
+   "id": 195,
+   "kid_safe": 1,
+   "length": 0.47,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Lonely Avenue"
+  },
+  {
+   "artist": "Jonathan Wilson",
+   "complexity": 0.4,
+   "id": 558,
+   "kid_safe": 1,
+   "length": 0.53,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Valley of the Silver Moon"
+  },
+  {
+   "artist": "Nuremberg Symphony Orchestra",
+   "complexity": 0.2,
+   "id": 496,
+   "kid_safe": 1,
+   "length": 0.58,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "High Noon: Theme"
+  },
+  {
+   "artist": "Jorge Vercillo",
+   "complexity": 0.2,
+   "id": 266,
+   "kid_safe": 1,
+   "length": 0.26,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Final Feliz"
+  },
+  {
+   "artist": "Aqualung",
+   "complexity": 0.4,
+   "id": 201,
+   "kid_safe": 1,
+   "length": 0.43,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Nothing Else Matters"
+  },
+  {
+   "artist": "Ariel Ram\u00edrez",
+   "complexity": 0.4,
+   "id": 666,
+   "kid_safe": 1,
+   "length": 0.77,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Alfonsina y el Mar"
+  },
+  {
+   "artist": "Gigliola Cinquetti",
+   "complexity": 0.4,
+   "id": 617,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Non Ho l'\u00c9ta"
+  },
+  {
+   "artist": "Delta Spirit",
+   "complexity": 0.2,
+   "id": 733,
+   "kid_safe": 1,
+   "length": 0.63,
+   "love": 0.6,
+   "mood": 1,
+   "title": "Bushwick Blues [EP Version]"
+  },
+  {
+   "artist": "Love",
+   "complexity": 0.2,
+   "id": 390,
+   "kid_safe": 1,
+   "length": 0.51,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "My Little Red Book"
+  },
+  {
+   "artist": "4 the Cause",
+   "complexity": 0.4,
+   "id": 401,
+   "kid_safe": 1,
+   "length": 0.53,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Stand by Me"
+  },
+  {
+   "artist": "Thelonious Monk",
+   "complexity": 0.4,
+   "id": 200,
+   "kid_safe": 1,
+   "length": 0.41,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "'Round Midnigh"
+  },
+  {
+   "artist": "JoJo",
+   "complexity": 0.2,
+   "id": 236,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Note to God"
+  },
+  {
+   "artist": "Kill Creek",
+   "complexity": 0.2,
+   "id": 548,
+   "kid_safe": 0.9,
+   "length": 0.54,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Kathleen"
+  },
+  {
+   "artist": "Fato",
+   "complexity": 0.4,
+   "id": 704,
+   "kid_safe": 1,
+   "length": 0.56,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Terrenal"
+  },
+  {
+   "artist": "Slaughter & the Dogs",
+   "complexity": 0.2,
+   "id": 937,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Who Are the Mystery Girls?"
+  },
+  {
+   "artist": "Gotan Project",
+   "complexity": 0.4,
+   "id": 493,
+   "kid_safe": 1,
+   "length": 0.52,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Vuelvo al Sur"
+  },
+  {
+   "artist": "Eels",
+   "complexity": 0.2,
+   "id": 778,
+   "kid_safe": 1,
+   "length": 0.54,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Ordinary Man"
+  },
+  {
+   "artist": "The Pussycat Dolls",
+   "complexity": 0.2,
+   "id": 6,
+   "kid_safe": 1,
+   "length": 0.78,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Hush Hush; Hush Hush [Main]"
+  },
+  {
+   "artist": "Wes Montgomery",
+   "complexity": 0.4,
+   "id": 846,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.6,
+   "mood": 1,
+   "title": "On Green Dolphin Street [Take 2]"
+  },
+  {
+   "artist": "The McGuire Sisters",
+   "complexity": 0.2,
+   "id": 233,
+   "kid_safe": 1,
+   "length": 0.81,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Sugartime"
+  },
+  {
+   "artist": "Emerson, Lake & Palmer",
+   "complexity": 0.2,
+   "id": 64,
+   "kid_safe": 1,
+   "length": 0.48,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "Lucky Man"
+  },
+  {
+   "artist": "Prince Nico Mbarga",
+   "complexity": 0.2,
+   "id": 202,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Sweet Mother"
+  },
+  {
+   "artist": "Zac Brown Band",
+   "complexity": 0.2,
+   "id": 164,
+   "kid_safe": 1,
+   "length": 0.93,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Keep Me in Mind"
+  },
+  {
+   "artist": "Frances Gershwin",
+   "complexity": 0.4,
+   "id": 518,
+   "kid_safe": 1,
+   "length": 0.33,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Love Is Here to Stay"
+  },
+  {
+   "artist": "Buy This Song",
+   "complexity": 0.2,
+   "id": 501,
+   "kid_safe": 1,
+   "length": 0.74,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Come Home with Me Baby (Explicit Lyrics)"
+  },
+  {
+   "artist": "Maxine Weldon",
+   "complexity": 0.2,
+   "id": 693,
+   "kid_safe": 1,
+   "length": 0.27,
+   "love": 0.2,
+   "mood": 1,
+   "title": "But Beautiful"
+  },
+  {
+   "artist": "Fatboy Slim",
+   "complexity": 0.2,
+   "id": 475,
+   "kid_safe": 1,
+   "length": 0.35,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "The Weekend Starts Here"
+  },
+  {
+   "artist": "Judy Garland",
+   "complexity": 0.4,
+   "id": 906,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Everybody Sing [From Broadway Melody of 1938]"
+  },
+  {
+   "artist": "Glen Hansard",
+   "complexity": 0.2,
+   "id": 166,
+   "kid_safe": 1,
+   "length": 0.74,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Grace Beneath the Pines"
+  },
+  {
+   "artist": "Rod McKuen",
+   "complexity": 0.4,
+   "id": 985,
+   "kid_safe": 1,
+   "length": 0.49,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Jean"
+  },
+  {
+   "artist": "Chico Hamilton",
+   "complexity": 0.6,
+   "id": 399,
+   "kid_safe": 1,
+   "length": 0.21,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "September Song"
+  },
+  {
+   "artist": "Grupo Mont\u00e9z de Durango",
+   "complexity": 0.4,
+   "id": 624,
+   "kid_safe": 1,
+   "length": 0.61,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Jambalaya"
+  },
+  {
+   "artist": "Earl Bostic",
+   "complexity": 0.2,
+   "id": 901,
+   "kid_safe": 1,
+   "length": 0.29,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Where or When"
+  },
+  {
+   "artist": "Pee Wee Russell",
+   "complexity": 0.2,
+   "id": 691,
+   "kid_safe": 1,
+   "length": 0.69,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "If I Had You"
+  },
+  {
+   "artist": "Patti Austin",
+   "complexity": 0.2,
+   "id": 757,
+   "kid_safe": 1,
+   "length": 0.72,
+   "love": 0.4,
+   "mood": 1,
+   "title": "In and Out of Love"
+  },
+  {
+   "artist": "OneRepublic",
+   "complexity": 0.2,
+   "id": 634,
+   "kid_safe": 1,
+   "length": 0.84,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "I Lived"
+  },
+  {
+   "artist": "The Delfonics",
+   "complexity": 0.4,
+   "id": 97,
+   "kid_safe": 1,
+   "length": 0.83,
+   "love": 0.2,
+   "mood": 1,
+   "title": "La  La Means I Love You"
+  },
+  {
+   "artist": "Rockheart",
+   "complexity": 0.0,
+   "id": 872,
+   "kid_safe": 0.9,
+   "length": 0.08,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Love Song"
+  },
+  {
+   "artist": "First Aid Kit",
+   "complexity": 0.4,
+   "id": 850,
+   "kid_safe": 1,
+   "length": 0.53,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Waltz For Richard"
+  },
+  {
+   "artist": "DJ Smooth4Lyfe",
+   "complexity": 0.2,
+   "id": 322,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Believe"
+  },
+  {
+   "artist": "Atrocity",
+   "complexity": 0.0,
+   "id": 979,
+   "kid_safe": 1,
+   "length": 0.03,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Die Liebe"
+  },
+  {
+   "artist": "The Association",
+   "complexity": 0.4,
+   "id": 594,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.33,
+   "title": "Look at Me, Look at You"
+  },
+  {
+   "artist": "Ghost Town Blues Band",
+   "complexity": 0.2,
+   "id": 290,
+   "kid_safe": 1,
+   "length": 0.63,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Come Together"
+  },
+  {
+   "artist": "Steve Ellis",
+   "complexity": 0.2,
+   "id": 777,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Everlasting Love"
+  },
+  {
+   "artist": "Mission of Burma",
+   "complexity": 0.2,
+   "id": 427,
+   "kid_safe": 1,
+   "length": 0.57,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "Academy Fight Song"
+  },
+  {
+   "artist": "The Dimes",
+   "complexity": 0.2,
+   "id": 156,
+   "kid_safe": 1,
+   "length": 0.59,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Anyday"
+  },
+  {
+   "artist": "Buck Owens",
+   "complexity": 0.2,
+   "id": 124,
+   "kid_safe": 1,
+   "length": 0.59,
+   "love": 0.4,
+   "mood": 0.33,
+   "title": "Down on the Corner of Love"
+  },
+  {
+   "artist": "Marvin Gaye",
+   "complexity": 0.4,
+   "id": 658,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1,
+   "title": "After the Dance [Live]"
+  },
+  {
+   "artist": "Death Cab for Cutie",
+   "complexity": 0.2,
+   "id": 483,
+   "kid_safe": 1,
+   "length": 0.73,
+   "love": 0.4,
+   "mood": 0.5,
+   "title": "Stay Young, Go Dancing"
+  },
+  {
+   "artist": "Uli",
+   "complexity": 0.2,
+   "id": 907,
+   "kid_safe": 1,
+   "length": 0.72,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Simple"
+  },
+  {
+   "artist": "Billy Miles",
+   "complexity": 0.4,
+   "id": 531,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Sunshine"
+  },
+  {
+   "artist": "James Brown",
+   "complexity": 0.4,
+   "id": 679,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "I Don't Want Nobody to Give Me Nothing (Open Up the Door, I'll Get It M"
+  },
+  {
+   "artist": "Erykah Badu",
+   "complexity": 0.2,
+   "id": 20,
+   "kid_safe": 1,
+   "length": 0.59,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Drama"
+  },
+  {
+   "artist": "The Pointer Sisters",
+   "complexity": 0.2,
+   "id": 668,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Be There"
+  },
+  {
+   "artist": "Triumph",
+   "complexity": 1.0,
+   "id": 996,
+   "kid_safe": 1,
+   "length": 0.99,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "A  World of Fantasy"
+  },
+  {
+   "artist": "Marco Masini",
+   "complexity": 0.2,
+   "id": 878,
+   "kid_safe": 1,
+   "length": 0.71,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Raccontami di Te"
+  },
+  {
+   "artist": "Jordainares",
+   "complexity": 0.2,
+   "id": 176,
+   "kid_safe": 1,
+   "length": 0.32,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Kissin' Cousins (No. 2)"
+  },
+  {
+   "artist": "Jimmy Eat World",
+   "complexity": 0.2,
+   "id": 562,
+   "kid_safe": 1,
+   "length": 0.71,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "(Splash) Turn Twis"
+  },
+  {
+   "artist": "Bj\u00f6rk",
+   "complexity": 0.2,
+   "id": 756,
+   "kid_safe": 1,
+   "length": 0.34,
+   "love": 0.2,
+   "mood": 1,
+   "title": "I Can't Help loving That Man"
+  },
+  {
+   "artist": "Stanley Clarke",
+   "complexity": 0.2,
+   "id": 2,
+   "kid_safe": 1,
+   "length": 0.79,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Old Friends"
+  },
+  {
+   "artist": "The Kinks",
+   "complexity": 0.4,
+   "id": 444,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Lola"
+  },
+  {
+   "artist": "BMR4",
+   "complexity": 0.4,
+   "id": 245,
+   "kid_safe": 1,
+   "length": 0.65,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Fixing a Hole"
+  },
+  {
+   "artist": "Chuck Wagon Gang",
+   "complexity": 0.2,
+   "id": 875,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "A Beautiful Life"
+  },
+  {
+   "artist": "J. Stephen Howard",
+   "complexity": 0.0,
+   "id": 916,
+   "kid_safe": 1,
+   "length": 0.73,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Dreams"
+  },
+  {
+   "artist": "Rex Foster",
+   "complexity": 0.2,
+   "id": 426,
+   "kid_safe": 1,
+   "length": 0.62,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Song to Woody"
+  },
+  {
+   "artist": "Angelcorpse",
+   "complexity": 0.6,
+   "id": 481,
+   "kid_safe": 0.9,
+   "length": 0.51,
+   "love": 0.0,
+   "mood": 1,
+   "title": "The Scapegoa"
+  },
+  {
+   "artist": "Alestorm",
+   "complexity": 0.4,
+   "id": 610,
+   "kid_safe": 1,
+   "length": 0.51,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "The Ques"
+  },
+  {
+   "artist": "Magoo",
+   "complexity": 0.4,
+   "id": 285,
+   "kid_safe": 0.8,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.25,
+   "title": "Cop That Sh*"
+  },
+  {
+   "artist": "Peter Maffay",
+   "complexity": 0.8,
+   "id": 307,
+   "kid_safe": 1,
+   "length": 0.8,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Liebe Wird Verboten"
+  },
+  {
+   "artist": "Asia",
+   "complexity": 0.2,
+   "id": 69,
+   "kid_safe": 1,
+   "length": 0.42,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Don't Cry [Live]"
+  },
+  {
+   "artist": "Al Green",
+   "complexity": 0.2,
+   "id": 408,
+   "kid_safe": 1,
+   "length": 0.6,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Let's Stay Together"
+  },
+  {
+   "artist": "Breaking Benjamin",
+   "complexity": 0.2,
+   "id": 831,
+   "kid_safe": 1,
+   "length": 0.69,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Breakdown"
+  },
+  {
+   "artist": "Reel Big Fish",
+   "complexity": 0.2,
+   "id": 424,
+   "kid_safe": 1,
+   "length": 0.8,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "We Care"
+  },
+  {
+   "artist": "Claude Nougaro",
+   "complexity": 0.4,
+   "id": 714,
+   "kid_safe": 1,
+   "length": 0.78,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Toulouse"
+  },
+  {
+   "artist": "Volcano Choir",
+   "complexity": 0.4,
+   "id": 604,
+   "kid_safe": 1,
+   "length": 0.64,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Byegone"
+  },
+  {
+   "artist": "Small Faces",
+   "complexity": 0.2,
+   "id": 113,
+   "kid_safe": 1,
+   "length": 0.79,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Tin Soldier"
+  },
+  {
+   "artist": "Praga Khan",
+   "complexity": 0.6,
+   "id": 353,
+   "kid_safe": 1,
+   "length": 0.37,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Breakfast in Vegas"
+  },
+  {
+   "artist": "David Lee Roth",
+   "complexity": 0.2,
+   "id": 115,
+   "kid_safe": 1,
+   "length": 0.36,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Coconut Grove"
+  },
+  {
+   "artist": "John Williamson",
+   "complexity": 0.2,
+   "id": 440,
+   "kid_safe": 1,
+   "length": 0.32,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Dingo"
+  },
+  {
+   "artist": "The Crash",
+   "complexity": 0.2,
+   "id": 14,
+   "kid_safe": 0.9,
+   "length": 0.63,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Still Alive"
+  },
+  {
+   "artist": "Ted Taylor",
+   "complexity": 0.2,
+   "id": 503,
+   "kid_safe": 1,
+   "length": 0.76,
+   "love": 0.4,
+   "mood": 0.5,
+   "title": "It's Too Late"
+  },
+  {
+   "artist": "Duke Ellington",
+   "complexity": 0.2,
+   "id": 664,
+   "kid_safe": 1,
+   "length": 0.56,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Black Butterfly"
+  },
+  {
+   "artist": "Marley's Ghost",
+   "complexity": 0.2,
+   "id": 510,
+   "kid_safe": 1,
+   "length": 0.86,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Leopard Skin Pillbox Ha"
+  },
+  {
+   "artist": "Buy This Song",
+   "complexity": 0.2,
+   "id": 730,
+   "kid_safe": 1,
+   "length": 0.65,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Sophisticated Lady"
+  },
+  {
+   "artist": "Big Daddy Kane",
+   "complexity": 1.0,
+   "id": 417,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "It's Hard Being The Kane"
+  },
+  {
+   "artist": "Richie Havens",
+   "complexity": 0.4,
+   "id": 366,
+   "kid_safe": 1,
+   "length": 0.65,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "What's Going On"
+  },
+  {
+   "artist": "The Velvet Underground",
+   "complexity": 0.2,
+   "id": 958,
+   "kid_safe": 1,
+   "length": 0.63,
+   "love": 0.2,
+   "mood": 1,
+   "title": "I'm Waiting for the Man"
+  },
+  {
+   "artist": "Art Blakey",
+   "complexity": 0.0,
+   "id": 131,
+   "kid_safe": 1,
+   "length": 0.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Night In Tunisia"
+  },
+  {
+   "artist": "Afta 1",
+   "complexity": 0.2,
+   "id": 812,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Believe"
+  },
+  {
+   "artist": "Vach\u00e9, Allan",
+   "complexity": 0.0,
+   "id": 703,
+   "kid_safe": 1,
+   "length": 0.16,
+   "love": 0.6,
+   "mood": 1,
+   "title": "Just Friends"
+  },
+  {
+   "artist": "Sonny Boy Williamson II",
+   "complexity": 0.2,
+   "id": 445,
+   "kid_safe": 1,
+   "length": 0.39,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Keep It to Yourself"
+  },
+  {
+   "artist": "Clarence Williams",
+   "complexity": 0.2,
+   "id": 589,
+   "kid_safe": 1,
+   "length": 0.37,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Organ Grinder Blues"
+  },
+  {
+   "artist": "Jean Louis Aubert",
+   "complexity": 0.6,
+   "id": 669,
+   "kid_safe": 1,
+   "length": 0.63,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Moments"
+  },
+  {
+   "artist": "Conway Twitty",
+   "complexity": 0.2,
+   "id": 718,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.6,
+   "mood": 1.0,
+   "title": "Red Neckin' Love Makin' Nigh"
+  },
+  {
+   "artist": "Django Reinhardt",
+   "complexity": 0.4,
+   "id": 894,
+   "kid_safe": 1,
+   "length": 0.35,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Fine and Dandy"
+  },
+  {
+   "artist": "Negative Approach",
+   "complexity": 0.2,
+   "id": 49,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Nothing"
+  },
+  {
+   "artist": "An\u00edbal Troilo",
+   "complexity": 0.4,
+   "id": 465,
+   "kid_safe": 1,
+   "length": 0.59,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Sur"
+  },
+  {
+   "artist": "John Lee Hooker",
+   "complexity": 0.2,
+   "id": 301,
+   "kid_safe": 1,
+   "length": 0.4,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Boom Boom"
+  },
+  {
+   "artist": "Johnny Rivers",
+   "complexity": 0.2,
+   "id": 931,
+   "kid_safe": 1,
+   "length": 0.67,
+   "love": 0.6,
+   "mood": 0.67,
+   "title": "Poor Side of Town"
+  },
+  {
+   "artist": "Hot Water Music",
+   "complexity": 0.2,
+   "id": 482,
+   "kid_safe": 0.9,
+   "length": 0.31,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Jack of All Trades"
+  },
+  {
+   "artist": "Dr. Alban",
+   "complexity": 0.2,
+   "id": 263,
+   "kid_safe": 1,
+   "length": 0.69,
+   "love": 0.0,
+   "mood": 1,
+   "title": "Sing Hallelujah! [Paradise Dub]"
+  },
+  {
+   "artist": "The Killers",
+   "complexity": 0.2,
+   "id": 607,
+   "kid_safe": 1,
+   "length": 0.37,
+   "love": 0.0,
+   "mood": 1,
+   "title": "Exitlude"
+  },
+  {
+   "artist": "John Mayer",
+   "complexity": 0.6,
+   "id": 227,
+   "kid_safe": 1,
+   "length": 0.81,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Edge of Desire"
+  },
+  {
+   "artist": "Black Box",
+   "complexity": 0.4,
+   "id": 339,
+   "kid_safe": 1,
+   "length": 0.88,
+   "love": 0.4,
+   "mood": 0.5,
+   "title": "Everybody Everybody"
+  },
+  {
+   "artist": "Milton Nascimento",
+   "complexity": 0.4,
+   "id": 787,
+   "kid_safe": 1,
+   "length": 0.41,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Filho"
+  },
+  {
+   "artist": "The Oak Ridge Boys",
+   "complexity": 0.4,
+   "id": 929,
+   "kid_safe": 1,
+   "length": 0.48,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "It Takes a Little Rain (To Make Love Grow)"
+  },
+  {
+   "artist": "Seabear",
+   "complexity": 1.0,
+   "id": 746,
+   "kid_safe": 1,
+   "length": 0.45,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Arms"
+  },
+  {
+   "artist": "Toots & the Maytals",
+   "complexity": 0.4,
+   "id": 911,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Bla Bla Bla"
+  },
+  {
+   "artist": "Dakota Moon",
+   "complexity": 0.2,
+   "id": 556,
+   "kid_safe": 1,
+   "length": 0.57,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "My Song"
+  },
+  {
+   "artist": "Jenny Evans",
+   "complexity": 0.2,
+   "id": 413,
+   "kid_safe": 1,
+   "length": 0.39,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Old Devil Moon [From Finian's Rainbow]"
+  },
+  {
+   "artist": "Slam Stewart",
+   "complexity": 0.4,
+   "id": 197,
+   "kid_safe": 1,
+   "length": 0.31,
+   "love": 0.2,
+   "mood": 1,
+   "title": "I'm in the Mood for Love"
+  },
+  {
+   "artist": "ABBA",
+   "complexity": 0.4,
+   "id": 488,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Mamma Mia"
+  },
+  {
+   "artist": "Faces",
+   "complexity": 0.2,
+   "id": 980,
+   "kid_safe": 1,
+   "length": 0.55,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Wicked Messenger"
+  },
+  {
+   "artist": "Van Halen",
+   "complexity": 0.4,
+   "id": 218,
+   "kid_safe": 1,
+   "length": 0.57,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Eagles Fly"
+  },
+  {
+   "artist": "Fela Kuti & Africa 70",
+   "complexity": 0.2,
+   "id": 396,
+   "kid_safe": 1,
+   "length": 0.98,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Lady"
+  },
+  {
+   "artist": "Rosemary Clooney",
+   "complexity": 0.0,
+   "id": 331,
+   "kid_safe": 1,
+   "length": 0.18,
+   "love": 0.2,
+   "mood": 1,
+   "title": "How Am I to Know?"
+  },
+  {
+   "artist": "Art Blakey & the Jazz Messengers",
+   "complexity": 0.2,
+   "id": 116,
+   "kid_safe": 1,
+   "length": 0.45,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "It's You or No One"
+  },
+  {
+   "artist": "Elefant",
+   "complexity": 0.4,
+   "id": 897,
+   "kid_safe": 1,
+   "length": 0.58,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Don't Wai"
+  },
+  {
+   "artist": "NOFX",
+   "complexity": 0.2,
+   "id": 598,
+   "kid_safe": 1,
+   "length": 0.54,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Lori Meyers"
+  },
+  {
+   "artist": "Vanessa Paradis",
+   "complexity": 0.2,
+   "id": 833,
+   "kid_safe": 1,
+   "length": 0.43,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Divine Idylle"
+  },
+  {
+   "artist": "Alejandro Sanz",
+   "complexity": 0.4,
+   "id": 372,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Looking for Paradise"
+  },
+  {
+   "artist": "Napalm Death",
+   "complexity": 0.4,
+   "id": 542,
+   "kid_safe": 1,
+   "length": 0.55,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "Diatribes"
+  },
+  {
+   "artist": "Migos",
+   "complexity": 0.4,
+   "id": 804,
+   "kid_safe": 0.4,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Migos Origin"
+  },
+  {
+   "artist": "Spice Girls",
+   "complexity": 0.2,
+   "id": 4,
+   "kid_safe": 1,
+   "length": 0.71,
+   "love": 0.0,
+   "mood": 1,
+   "title": "Sleigh Ride"
+  },
+  {
+   "artist": "Jethro Tull",
+   "complexity": 0.4,
+   "id": 561,
+   "kid_safe": 0.9,
+   "length": 0.63,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "No Lullaby"
+  },
+  {
+   "artist": "Ibrahim Tatlises",
+   "complexity": 0.0,
+   "id": 262,
+   "kid_safe": 1,
+   "length": 0.37,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Vur Gitsin Beni"
+  },
+  {
+   "artist": "Daniel Ash",
+   "complexity": 0.4,
+   "id": 597,
+   "kid_safe": 1,
+   "length": 0.94,
+   "love": 0.6,
+   "mood": 1.0,
+   "title": "Fever"
+  },
+  {
+   "artist": "Les Paul",
+   "complexity": 0.4,
+   "id": 130,
+   "kid_safe": 1,
+   "length": 0.39,
+   "love": 0.4,
+   "mood": 1,
+   "title": "How High the Moon"
+  },
+  {
+   "artist": "I Set My Friends on Fire",
+   "complexity": 0.2,
+   "id": 683,
+   "kid_safe": 0.9,
+   "length": 0.38,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Brief Interviews with Hideous Men"
+  },
+  {
+   "artist": "Reba McEntire",
+   "complexity": 0.4,
+   "id": 762,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Santa Claus Is Coming to Town"
+  },
+  {
+   "artist": "The Lemonheads",
+   "complexity": 0.2,
+   "id": 526,
+   "kid_safe": 0.9,
+   "length": 0.59,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Alison's Starting to Happen"
+  },
+  {
+   "artist": "Johnny Cash",
+   "complexity": 0.2,
+   "id": 735,
+   "kid_safe": 1,
+   "length": 0.61,
+   "love": 0.4,
+   "mood": 1,
+   "title": "I Walk the Line"
+  },
+  {
+   "artist": "Demi Lovato",
+   "complexity": 0.2,
+   "id": 859,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Warrior"
+  },
+  {
+   "artist": "The Rolling Stones",
+   "complexity": 0.2,
+   "id": 27,
+   "kid_safe": 1,
+   "length": 0.48,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Confessin' the Blues"
+  },
+  {
+   "artist": "Fats Waller",
+   "complexity": 0.2,
+   "id": 265,
+   "kid_safe": 1,
+   "length": 0.36,
+   "love": 0.0,
+   "mood": 1,
+   "title": "I'm Crazy 'Bout My Baby"
+  },
+  {
+   "artist": "Esperanza Spalding",
+   "complexity": 0.4,
+   "id": 998,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Funk the Fear"
+  },
+  {
+   "artist": "Santo & Johnny",
+   "complexity": 0.2,
+   "id": 108,
+   "kid_safe": 1,
+   "length": 0.63,
+   "love": 0.6,
+   "mood": 1,
+   "title": "Deep Purple"
+  },
+  {
+   "artist": "The Supremes",
+   "complexity": 0.4,
+   "id": 157,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.6,
+   "mood": 1.0,
+   "title": "I'm Gonna Let My Heart Do the Walking"
+  },
+  {
+   "artist": "Toquinho",
+   "complexity": 0.2,
+   "id": 951,
+   "kid_safe": 1,
+   "length": 0.35,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Samba Em Prel\u00fadio"
+  },
+  {
+   "artist": "Grandmaster Flash & the Furious Five",
+   "complexity": 0.6,
+   "id": 72,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "White Lines (Don't Do It)"
+  },
+  {
+   "artist": "Chet Atkins",
+   "complexity": 0.0,
+   "id": 452,
+   "kid_safe": 1,
+   "length": 0.21,
+   "love": 0.6,
+   "mood": 1,
+   "title": "Out of Nowhere"
+  },
+  {
+   "artist": "Doris Day",
+   "complexity": 0.2,
+   "id": 732,
+   "kid_safe": 1,
+   "length": 0.34,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "With a Song in My Hear"
+  },
+  {
+   "artist": "Nightwish",
+   "complexity": 0.2,
+   "id": 576,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Higher Than Hope"
+  },
+  {
+   "artist": "Chuck Jackson",
+   "complexity": 0.2,
+   "id": 652,
+   "kid_safe": 1,
+   "length": 0.56,
+   "love": 0.6,
+   "mood": 1.0,
+   "title": "I Don't Want to Cry"
+  },
+  {
+   "artist": "Pitchshifter",
+   "complexity": 0.2,
+   "id": 686,
+   "kid_safe": 1,
+   "length": 0.47,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Phoenixology"
+  },
+  {
+   "artist": "Patsy Cline",
+   "complexity": 0.2,
+   "id": 821,
+   "kid_safe": 1,
+   "length": 0.62,
+   "love": 0.4,
+   "mood": 1,
+   "title": "I'm Moving Along"
+  },
+  {
+   "artist": "Soul Survivors",
+   "complexity": 0.2,
+   "id": 891,
+   "kid_safe": 1,
+   "length": 0.7,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Expressway to Your Hear"
+  },
+  {
+   "artist": "Raffi",
+   "complexity": 0.2,
+   "id": 721,
+   "kid_safe": 1,
+   "length": 0.51,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Rise and Shine"
+  },
+  {
+   "artist": "Ian Whitcomb & His Dance Band",
+   "complexity": 0.2,
+   "id": 128,
+   "kid_safe": 1,
+   "length": 0.52,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Riptide"
+  },
+  {
+   "artist": "Al Stewart",
+   "complexity": 0.8,
+   "id": 383,
+   "kid_safe": 1,
+   "length": 0.79,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Year of the Ca"
+  },
+  {
+   "artist": "Erasure",
+   "complexity": 0.4,
+   "id": 222,
+   "kid_safe": 1,
+   "length": 0.81,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "All This Time Still Falling out of Love [Album Version]"
+  },
+  {
+   "artist": "Snap",
+   "complexity": 0.4,
+   "id": 142,
+   "kid_safe": 1,
+   "length": 0.77,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Snap"
+  },
+  {
+   "artist": "Eddy Raven",
+   "complexity": 0.4,
+   "id": 643,
+   "kid_safe": 1,
+   "length": 0.97,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Shine Shine Shine"
+  },
+  {
+   "artist": "Retros",
+   "complexity": 0.2,
+   "id": 119,
+   "kid_safe": 1,
+   "length": 0.5,
+   "love": 0.2,
+   "mood": 0.33,
+   "title": "Bad to Me"
+  },
+  {
+   "artist": "Todd and Susan Green",
+   "complexity": 0.2,
+   "id": 355,
+   "kid_safe": 1,
+   "length": 0.56,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Were It Not for Grace"
+  },
+  {
+   "artist": "Joseph Arthur",
+   "complexity": 0.2,
+   "id": 457,
+   "kid_safe": 0.9,
+   "length": 0.73,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Space Needle"
+  },
+  {
+   "artist": "Bobby Solo",
+   "complexity": 0.0,
+   "id": 359,
+   "kid_safe": 1,
+   "length": 0.29,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Una Lacrima Sul Viso"
+  },
+  {
+   "artist": "Burl Ives",
+   "complexity": 0.2,
+   "id": 470,
+   "kid_safe": 1,
+   "length": 0.68,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Rudolph, the Red Nosed Reindeer"
+  },
+  {
+   "artist": "Sigur R\u00f3s",
+   "complexity": 0.2,
+   "id": 653,
+   "kid_safe": 1,
+   "length": 0.36,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Svefn G Englar"
+  },
+  {
+   "artist": "Jason Isbell and the 400 Unit",
+   "complexity": 0.2,
+   "id": 430,
+   "kid_safe": 1,
+   "length": 0.91,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Dress Blues"
+  },
+  {
+   "artist": "D:Ream",
+   "complexity": 0.6,
+   "id": 760,
+   "kid_safe": 1,
+   "length": 0.98,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Things Can Only Get Better"
+  },
+  {
+   "artist": "Belo",
+   "complexity": 0.2,
+   "id": 536,
+   "kid_safe": 1,
+   "length": 0.37,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Amante, Amor, Amiga"
+  },
+  {
+   "artist": "Johnny Rivers",
+   "complexity": 0.2,
+   "id": 973,
+   "kid_safe": 1,
+   "length": 0.29,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Days of Wine and Roses"
+  },
+  {
+   "artist": "Frank Stallone",
+   "complexity": 0.4,
+   "id": 24,
+   "kid_safe": 1,
+   "length": 0.39,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Far from Over"
+  },
+  {
+   "artist": "Billy Taylor",
+   "complexity": 0.2,
+   "id": 957,
+   "kid_safe": 1,
+   "length": 0.32,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Blue Moon"
+  },
+  {
+   "artist": "Javier Sol\u00eds",
+   "complexity": 0.2,
+   "id": 651,
+   "kid_safe": 1,
+   "length": 0.62,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "En Mi Viejo San Juan"
+  },
+  {
+   "artist": "Unknown Mortal Orchestra",
+   "complexity": 0.2,
+   "id": 843,
+   "kid_safe": 1,
+   "length": 0.47,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Faded in the Morning"
+  },
+  {
+   "artist": "Perry Como",
+   "complexity": 0.2,
+   "id": 34,
+   "kid_safe": 1,
+   "length": 0.56,
+   "love": 0.2,
+   "mood": 1,
+   "title": "It's Impossible"
+  },
+  {
+   "artist": "BoySetsFire",
+   "complexity": 0.2,
+   "id": 134,
+   "kid_safe": 1,
+   "length": 0.34,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Pure"
+  },
+  {
+   "artist": "Luis\u00e3o",
+   "complexity": 0.2,
+   "id": 348,
+   "kid_safe": 1,
+   "length": 0.69,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Romaria"
+  },
+  {
+   "artist": "Jerry Lee Lewis",
+   "complexity": 0.2,
+   "id": 636,
+   "kid_safe": 1,
+   "length": 0.7,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Carry Me Back to Old Virginia"
+  },
+  {
+   "artist": "Cascada",
+   "complexity": 0.6,
+   "id": 780,
+   "kid_safe": 0.9,
+   "length": 1.0,
+   "love": 0.6,
+   "mood": 1.0,
+   "title": "Independence Day"
+  },
+  {
+   "artist": "Boxcar Willie",
+   "complexity": 0.4,
+   "id": 884,
+   "kid_safe": 1,
+   "length": 0.43,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Boxcar's My Home"
+  },
+  {
+   "artist": "Bert Kaempfert",
+   "complexity": 0.4,
+   "id": 940,
+   "kid_safe": 1,
+   "length": 0.74,
+   "love": 0.6,
+   "mood": 1,
+   "title": "Afrikaan Bea"
+  },
+  {
+   "artist": "The Mary Jane Girls",
+   "complexity": 0.2,
+   "id": 742,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1,
+   "title": "All Night Long"
+  },
+  {
+   "artist": "Husky",
+   "complexity": 0.2,
+   "id": 615,
+   "kid_safe": 1,
+   "length": 0.91,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "I'm Not Coming Back"
+  },
+  {
+   "artist": "Rollins Band",
+   "complexity": 0.0,
+   "id": 71,
+   "kid_safe": 0.9,
+   "length": 0.58,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Do I"
+  },
+  {
+   "artist": "Lale Andersen",
+   "complexity": 0.2,
+   "id": 741,
+   "kid_safe": 1,
+   "length": 0.81,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Lili Marleen"
+  },
+  {
+   "artist": "Beth Orton",
+   "complexity": 0.2,
+   "id": 184,
+   "kid_safe": 1,
+   "length": 0.45,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Best Bi"
+  },
+  {
+   "artist": "Donnie McClurkin",
+   "complexity": 0.4,
+   "id": 889,
+   "kid_safe": 1,
+   "length": 0.46,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Just for Me"
+  },
+  {
+   "artist": "Simple Minds",
+   "complexity": 0.2,
+   "id": 59,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Ghostdancing"
+  },
+  {
+   "artist": "Kyle Vincent",
+   "complexity": 0.2,
+   "id": 80,
+   "kid_safe": 1,
+   "length": 0.76,
+   "love": 0.4,
+   "mood": 0.5,
+   "title": "It's Too Late"
+  },
+  {
+   "artist": "Keith Caputo",
+   "complexity": 0.2,
+   "id": 298,
+   "kid_safe": 1,
+   "length": 0.33,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Just Be"
+  },
+  {
+   "artist": "Chris Hillman",
+   "complexity": 0.2,
+   "id": 187,
+   "kid_safe": 1,
+   "length": 0.46,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "So You Want to Be a Rock 'n' Roll Star"
+  },
+  {
+   "artist": "Scott Walker",
+   "complexity": 0.4,
+   "id": 765,
+   "kid_safe": 0.9,
+   "length": 0.95,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Psoriatic"
+  },
+  {
+   "artist": "The Troggs",
+   "complexity": 0.2,
+   "id": 63,
+   "kid_safe": 1,
+   "length": 0.38,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Wild Thing"
+  },
+  {
+   "artist": "Am\u00e1lia Rodrigues",
+   "complexity": 0.2,
+   "id": 256,
+   "kid_safe": 1,
+   "length": 0.32,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Ai Mouraria"
+  },
+  {
+   "artist": "Buy This Song",
+   "complexity": 0.2,
+   "id": 662,
+   "kid_safe": 1,
+   "length": 0.43,
+   "love": 0.4,
+   "mood": 1,
+   "title": "I'm Through with Love"
+  },
+  {
+   "artist": "Jerry Vale",
+   "complexity": 0.2,
+   "id": 961,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "The Song Is You"
+  },
+  {
+   "artist": "Them",
+   "complexity": 0.4,
+   "id": 775,
+   "kid_safe": 1,
+   "length": 0.54,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "You Just Can't Win"
+  },
+  {
+   "artist": "Buy This Song",
+   "complexity": 0.2,
+   "id": 809,
+   "kid_safe": 1,
+   "length": 0.45,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "I Wonder"
+  },
+  {
+   "artist": "Terrorvision",
+   "complexity": 0.6,
+   "id": 720,
+   "kid_safe": 1,
+   "length": 0.54,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Tequila (Mint Royale Shot)"
+  },
+  {
+   "artist": "Paula Abdul",
+   "complexity": 0.4,
+   "id": 347,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1,
+   "title": "The Way That You Love Me"
+  },
+  {
+   "artist": "Trick Pony",
+   "complexity": 0.2,
+   "id": 318,
+   "kid_safe": 1,
+   "length": 0.91,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Pour Me"
+  },
+  {
+   "artist": "John Vanderslice",
+   "complexity": 0.4,
+   "id": 618,
+   "kid_safe": 1,
+   "length": 0.42,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Cool Purple Mis"
+  },
+  {
+   "artist": "The Who",
+   "complexity": 0.2,
+   "id": 492,
+   "kid_safe": 1,
+   "length": 0.63,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Summertime Blues"
+  },
+  {
+   "artist": "Kristi Guillory",
+   "complexity": 0.2,
+   "id": 469,
+   "kid_safe": 1,
+   "length": 0.4,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Lucille"
+  },
+  {
+   "artist": "Giacomo Gates",
+   "complexity": 0.2,
+   "id": 362,
+   "kid_safe": 1,
+   "length": 0.69,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "It's the Talk of the Town"
+  },
+  {
+   "artist": "John Fahey",
+   "complexity": 0.2,
+   "id": 247,
+   "kid_safe": 1,
+   "length": 0.36,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Blueberry Hill"
+  },
+  {
+   "artist": "Miriam Makeba",
+   "complexity": 0.2,
+   "id": 74,
+   "kid_safe": 1,
+   "length": 0.35,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Pata Pata"
+  },
+  {
+   "artist": "Jimmy Beasley",
+   "complexity": 0.4,
+   "id": 264,
+   "kid_safe": 1,
+   "length": 0.37,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Coquette"
+  },
+  {
+   "artist": "Boris Gardiner",
+   "complexity": 0.4,
+   "id": 62,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1,
+   "title": "I Want To Wake Up With You"
+  },
+  {
+   "artist": "Slowdive",
+   "complexity": 0.2,
+   "id": 722,
+   "kid_safe": 1,
+   "length": 0.36,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Rutti"
+  },
+  {
+   "artist": "Randy",
+   "complexity": 0.4,
+   "id": 533,
+   "kid_safe": 1,
+   "length": 0.66,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Chicken Shack"
+  },
+  {
+   "artist": "John Renbourn",
+   "complexity": 0.4,
+   "id": 814,
+   "kid_safe": 1,
+   "length": 0.53,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Lord Franklin"
+  },
+  {
+   "artist": "Tanya Tucker",
+   "complexity": 0.2,
+   "id": 830,
+   "kid_safe": 1,
+   "length": 0.87,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "It's a Little Too Late"
+  },
+  {
+   "artist": "One Way",
+   "complexity": 0.2,
+   "id": 811,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Who's Foolin' Who"
+  },
+  {
+   "artist": "Cream",
+   "complexity": 0.2,
+   "id": 182,
+   "kid_safe": 1,
+   "length": 0.45,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Born Under a Bad Sign"
+  },
+  {
+   "artist": "Alestorm",
+   "complexity": 0.4,
+   "id": 253,
+   "kid_safe": 1,
+   "length": 0.51,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "The Ques"
+  },
+  {
+   "artist": "The Cataracs",
+   "complexity": 0.2,
+   "id": 487,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "Top of the World"
+  },
+  {
+   "artist": "Young Gunz",
+   "complexity": 0.6,
+   "id": 25,
+   "kid_safe": 0.7,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Set It Off"
+  },
+  {
+   "artist": "Jos\u00e9 Alfredo Jim\u00e9nez",
+   "complexity": 0.2,
+   "id": 893,
+   "kid_safe": 1,
+   "length": 0.45,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Viejos Amigos"
+  },
+  {
+   "artist": "Roger Miller",
+   "complexity": 0.2,
+   "id": 631,
+   "kid_safe": 1,
+   "length": 0.4,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Don't We All Have the Righ"
+  },
+  {
+   "artist": "Ladytron",
+   "complexity": 0.2,
+   "id": 77,
+   "kid_safe": 1,
+   "length": 0.49,
+   "love": 0.0,
+   "mood": 1,
+   "title": "90 Degrees"
+  },
+  {
+   "artist": "Wedlock",
+   "complexity": 0.6,
+   "id": 489,
+   "kid_safe": 1,
+   "length": 0.72,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Discopharma [Original 7\" Mix]"
+  },
+  {
+   "artist": "Jimmy Dorsey & His Orchestra",
+   "complexity": 0.4,
+   "id": 374,
+   "kid_safe": 1,
+   "length": 0.75,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Begin the Beguine"
+  },
+  {
+   "artist": "Depeche Mode",
+   "complexity": 0.2,
+   "id": 954,
+   "kid_safe": 1,
+   "length": 0.59,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Pleasure, Little Treasure [DVD][*][Mix]"
+  },
+  {
+   "artist": "Lady Saw",
+   "complexity": 0.2,
+   "id": 45,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Been So Long"
+  },
+  {
+   "artist": "Jerry Lee Lewis",
+   "complexity": 0.2,
+   "id": 620,
+   "kid_safe": 1,
+   "length": 0.21,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "When the Saints Go Marchin' In"
+  },
+  {
+   "artist": "Sonic Blues",
+   "complexity": 0.0,
+   "id": 196,
+   "kid_safe": 1,
+   "length": 0.46,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Shake Your Money Maker"
+  },
+  {
+   "artist": "Blue Mink",
+   "complexity": 0.4,
+   "id": 311,
+   "kid_safe": 1,
+   "length": 0.73,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "Good Morning Freedom"
+  },
+  {
+   "artist": "Dionne Warwick",
+   "complexity": 0.2,
+   "id": 571,
+   "kid_safe": 1,
+   "length": 0.64,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "That's What Friends Are For"
+  },
+  {
+   "artist": "Anne Murray",
+   "complexity": 0.2,
+   "id": 246,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.2,
+   "mood": 1,
+   "title": "O Little Town of Bethlehem"
+  },
+  {
+   "artist": "The Waterboys",
+   "complexity": 0.4,
+   "id": 75,
+   "kid_safe": 1,
+   "length": 0.95,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "When Will We Be Married [2013 Remaster]"
+  },
+  {
+   "artist": "Alf",
+   "complexity": 0.2,
+   "id": 17,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "The Party's Over"
+  },
+  {
+   "artist": "Stephanie",
+   "complexity": 0.2,
+   "id": 279,
+   "kid_safe": 1,
+   "length": 0.6,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "It Had to Be You"
+  },
+  {
+   "artist": "Toquinho e Vinicius",
+   "complexity": 0.2,
+   "id": 673,
+   "kid_safe": 1,
+   "length": 0.57,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "A  Tonga Da Mironga Do Kabulet\u00ea"
+  },
+  {
+   "artist": "T\u00e9l\u00e9phone",
+   "complexity": 0.2,
+   "id": 761,
+   "kid_safe": 1,
+   "length": 0.84,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "La Bombe Humaine"
+  },
+  {
+   "artist": "Dave Costa",
+   "complexity": 0.2,
+   "id": 655,
+   "kid_safe": 1,
+   "length": 0.41,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Serenade in Blue"
+  },
+  {
+   "artist": "Frank Sinatra",
+   "complexity": 0.2,
+   "id": 773,
+   "kid_safe": 1,
+   "length": 0.34,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Sentimental Baby"
+  },
+  {
+   "artist": "Topi Sorsakoski",
+   "complexity": 0.2,
+   "id": 600,
+   "kid_safe": 1,
+   "length": 0.49,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Mona Lisa"
+  },
+  {
+   "artist": "Doctor Wu Rock & Soul Revue",
+   "complexity": 0.2,
+   "id": 30,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Can't Turn You Loose"
+  },
+  {
+   "artist": "Frank Sinatra",
+   "complexity": 0.2,
+   "id": 685,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "A Fine Romance"
+  },
+  {
+   "artist": "Suga Free",
+   "complexity": 1.0,
+   "id": 854,
+   "kid_safe": 0.8,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Secrets"
+  },
+  {
+   "artist": "H.I.M.",
+   "complexity": 0.4,
+   "id": 927,
+   "kid_safe": 1,
+   "length": 0.84,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Kiss the Void"
+  },
+  {
+   "artist": "Buy This Song",
+   "complexity": 0.0,
+   "id": 150,
+   "kid_safe": 1,
+   "length": 0.09,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Overture"
+  },
+  {
+   "artist": "Matthew West",
+   "complexity": 0.2,
+   "id": 672,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "Day One [Acoustic]"
+  },
+  {
+   "artist": "The Veronicas",
+   "complexity": 0.4,
+   "id": 520,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "4ever"
+  },
+  {
+   "artist": "Scorpions",
+   "complexity": 0.2,
+   "id": 92,
+   "kid_safe": 1,
+   "length": 0.58,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Robot Man"
+  },
+  {
+   "artist": "Neil Bradley Owen",
+   "complexity": 0.4,
+   "id": 566,
+   "kid_safe": 1,
+   "length": 0.72,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "For What It's Worth"
+  },
+  {
+   "artist": "Scott Walker",
+   "complexity": 0.4,
+   "id": 243,
+   "kid_safe": 1,
+   "length": 0.52,
+   "love": 0.2,
+   "mood": 1,
+   "title": "All I Do Is Dream of You"
+  },
+  {
+   "artist": "Brian Piper",
+   "complexity": 0.2,
+   "id": 694,
+   "kid_safe": 1,
+   "length": 0.38,
+   "love": 0.4,
+   "mood": 1,
+   "title": "There Is No Greater Love"
+  },
+  {
+   "artist": "The Family Dogg",
+   "complexity": 0.8,
+   "id": 123,
+   "kid_safe": 1,
+   "length": 0.88,
+   "love": 0.0,
+   "mood": 0.25,
+   "title": "A Way of Life"
+  },
+  {
+   "artist": "Daft Punk",
+   "complexity": 0.2,
+   "id": 151,
+   "kid_safe": 1,
+   "length": 0.64,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Human After All [\"Guy Man After All\"   Justice Remix]"
+  },
+  {
+   "artist": "Joe Walsh",
+   "complexity": 0.4,
+   "id": 478,
+   "kid_safe": 1,
+   "length": 0.52,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Meadows"
+  },
+  {
+   "artist": "Das EFX",
+   "complexity": 1.0,
+   "id": 904,
+   "kid_safe": 0.7,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 0.0,
+   "title": "Baknaffek"
+  },
+  {
+   "artist": "Lil Wayne",
+   "complexity": 1.0,
+   "id": 500,
+   "kid_safe": 0.7,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Lose I"
+  },
+  {
+   "artist": "SHeDAISY",
+   "complexity": 0.4,
+   "id": 554,
+   "kid_safe": 1,
+   "length": 0.6,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Whatever It Takes"
+  },
+  {
+   "artist": "E 40",
+   "complexity": 1.0,
+   "id": 271,
+   "kid_safe": 0.09999999999999998,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.25,
+   "title": "Neva Broke"
+  },
+  {
+   "artist": "Percy Faith & His Orchestra",
+   "complexity": 0.4,
+   "id": 223,
+   "kid_safe": 1,
+   "length": 0.38,
+   "love": 0.6,
+   "mood": 1,
+   "title": "Theme from \"A Summer Place\""
+  },
+  {
+   "artist": "Lighter Shade of Brown",
+   "complexity": 0.4,
+   "id": 392,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Whatever You Wan"
+  },
+  {
+   "artist": "Dionne Warwick",
+   "complexity": 0.2,
+   "id": 970,
+   "kid_safe": 1,
+   "length": 0.78,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Don't Make Me Over"
+  },
+  {
+   "artist": "Jaheim",
+   "complexity": 0.2,
+   "id": 188,
+   "kid_safe": 1,
+   "length": 0.58,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Forever"
+  },
+  {
+   "artist": "Matteo Brancaleoni",
+   "complexity": 0.8,
+   "id": 573,
+   "kid_safe": 1,
+   "length": 0.92,
+   "love": 0.2,
+   "mood": 0.33,
+   "title": "Copacabana"
+  },
+  {
+   "artist": "Foghat",
+   "complexity": 0.2,
+   "id": 10,
+   "kid_safe": 1,
+   "length": 0.64,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "I Just Want To Make Love To You"
+  },
+  {
+   "artist": "Charles Aznavour",
+   "complexity": 0.4,
+   "id": 798,
+   "kid_safe": 1,
+   "length": 0.53,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Il Faut Savoir"
+  },
+  {
+   "artist": "Nina & Mike",
+   "complexity": 0.2,
+   "id": 824,
+   "kid_safe": 1,
+   "length": 0.27,
+   "love": 0.2,
+   "mood": 1,
+   "title": "True Love"
+  },
+  {
+   "artist": "Red Lorry Yellow Lorry",
+   "complexity": 0.0,
+   "id": 458,
+   "kid_safe": 1,
+   "length": 0.24,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "This Today"
+  },
+  {
+   "artist": "Widespread Panic",
+   "complexity": 0.6,
+   "id": 621,
+   "kid_safe": 1,
+   "length": 0.81,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Chilly Water (Reprise)"
+  },
+  {
+   "artist": "Mika",
+   "complexity": 0.2,
+   "id": 567,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Good Guys [Night Time Mix] [*]"
+  },
+  {
+   "artist": "Larry Gillespie",
+   "complexity": 0.2,
+   "id": 83,
+   "kid_safe": 1,
+   "length": 0.27,
+   "love": 0.4,
+   "mood": 1,
+   "title": "You'd Be So Nice to Come Home To"
+  },
+  {
+   "artist": "Gram Parsons",
+   "complexity": 0.2,
+   "id": 984,
+   "kid_safe": 1,
+   "length": 0.66,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Streets of Baltimore"
+  },
+  {
+   "artist": "Grateful Dead",
+   "complexity": 0.2,
+   "id": 60,
+   "kid_safe": 1,
+   "length": 0.33,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Viola Lee Blues"
+  },
+  {
+   "artist": "Boogie Boys",
+   "complexity": 0.8,
+   "id": 805,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.6,
+   "mood": 0.75,
+   "title": "A Fly Girl"
+  },
+  {
+   "artist": "Tito Nieves",
+   "complexity": 0.4,
+   "id": 177,
+   "kid_safe": 1,
+   "length": 0.65,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "O Me Voy O Te Vas"
+  },
+  {
+   "artist": "The Anix",
+   "complexity": 0.2,
+   "id": 388,
+   "kid_safe": 1,
+   "length": 0.66,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Sometimes"
+  },
+  {
+   "artist": "Rex Harrison",
+   "complexity": 0.4,
+   "id": 925,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Why can't the English"
+  },
+  {
+   "artist": "Whiskeytown",
+   "complexity": 0.2,
+   "id": 988,
+   "kid_safe": 1,
+   "length": 0.47,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "What the Devil Wanted"
+  },
+  {
+   "artist": "Blues Alliance",
+   "complexity": 0.2,
+   "id": 710,
+   "kid_safe": 1,
+   "length": 0.74,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Isn't That So"
+  },
+  {
+   "artist": "Zion I",
+   "complexity": 1.0,
+   "id": 158,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Coastin'"
+  },
+  {
+   "artist": "Slowdive",
+   "complexity": 0.2,
+   "id": 225,
+   "kid_safe": 1,
+   "length": 0.36,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Rutti"
+  },
+  {
+   "artist": "Ray Charles",
+   "complexity": 0.2,
+   "id": 486,
+   "kid_safe": 1,
+   "length": 0.45,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Your Cheating Hear"
+  },
+  {
+   "artist": "Ash",
+   "complexity": 0.6,
+   "id": 91,
+   "kid_safe": 1,
+   "length": 0.82,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Envy"
+  },
+  {
+   "artist": "Refused",
+   "complexity": 0.2,
+   "id": 415,
+   "kid_safe": 0.9,
+   "length": 0.82,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Burn I"
+  },
+  {
+   "artist": "Wild Bill Davison",
+   "complexity": 0.2,
+   "id": 963,
+   "kid_safe": 1,
+   "length": 0.69,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "If I Had You [#]"
+  },
+  {
+   "artist": "Korn",
+   "complexity": 0.2,
+   "id": 297,
+   "kid_safe": 1,
+   "length": 0.5,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "It's On!"
+  },
+  {
+   "artist": "Take That",
+   "complexity": 0.2,
+   "id": 103,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 0.5,
+   "title": "The Garden"
+  },
+  {
+   "artist": "John Skinner",
+   "complexity": 0.2,
+   "id": 949,
+   "kid_safe": 0.9,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Tequila"
+  },
+  {
+   "artist": "Charlie Spivak",
+   "complexity": 0.2,
+   "id": 451,
+   "kid_safe": 1,
+   "length": 0.21,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Laura"
+  },
+  {
+   "artist": "Nat King Cole",
+   "complexity": 0.2,
+   "id": 863,
+   "kid_safe": 1,
+   "length": 0.49,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Mona Lisa"
+  },
+  {
+   "artist": "Van Halen",
+   "complexity": 0.0,
+   "id": 161,
+   "kid_safe": 1,
+   "length": 0.65,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Not Enough"
+  },
+  {
+   "artist": "James Taylor",
+   "complexity": 0.2,
+   "id": 855,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.6,
+   "mood": 1,
+   "title": "How Sweet It is (To Be Loved By You)"
+  },
+  {
+   "artist": "Evans, Bill Trio",
+   "complexity": 0.2,
+   "id": 569,
+   "kid_safe": 1,
+   "length": 0.35,
+   "love": 0.6,
+   "mood": 1.0,
+   "title": "My Foolish Hear"
+  },
+  {
+   "artist": "Cesca",
+   "complexity": 0.2,
+   "id": 293,
+   "kid_safe": 1,
+   "length": 0.95,
+   "love": 0.4,
+   "mood": 1,
+   "title": "One"
+  },
+  {
+   "artist": "Jerry Jeff Walker",
+   "complexity": 0.4,
+   "id": 349,
+   "kid_safe": 1,
+   "length": 0.76,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Standin' at the Big Hotel"
+  },
+  {
+   "artist": "Ray McKinley",
+   "complexity": 0.4,
+   "id": 386,
+   "kid_safe": 1,
+   "length": 0.47,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Chattanooga Choo Choo"
+  },
+  {
+   "artist": "Jack Pe\u00f1ate",
+   "complexity": 0.2,
+   "id": 261,
+   "kid_safe": 1,
+   "length": 0.85,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Pull My Heart Away"
+  },
+  {
+   "artist": "Nat Adderley",
+   "complexity": 0.2,
+   "id": 175,
+   "kid_safe": 1,
+   "length": 0.59,
+   "love": 0.4,
+   "mood": 1,
+   "title": "I Married an Angel"
+  },
+  {
+   "artist": "Ani DiFranco",
+   "complexity": 0.4,
+   "id": 129,
+   "kid_safe": 1,
+   "length": 0.85,
+   "love": 0.2,
+   "mood": 0.33,
+   "title": "Subdivision"
+  },
+  {
+   "artist": "Charlie Robison",
+   "complexity": 0.4,
+   "id": 29,
+   "kid_safe": 1,
+   "length": 0.96,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Rain"
+  },
+  {
+   "artist": "Radiohead",
+   "complexity": 0.2,
+   "id": 165,
+   "kid_safe": 1,
+   "length": 0.3,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "You"
+  },
+  {
+   "artist": "Zebrahead",
+   "complexity": 0.4,
+   "id": 373,
+   "kid_safe": 0.8,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "HMP"
+  },
+  {
+   "artist": "Jayo Felony",
+   "complexity": 0.8,
+   "id": 315,
+   "kid_safe": 0.09999999999999998,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 0.0,
+   "title": "One Shot Kill"
+  },
+  {
+   "artist": "Blondie",
+   "complexity": 0.2,
+   "id": 38,
+   "kid_safe": 1,
+   "length": 0.24,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Atomic"
+  },
+  {
+   "artist": "Buy This Song",
+   "complexity": 0.2,
+   "id": 697,
+   "kid_safe": 1,
+   "length": 0.64,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Funiculi' Funicula' [Live]"
+  },
+  {
+   "artist": "DMX",
+   "complexity": 1.0,
+   "id": 304,
+   "kid_safe": 0.30000000000000004,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Slippin'"
+  },
+  {
+   "artist": "David Murray",
+   "complexity": 0.2,
+   "id": 744,
+   "kid_safe": 1,
+   "length": 0.39,
+   "love": 0.6,
+   "mood": 0.33,
+   "title": "You Don't Know What Love Is"
+  },
+  {
+   "artist": "The Beatles",
+   "complexity": 0.2,
+   "id": 629,
+   "kid_safe": 1,
+   "length": 0.7,
+   "love": 0.4,
+   "mood": 0.5,
+   "title": "From Me to You"
+  },
+  {
+   "artist": "Junior Wells",
+   "complexity": 0.6,
+   "id": 199,
+   "kid_safe": 1,
+   "length": 0.54,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Little by Little"
+  },
+  {
+   "artist": "Vic Chesnutt",
+   "complexity": 0.4,
+   "id": 736,
+   "kid_safe": 1,
+   "length": 0.32,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Everything I Say"
+  },
+  {
+   "artist": "Avicii",
+   "complexity": 0.2,
+   "id": 960,
+   "kid_safe": 1,
+   "length": 0.18,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Levels"
+  },
+  {
+   "artist": "Breach of Trust",
+   "complexity": 0.2,
+   "id": 269,
+   "kid_safe": 1,
+   "length": 0.6,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Disease"
+  },
+  {
+   "artist": "The Calvin Milburn Band",
+   "complexity": 0.2,
+   "id": 86,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Believer"
+  },
+  {
+   "artist": "Ian Dury & the Blockheads",
+   "complexity": 0.6,
+   "id": 337,
+   "kid_safe": 0.9,
+   "length": 0.8,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Wake Up and Make Love With Me"
+  },
+  {
+   "artist": "James Booker",
+   "complexity": 0.4,
+   "id": 724,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Goodnight Sweethear"
+  },
+  {
+   "artist": "Steve Vai",
+   "complexity": 0.4,
+   "id": 471,
+   "kid_safe": 1,
+   "length": 0.87,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Highway Star [*]"
+  },
+  {
+   "artist": "James Brown",
+   "complexity": 0.4,
+   "id": 65,
+   "kid_safe": 1,
+   "length": 0.53,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "I Got the Feeling"
+  },
+  {
+   "artist": "The Troggs",
+   "complexity": 0.4,
+   "id": 543,
+   "kid_safe": 1,
+   "length": 0.67,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Little Girl"
+  },
+  {
+   "artist": "Billy Vaughn",
+   "complexity": 0.2,
+   "id": 769,
+   "kid_safe": 1,
+   "length": 0.43,
+   "love": 0.4,
+   "mood": 1,
+   "title": "I Left My Heart in San Francisco"
+  },
+  {
+   "artist": "Jerry Harrison",
+   "complexity": 0.4,
+   "id": 0,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "No More Reruns"
+  },
+  {
+   "artist": "Big L",
+   "complexity": 0.6,
+   "id": 869,
+   "kid_safe": 0.8,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 0.5,
+   "title": "Put It On"
+  },
+  {
+   "artist": "Wild Cherry",
+   "complexity": 0.2,
+   "id": 687,
+   "kid_safe": 1,
+   "length": 0.9,
+   "love": 0.8,
+   "mood": 1.0,
+   "title": "It's the Same Old Song"
+  },
+  {
+   "artist": "Benita Hill",
+   "complexity": 0.2,
+   "id": 806,
+   "kid_safe": 1,
+   "length": 0.38,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "The Christmas Song"
+  },
+  {
+   "artist": "DMX",
+   "complexity": 0.2,
+   "id": 425,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Angel"
+  },
+  {
+   "artist": "Cursive",
+   "complexity": 0.4,
+   "id": 967,
+   "kid_safe": 0.9,
+   "length": 0.78,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "From the Hips"
+  },
+  {
+   "artist": "Scooter",
+   "complexity": 0.8,
+   "id": 378,
+   "kid_safe": 1,
+   "length": 0.87,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Jigga Jigga! [DVD]"
+  },
+  {
+   "artist": "Billy Joel",
+   "complexity": 0.4,
+   "id": 708,
+   "kid_safe": 1,
+   "length": 0.56,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "My Life"
+  },
+  {
+   "artist": "Raunchy",
+   "complexity": 0.4,
+   "id": 140,
+   "kid_safe": 0.6,
+   "length": 0.67,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "The Comfort in Leaving"
+  },
+  {
+   "artist": "Crime Mob",
+   "complexity": 0.8,
+   "id": 506,
+   "kid_safe": 0.30000000000000004,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Crunk Inc"
+  },
+  {
+   "artist": "Conjunto Atardecer",
+   "complexity": 0.4,
+   "id": 959,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Hoja en Blanco"
+  },
+  {
+   "artist": "The Dramatics",
+   "complexity": 0.4,
+   "id": 522,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Whatcha See Is Whatcha Ge"
+  },
+  {
+   "artist": "Alboucq, Steve Jazz Quartet",
+   "complexity": 0.6,
+   "id": 648,
+   "kid_safe": 1,
+   "length": 0.51,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Skylark"
+  },
+  {
+   "artist": "The Hidden Stars",
+   "complexity": 0.2,
+   "id": 141,
+   "kid_safe": 1,
+   "length": 0.32,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "It Came Upon a Midnight Clear"
+  },
+  {
+   "artist": "Sandler & Young",
+   "complexity": 0.2,
+   "id": 463,
+   "kid_safe": 1,
+   "length": 0.38,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Just the Way You Look Tonigh"
+  },
+  {
+   "artist": "Bing Crosby",
+   "complexity": 0.4,
+   "id": 303,
+   "kid_safe": 1,
+   "length": 0.84,
+   "love": 0.4,
+   "mood": 0.5,
+   "title": "I Surrender Dear [#]"
+  },
+  {
+   "artist": "Anita Ward",
+   "complexity": 0.2,
+   "id": 835,
+   "kid_safe": 1,
+   "length": 0.99,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Ring My Bell"
+  },
+  {
+   "artist": "Steven Maglio",
+   "complexity": 0.6,
+   "id": 770,
+   "kid_safe": 1,
+   "length": 0.67,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Drinking Again"
+  },
+  {
+   "artist": "Art Farmer",
+   "complexity": 0.0,
+   "id": 53,
+   "kid_safe": 1,
+   "length": 0.48,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Killer Joe"
+  },
+  {
+   "artist": "Martina Stoessel",
+   "complexity": 0.4,
+   "id": 524,
+   "kid_safe": 1,
+   "length": 0.76,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "All\u2019alba Sorger\u00f2 [Italian End Credit Version]"
+  },
+  {
+   "artist": "Eddy Arnold",
+   "complexity": 0.4,
+   "id": 441,
+   "kid_safe": 1,
+   "length": 0.56,
+   "love": 0.4,
+   "mood": 1,
+   "title": "A Heart Full of Love"
+  },
+  {
+   "artist": "Helheim",
+   "complexity": 0.2,
+   "id": 309,
+   "kid_safe": 1,
+   "length": 0.7,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Jormundgand"
+  },
+  {
+   "artist": "Vico Torriani",
+   "complexity": 0.0,
+   "id": 393,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Santa Lucia"
+  },
+  {
+   "artist": "Queen",
+   "complexity": 0.4,
+   "id": 437,
+   "kid_safe": 1,
+   "length": 0.74,
+   "love": 0.4,
+   "mood": 0.33,
+   "title": "Play the Game"
+  },
+  {
+   "artist": "Cab Calloway",
+   "complexity": 0.2,
+   "id": 328,
+   "kid_safe": 1,
+   "length": 0.63,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "A Chicken Ain't Nothin' But a Bird"
+  },
+  {
+   "artist": "Patsy Cline",
+   "complexity": 0.2,
+   "id": 516,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Hungry For Love"
+  },
+  {
+   "artist": "Roy Orbison",
+   "complexity": 0.2,
+   "id": 432,
+   "kid_safe": 1,
+   "length": 0.3,
+   "love": 0.4,
+   "mood": 1,
+   "title": "I'm Hurtin'"
+  },
+  {
+   "artist": "Caravan Palace",
+   "complexity": 0.2,
+   "id": 977,
+   "kid_safe": 1,
+   "length": 0.37,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Suzy"
+  },
+  {
+   "artist": "Paw",
+   "complexity": 0.2,
+   "id": 709,
+   "kid_safe": 1,
+   "length": 0.74,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Jessie"
+  },
+  {
+   "artist": "Malastrana",
+   "complexity": 0.2,
+   "id": 56,
+   "kid_safe": 1,
+   "length": 0.52,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Runnin' with the Devil"
+  },
+  {
+   "artist": "Q",
+   "complexity": 0.4,
+   "id": 336,
+   "kid_safe": 0.9,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Just Another Day"
+  },
+  {
+   "artist": "Jim Bransky",
+   "complexity": 0.2,
+   "id": 512,
+   "kid_safe": 1,
+   "length": 0.52,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Lady Be Good"
+  },
+  {
+   "artist": "Gabe Dixon",
+   "complexity": 0.2,
+   "id": 477,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "On a Day Just Like Today"
+  },
+  {
+   "artist": "Genesis",
+   "complexity": 0.2,
+   "id": 593,
+   "kid_safe": 1,
+   "length": 0.75,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Watcher of the Skies"
+  },
+  {
+   "artist": "The Chemical Brothers",
+   "complexity": 0.2,
+   "id": 41,
+   "kid_safe": 0.8,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "The Salmon Dance"
+  },
+  {
+   "artist": "Chick Corea",
+   "complexity": 0.2,
+   "id": 767,
+   "kid_safe": 1,
+   "length": 0.4,
+   "love": 0.6,
+   "mood": 1,
+   "title": "My One and Only Love"
+  },
+  {
+   "artist": "Mariah Carey",
+   "complexity": 0.2,
+   "id": 330,
+   "kid_safe": 1,
+   "length": 0.73,
+   "love": 0.0,
+   "mood": 1,
+   "title": "Auld Lang Syne (The New Year's Anthem)"
+  },
+  {
+   "artist": "Buddy Guy",
+   "complexity": 0.2,
+   "id": 559,
+   "kid_safe": 1,
+   "length": 0.59,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Broken Hearted Blues"
+  },
+  {
+   "artist": "Hank Williams, Jr.",
+   "complexity": 0.4,
+   "id": 574,
+   "kid_safe": 1,
+   "length": 0.39,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "How's My Ex Treating You"
+  },
+  {
+   "artist": "Mikaila",
+   "complexity": 0.2,
+   "id": 95,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1,
+   "title": "So in Love with Two"
+  },
+  {
+   "artist": "Cherry Ghost",
+   "complexity": 0.6,
+   "id": 978,
+   "kid_safe": 1,
+   "length": 0.91,
+   "love": 0.4,
+   "mood": 0.33,
+   "title": "People Help the People"
+  },
+  {
+   "artist": "Tiktak",
+   "complexity": 0.2,
+   "id": 759,
+   "kid_safe": 1,
+   "length": 0.59,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Tuuleksi Taivaanrantaan"
+  },
+  {
+   "artist": "Peaches & Herb",
+   "complexity": 0.4,
+   "id": 276,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Shake Your Groove Thing"
+  },
+  {
+   "artist": "Panic! At the Disco",
+   "complexity": 0.4,
+   "id": 575,
+   "kid_safe": 1,
+   "length": 0.6,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "From a Mountain in the Middle of the Cabins"
+  },
+  {
+   "artist": "Tina Turner",
+   "complexity": 0.4,
+   "id": 214,
+   "kid_safe": 1,
+   "length": 0.85,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "Proud Mary"
+  },
+  {
+   "artist": "Johnny Powers",
+   "complexity": 0.2,
+   "id": 626,
+   "kid_safe": 1,
+   "length": 0.64,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Rattled"
+  },
+  {
+   "artist": "The Specials",
+   "complexity": 0.2,
+   "id": 581,
+   "kid_safe": 1,
+   "length": 0.39,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "A Message to You Rudy"
+  },
+  {
+   "artist": "Art Brut",
+   "complexity": 0.4,
+   "id": 989,
+   "kid_safe": 1,
+   "length": 0.97,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Nag Nag Nag Nag"
+  },
+  {
+   "artist": "Waka Flocka Flame",
+   "complexity": 0.8,
+   "id": 577,
+   "kid_safe": 0.7,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Round of Applause"
+  },
+  {
+   "artist": "Akir",
+   "complexity": 0.4,
+   "id": 738,
+   "kid_safe": 0.6,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 0.25,
+   "title": "One"
+  },
+  {
+   "artist": "Mano Negra",
+   "complexity": 0.4,
+   "id": 578,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "King Kong Five"
+  },
+  {
+   "artist": "Kirk Whalum",
+   "complexity": 0.2,
+   "id": 171,
+   "kid_safe": 1,
+   "length": 0.92,
+   "love": 0.6,
+   "mood": 1.0,
+   "title": "Any Love"
+  },
+  {
+   "artist": "Jorge Drexler",
+   "complexity": 0.2,
+   "id": 582,
+   "kid_safe": 1,
+   "length": 0.78,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Todo Cae"
+  },
+  {
+   "artist": "Connie Stevens",
+   "complexity": 0.2,
+   "id": 771,
+   "kid_safe": 1,
+   "length": 0.56,
+   "love": 0.6,
+   "mood": 1,
+   "title": "Sixteen Reasons"
+  },
+  {
+   "artist": "Sub Focus",
+   "complexity": 0.2,
+   "id": 112,
+   "kid_safe": 1,
+   "length": 0.2,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Falling Down"
+  },
+  {
+   "artist": "Ice Cube",
+   "complexity": 1.0,
+   "id": 969,
+   "kid_safe": 0.4,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Sasquatch"
+  },
+  {
+   "artist": "Gerald Albright",
+   "complexity": 0.2,
+   "id": 887,
+   "kid_safe": 1,
+   "length": 0.74,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "All This Love"
+  },
+  {
+   "artist": "Todd Isler",
+   "complexity": 0.6,
+   "id": 461,
+   "kid_safe": 1,
+   "length": 0.92,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "Too High"
+  },
+  {
+   "artist": "Fleetwood Mac",
+   "complexity": 0.2,
+   "id": 410,
+   "kid_safe": 1,
+   "length": 0.91,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "Angel"
+  },
+  {
+   "artist": "Tommy Steele",
+   "complexity": 0.4,
+   "id": 138,
+   "kid_safe": 1,
+   "length": 0.45,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "A Handful of Songs"
+  },
+  {
+   "artist": "Louis Armstrong",
+   "complexity": 0.2,
+   "id": 903,
+   "kid_safe": 1,
+   "length": 0.66,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Makin' Whoopee"
+  },
+  {
+   "artist": "The Mavericks",
+   "complexity": 0.4,
+   "id": 725,
+   "kid_safe": 1,
+   "length": 0.96,
+   "love": 0.0,
+   "mood": 1,
+   "title": "La Mucara [#]"
+  },
+  {
+   "artist": "Bun B",
+   "complexity": 0.4,
+   "id": 955,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "Paper Planes"
+  },
+  {
+   "artist": "Krypteria",
+   "complexity": 0.2,
+   "id": 529,
+   "kid_safe": 1,
+   "length": 0.65,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "Victoriam Speramus [Original Album Version]"
+  },
+  {
+   "artist": "Leslie Phillips",
+   "complexity": 0.2,
+   "id": 793,
+   "kid_safe": 1,
+   "length": 0.68,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "River of Love"
+  },
+  {
+   "artist": "T.I.",
+   "complexity": 1.0,
+   "id": 504,
+   "kid_safe": 0.30000000000000004,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "All Gold Everything [*]"
+  },
+  {
+   "artist": "Erk Tha Jerk",
+   "complexity": 0.6,
+   "id": 749,
+   "kid_safe": 0.8,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Mo Money"
+  },
+  {
+   "artist": "Sleepwave",
+   "complexity": 0.2,
+   "id": 656,
+   "kid_safe": 1,
+   "length": 0.35,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Replace Me"
+  },
+  {
+   "artist": "Deliverance",
+   "complexity": 0.4,
+   "id": 776,
+   "kid_safe": 1,
+   "length": 0.46,
+   "love": 0.4,
+   "mood": 1,
+   "title": "No Love"
+  },
+  {
+   "artist": "NOFX",
+   "complexity": 0.2,
+   "id": 395,
+   "kid_safe": 1,
+   "length": 0.54,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Lori Meyers"
+  },
+  {
+   "artist": "Georges Brassens",
+   "complexity": 0.2,
+   "id": 82,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "La Mauvaise R\u00e9putation"
+  },
+  {
+   "artist": "The Moody Blues",
+   "complexity": 0.2,
+   "id": 606,
+   "kid_safe": 1,
+   "length": 0.59,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Nights in White Satin"
+  },
+  {
+   "artist": "Bonnie Bramlett",
+   "complexity": 0.4,
+   "id": 294,
+   "kid_safe": 1,
+   "length": 0.43,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Love Hurts"
+  },
+  {
+   "artist": "Terry Callier",
+   "complexity": 0.8,
+   "id": 446,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Ordinary Joe"
+  },
+  {
+   "artist": "Eric Revis",
+   "complexity": 0.2,
+   "id": 207,
+   "kid_safe": 1,
+   "length": 0.94,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Lulu's Back in Town"
+  },
+  {
+   "artist": "Spike Jones & His City Slickers",
+   "complexity": 0.4,
+   "id": 117,
+   "kid_safe": 1,
+   "length": 0.52,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Clink, Clink, Another Drink"
+  },
+  {
+   "artist": "Secret Machines",
+   "complexity": 0.2,
+   "id": 896,
+   "kid_safe": 1,
+   "length": 0.52,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Sad and Lonely"
+  },
+  {
+   "artist": "Bananarama",
+   "complexity": 0.2,
+   "id": 781,
+   "kid_safe": 1,
+   "length": 0.91,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "Some Girls"
+  },
+  {
+   "artist": "Reba McEntire",
+   "complexity": 0.4,
+   "id": 299,
+   "kid_safe": 1,
+   "length": 0.51,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "It's Your Call"
+  },
+  {
+   "artist": "Jacques Brel",
+   "complexity": 0.2,
+   "id": 547,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Le Moribond"
+  },
+  {
+   "artist": "Judy Albanese",
+   "complexity": 0.4,
+   "id": 321,
+   "kid_safe": 1,
+   "length": 0.5,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Love's Here (At Last) [Kupper's Sweet Vocal]"
+  },
+  {
+   "artist": "Ronnie Dyson",
+   "complexity": 0.2,
+   "id": 511,
+   "kid_safe": 1,
+   "length": 0.63,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "When You Get Right Down To I"
+  },
+  {
+   "artist": "Daft Punk",
+   "complexity": 0.6,
+   "id": 135,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Technologic [Peaches No Logic Remix]"
+  },
+  {
+   "artist": "Buy This Song",
+   "complexity": 0.2,
+   "id": 726,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 0.33,
+   "title": "That's the Way Love Is"
+  },
+  {
+   "artist": "Lou Bega",
+   "complexity": 0.4,
+   "id": 283,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "You Wanna Be Americano [El Camino Album Edit]"
+  },
+  {
+   "artist": "Back Door Slam",
+   "complexity": 0.2,
+   "id": 358,
+   "kid_safe": 1,
+   "length": 0.57,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "Outside Woman Blues"
+  },
+  {
+   "artist": "Juliane Werding",
+   "complexity": 0.4,
+   "id": 590,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Nacht Voll Schatten"
+  },
+  {
+   "artist": "De De Pierce & His New Orleans Stompers",
+   "complexity": 0.6,
+   "id": 342,
+   "kid_safe": 1,
+   "length": 0.48,
+   "love": 0.4,
+   "mood": 0.5,
+   "title": "St. Louis Blues"
+  },
+  {
+   "artist": "Ronnie Grey",
+   "complexity": 0.4,
+   "id": 728,
+   "kid_safe": 1,
+   "length": 0.65,
+   "love": 0.6,
+   "mood": 1.0,
+   "title": "Love Will Keep Us Together"
+  },
+  {
+   "artist": "Jimmy Giuffre",
+   "complexity": 0.2,
+   "id": 443,
+   "kid_safe": 1,
+   "length": 0.63,
+   "love": 0.6,
+   "mood": 1,
+   "title": "Deep Purple"
+  },
+  {
+   "artist": "Thelonious Monk",
+   "complexity": 0.4,
+   "id": 983,
+   "kid_safe": 1,
+   "length": 0.19,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Just You, Just Me [#]"
+  },
+  {
+   "artist": "J King y Maximan",
+   "complexity": 0.2,
+   "id": 194,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Sr. Juez"
+  },
+  {
+   "artist": "Patti LaBelle",
+   "complexity": 0.6,
+   "id": 143,
+   "kid_safe": 1,
+   "length": 0.48,
+   "love": 0.4,
+   "mood": 1,
+   "title": "You'll Never Walk Alone"
+  },
+  {
+   "artist": "Tom Paxton",
+   "complexity": 0.2,
+   "id": 676,
+   "kid_safe": 1,
+   "length": 0.75,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "I Give You the Morning"
+  },
+  {
+   "artist": "Vin\u00edcius de Moraes",
+   "complexity": 0.2,
+   "id": 23,
+   "kid_safe": 1,
+   "length": 0.35,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Samba Em Prel\u00fadio"
+  },
+  {
+   "artist": "Christophe",
+   "complexity": 0.4,
+   "id": 380,
+   "kid_safe": 1,
+   "length": 0.56,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "La  Petite Fille Du Soleil"
+  },
+  {
+   "artist": "Leigh Stephens",
+   "complexity": 0.2,
+   "id": 701,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "We Gotta Get out of This Place"
+  },
+  {
+   "artist": "Mother's Finest",
+   "complexity": 0.2,
+   "id": 657,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Baby Love"
+  },
+  {
+   "artist": "Louis Armstrong",
+   "complexity": 0.4,
+   "id": 619,
+   "kid_safe": 1,
+   "length": 0.29,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Trees"
+  },
+  {
+   "artist": "Eloy",
+   "complexity": 0.4,
+   "id": 459,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Age of Insanity"
+  },
+  {
+   "artist": "Ronan Keating",
+   "complexity": 0.2,
+   "id": 5,
+   "kid_safe": 1,
+   "length": 0.68,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Time After Time"
+  },
+  {
+   "artist": "Kate Bush",
+   "complexity": 0.2,
+   "id": 794,
+   "kid_safe": 1,
+   "length": 0.92,
+   "love": 0.4,
+   "mood": 0.25,
+   "title": "Wuthering Heights"
+  },
+  {
+   "artist": "The Bryan Ferry Orchestra",
+   "complexity": 0.6,
+   "id": 748,
+   "kid_safe": 1,
+   "length": 0.48,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "This Island Earth"
+  },
+  {
+   "artist": "Andy Timmons",
+   "complexity": 0.2,
+   "id": 84,
+   "kid_safe": 1,
+   "length": 0.53,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Slips Away [*]"
+  },
+  {
+   "artist": "Frank Sinatra",
+   "complexity": 0.2,
+   "id": 599,
+   "kid_safe": 1,
+   "length": 0.42,
+   "love": 0.4,
+   "mood": 1,
+   "title": "The Girl Next Door"
+  },
+  {
+   "artist": "Kylie Minogue",
+   "complexity": 0.4,
+   "id": 296,
+   "kid_safe": 0.9,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Almost a Lover"
+  },
+  {
+   "artist": "Stan Kenton & His Orchestra",
+   "complexity": 0.4,
+   "id": 394,
+   "kid_safe": 1,
+   "length": 0.86,
+   "love": 0.0,
+   "mood": 1,
+   "title": "Peanut Vendor"
+  },
+  {
+   "artist": "Alkaline Trio",
+   "complexity": 0.4,
+   "id": 449,
+   "kid_safe": 0.9,
+   "length": 0.69,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "I Found Away"
+  },
+  {
+   "artist": "David DeMar\u00eda",
+   "complexity": 0.2,
+   "id": 965,
+   "kid_safe": 1,
+   "length": 0.54,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Amores"
+  },
+  {
+   "artist": "Dorsey Brothers Orchestra",
+   "complexity": 0.4,
+   "id": 281,
+   "kid_safe": 1,
+   "length": 0.35,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Fine and Dandy"
+  },
+  {
+   "artist": "NOFX",
+   "complexity": 0.2,
+   "id": 12,
+   "kid_safe": 1,
+   "length": 0.54,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Lori Meyers"
+  },
+  {
+   "artist": "Frank Ifield",
+   "complexity": 0.6,
+   "id": 764,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "I Remember You"
+  },
+  {
+   "artist": "Bud Tutmarc",
+   "complexity": 0.2,
+   "id": 530,
+   "kid_safe": 1,
+   "length": 0.53,
+   "love": 0.6,
+   "mood": 1.0,
+   "title": "Stardus"
+  },
+  {
+   "artist": "Big Bill Broonzy",
+   "complexity": 0.4,
+   "id": 972,
+   "kid_safe": 1,
+   "length": 0.89,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Baby I Done Got Wise"
+  },
+  {
+   "artist": "George Gershwin",
+   "complexity": 0.2,
+   "id": 174,
+   "kid_safe": 1,
+   "length": 0.46,
+   "love": 0.4,
+   "mood": 1,
+   "title": "But Not for Me"
+  },
+  {
+   "artist": "Buy This Song",
+   "complexity": 0.4,
+   "id": 19,
+   "kid_safe": 1,
+   "length": 0.77,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Im Grunen Irgendwo"
+  },
+  {
+   "artist": "The Dominoes",
+   "complexity": 0.2,
+   "id": 795,
+   "kid_safe": 1,
+   "length": 0.86,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Do It Again"
+  },
+  {
+   "artist": "Rammstein",
+   "complexity": 0.4,
+   "id": 391,
+   "kid_safe": 1,
+   "length": 0.74,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Mann Gegen Mann"
+  },
+  {
+   "artist": "My Morning Jacket",
+   "complexity": 0.4,
+   "id": 646,
+   "kid_safe": 1,
+   "length": 0.47,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Can You See the Hard Helmet on My Head?"
+  },
+  {
+   "artist": "Damien Sargue",
+   "complexity": 0.4,
+   "id": 329,
+   "kid_safe": 1,
+   "length": 0.56,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Aimer"
+  },
+  {
+   "artist": "St. Paul's Cathedral Choir, London",
+   "complexity": 0.2,
+   "id": 55,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.2,
+   "mood": 1,
+   "title": "O Little Town of Bethlehem"
+  },
+  {
+   "artist": "Buy This Song",
+   "complexity": 0.2,
+   "id": 37,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "[Silence]"
+  },
+  {
+   "artist": "Quireboys",
+   "complexity": 0.4,
+   "id": 919,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "I Don't Love You Anymore"
+  },
+  {
+   "artist": "Amos Lee",
+   "complexity": 0.4,
+   "id": 667,
+   "kid_safe": 1,
+   "length": 0.72,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Say Goodbye"
+  },
+  {
+   "artist": "Busta Rhymes",
+   "complexity": 0.8,
+   "id": 745,
+   "kid_safe": 0.30000000000000004,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Where's My Money"
+  },
+  {
+   "artist": "Yes",
+   "complexity": 0.2,
+   "id": 343,
+   "kid_safe": 1,
+   "length": 0.76,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Yours Is No Disgrace"
+  },
+  {
+   "artist": "Kyoji Yamamoto",
+   "complexity": 0.2,
+   "id": 886,
+   "kid_safe": 1,
+   "length": 0.68,
+   "love": 0.2,
+   "mood": 1,
+   "title": "River of Time"
+  },
+  {
+   "artist": "Jefferson Airplane",
+   "complexity": 0.2,
+   "id": 414,
+   "kid_safe": 1,
+   "length": 0.17,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Come Back Baby"
+  },
+  {
+   "artist": "Marvin Gaye",
+   "complexity": 0.2,
+   "id": 46,
+   "kid_safe": 1,
+   "length": 0.91,
+   "love": 0.6,
+   "mood": 1,
+   "title": "How Sweet It Is (To Be Loved by You)"
+  },
+  {
+   "artist": "Alejandro Fern\u00e1ndez",
+   "complexity": 0.2,
+   "id": 913,
+   "kid_safe": 1,
+   "length": 0.87,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Tantita Pena"
+  },
+  {
+   "artist": "Semaj",
+   "complexity": 0.6,
+   "id": 747,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Step in the Name of Love"
+  },
+  {
+   "artist": "The Yardbirds",
+   "complexity": 0.2,
+   "id": 499,
+   "kid_safe": 1,
+   "length": 0.37,
+   "love": 0.0,
+   "mood": 1,
+   "title": "Shapes of Things"
+  },
+  {
+   "artist": "Natalie Cole",
+   "complexity": 0.2,
+   "id": 406,
+   "kid_safe": 1,
+   "length": 0.46,
+   "love": 0.0,
+   "mood": 1,
+   "title": "Sleigh Ride"
+  },
+  {
+   "artist": "Ludacris",
+   "complexity": 1.0,
+   "id": 880,
+   "kid_safe": 0.19999999999999996,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.33,
+   "title": "Gossip Folks"
+  },
+  {
+   "artist": "Starsailor",
+   "complexity": 0.2,
+   "id": 255,
+   "kid_safe": 1,
+   "length": 0.59,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Four to the Floor"
+  },
+  {
+   "artist": "Jack Scott",
+   "complexity": 0.2,
+   "id": 229,
+   "kid_safe": 1,
+   "length": 0.37,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Burning Bridges"
+  },
+  {
+   "artist": "Jacqueline Ta\u00efeb",
+   "complexity": 0.4,
+   "id": 232,
+   "kid_safe": 1,
+   "length": 0.77,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "7 Heures du Matin"
+  },
+  {
+   "artist": "Atlanta Rhythm Section",
+   "complexity": 0.2,
+   "id": 344,
+   "kid_safe": 1,
+   "length": 0.39,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Silver Eagle"
+  },
+  {
+   "artist": "Ron Wood",
+   "complexity": 0.2,
+   "id": 862,
+   "kid_safe": 1,
+   "length": 0.64,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "1234"
+  },
+  {
+   "artist": "Bob Dylan",
+   "complexity": 0.6,
+   "id": 705,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Mr. Tambourine Man"
+  },
+  {
+   "artist": "Udo Lindenberg",
+   "complexity": 0.2,
+   "id": 26,
+   "kid_safe": 1,
+   "length": 0.66,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Alles Klar auf der Andrea Doria"
+  },
+  {
+   "artist": "Lale Andersen",
+   "complexity": 0.2,
+   "id": 823,
+   "kid_safe": 1,
+   "length": 0.81,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Lili Marleen"
+  },
+  {
+   "artist": "Everlast",
+   "complexity": 0.4,
+   "id": 273,
+   "kid_safe": 0.8,
+   "length": 0.91,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Kill the Emperor"
+  },
+  {
+   "artist": "Lea Salonga",
+   "complexity": 0.2,
+   "id": 788,
+   "kid_safe": 1,
+   "length": 0.88,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "The Last Night Of The World"
+  },
+  {
+   "artist": "The Notorious B.I.G.",
+   "complexity": 1.0,
+   "id": 591,
+   "kid_safe": 0.5,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "The Commission"
+  },
+  {
+   "artist": "Bebel Gilberto",
+   "complexity": 0.4,
+   "id": 325,
+   "kid_safe": 1,
+   "length": 0.58,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "August Day Song"
+  },
+  {
+   "artist": "Beastie Boys",
+   "complexity": 0.2,
+   "id": 550,
+   "kid_safe": 1,
+   "length": 0.31,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Jimi"
+  },
+  {
+   "artist": "The Standells",
+   "complexity": 0.6,
+   "id": 305,
+   "kid_safe": 1,
+   "length": 0.59,
+   "love": 0.6,
+   "mood": 1,
+   "title": "Try I"
+  },
+  {
+   "artist": "Moony",
+   "complexity": 0.2,
+   "id": 211,
+   "kid_safe": 1,
+   "length": 0.4,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Flying Away [At Mendoza vs. Tibet Club Mix]"
+  },
+  {
+   "artist": "Cobra Starship",
+   "complexity": 0.2,
+   "id": 90,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "The City Is at War"
+  },
+  {
+   "artist": "Willie Nelson",
+   "complexity": 0.2,
+   "id": 924,
+   "kid_safe": 1,
+   "length": 0.46,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Bright Lights, Big City"
+  },
+  {
+   "artist": "Kings of Tomorrow",
+   "complexity": 0.4,
+   "id": 628,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 1,
+   "title": "Finally [East & Young Remix]"
+  },
+  {
+   "artist": "Prince Fatty",
+   "complexity": 0.4,
+   "id": 464,
+   "kid_safe": 1,
+   "length": 0.46,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Milk & Honey"
+  },
+  {
+   "artist": "Daryl Hall & John Oates",
+   "complexity": 0.2,
+   "id": 817,
+   "kid_safe": 1,
+   "length": 0.53,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Angelina"
+  },
+  {
+   "artist": "Me 3",
+   "complexity": 0.2,
+   "id": 332,
+   "kid_safe": 1,
+   "length": 0.39,
+   "love": 0.6,
+   "mood": 0.33,
+   "title": "You Don't Know What Love Is"
+  },
+  {
+   "artist": "Debbie Reynolds",
+   "complexity": 0.0,
+   "id": 933,
+   "kid_safe": 1,
+   "length": 0.39,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Am I That Easy to Forget?"
+  },
+  {
+   "artist": "Champian Fulton",
+   "complexity": 0.4,
+   "id": 1000,
+   "kid_safe": 1,
+   "length": 0.36,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Easy to Love"
+  },
+  {
+   "artist": "Hank Ballard",
+   "complexity": 0.4,
+   "id": 923,
+   "kid_safe": 1,
+   "length": 0.3,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Annie Had a Baby"
+  },
+  {
+   "artist": "Robey",
+   "complexity": 1.0,
+   "id": 716,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "One Night in Bangkok"
+  },
+  {
+   "artist": "Ronnie Lane",
+   "complexity": 0.4,
+   "id": 291,
+   "kid_safe": 1,
+   "length": 0.65,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "You Never Can Tell"
+  },
+  {
+   "artist": "Fear Factory",
+   "complexity": 0.2,
+   "id": 360,
+   "kid_safe": 0.9,
+   "length": 0.28,
+   "love": 0.0,
+   "mood": 1,
+   "title": "Repentance"
+  },
+  {
+   "artist": "Krokus",
+   "complexity": 0.4,
+   "id": 579,
+   "kid_safe": 1,
+   "length": 0.6,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Down the Drain"
+  },
+  {
+   "artist": "The Everly Brothers",
+   "complexity": 0.4,
+   "id": 981,
+   "kid_safe": 1,
+   "length": 0.62,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Bye Bye Love"
+  },
+  {
+   "artist": "Billy Grammer",
+   "complexity": 0.2,
+   "id": 368,
+   "kid_safe": 1,
+   "length": 0.52,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Gotta Travel On"
+  },
+  {
+   "artist": "Caetano Veloso",
+   "complexity": 0.2,
+   "id": 976,
+   "kid_safe": 1,
+   "length": 0.39,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Domingo"
+  },
+  {
+   "artist": "K2",
+   "complexity": 0.4,
+   "id": 535,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Der Berg Ruf"
+  },
+  {
+   "artist": "Rupert Holmes",
+   "complexity": 0.2,
+   "id": 882,
+   "kid_safe": 1,
+   "length": 0.53,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Annabella"
+  },
+  {
+   "artist": "Dirt Nasty",
+   "complexity": 1.0,
+   "id": 242,
+   "kid_safe": 0.8,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "I Can't Dance"
+  },
+  {
+   "artist": "Gio",
+   "complexity": 0.2,
+   "id": 480,
+   "kid_safe": 1,
+   "length": 0.28,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "E Menina (Hey Girl)"
+  },
+  {
+   "artist": "Kirsty MacColl",
+   "complexity": 0.2,
+   "id": 905,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "There's a Guy Works Down the Chip Shop Swears He's Elvis [Country Versi"
+  },
+  {
+   "artist": "Attaque 77",
+   "complexity": 0.2,
+   "id": 614,
+   "kid_safe": 1,
+   "length": 0.59,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "El Jorobadito"
+  },
+  {
+   "artist": "Liza Minnelli",
+   "complexity": 0.2,
+   "id": 632,
+   "kid_safe": 1,
+   "length": 0.48,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "You Can Leave Your Hat On"
+  },
+  {
+   "artist": "Albert King",
+   "complexity": 0.2,
+   "id": 442,
+   "kid_safe": 1,
+   "length": 0.32,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Call My Job"
+  },
+  {
+   "artist": "Buy This Song",
+   "complexity": 0.4,
+   "id": 711,
+   "kid_safe": 1,
+   "length": 0.91,
+   "love": 0.2,
+   "mood": 0.67,
+   "title": "America Medley"
+  },
+  {
+   "artist": "Ronan Keating",
+   "complexity": 0.2,
+   "id": 282,
+   "kid_safe": 1,
+   "length": 0.68,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Time After Time"
+  },
+  {
+   "artist": "Avenged Sevenfold",
+   "complexity": 0.4,
+   "id": 555,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Save Me"
+  },
+  {
+   "artist": "Cristy Lane",
+   "complexity": 0.2,
+   "id": 751,
+   "kid_safe": 1,
+   "length": 0.52,
+   "love": 0.2,
+   "mood": 1,
+   "title": "One Day at a Time"
+  },
+  {
+   "artist": "Charice",
+   "complexity": 0.2,
+   "id": 564,
+   "kid_safe": 1,
+   "length": 0.84,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "In This Song"
+  },
+  {
+   "artist": "Marty Wilde",
+   "complexity": 0.0,
+   "id": 836,
+   "kid_safe": 1,
+   "length": 0.77,
+   "love": 0.4,
+   "mood": 0.4,
+   "title": "Teenager In Love"
+  },
+  {
+   "artist": "Marvin Gaye",
+   "complexity": 0.2,
+   "id": 277,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Baby Don't You Do I"
+  },
+  {
+   "artist": "Rox",
+   "complexity": 0.4,
+   "id": 450,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "No Going Back"
+  },
+  {
+   "artist": "Sarah Harmer",
+   "complexity": 0.2,
+   "id": 8,
+   "kid_safe": 1,
+   "length": 0.75,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Almos"
+  },
+  {
+   "artist": "Mozez",
+   "complexity": 0.4,
+   "id": 455,
+   "kid_safe": 1,
+   "length": 0.47,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "So Still"
+  },
+  {
+   "artist": "Cynthia Manley",
+   "complexity": 0.2,
+   "id": 991,
+   "kid_safe": 1,
+   "length": 0.48,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Everybody Dance"
+  },
+  {
+   "artist": "Carlos Gardel",
+   "complexity": 0.4,
+   "id": 551,
+   "kid_safe": 1,
+   "length": 0.61,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Milonga Sentimental"
+  },
+  {
+   "artist": "Willie Nelson",
+   "complexity": 0.2,
+   "id": 826,
+   "kid_safe": 1,
+   "length": 0.43,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "On The Road Again"
+  },
+  {
+   "artist": "Jim Nabors",
+   "complexity": 0.2,
+   "id": 251,
+   "kid_safe": 1,
+   "length": 0.58,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "The Little Drummer Boy"
+  },
+  {
+   "artist": "Johnny Rivers",
+   "complexity": 0.2,
+   "id": 527,
+   "kid_safe": 1,
+   "length": 0.29,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Days of Wine and Roses"
+  },
+  {
+   "artist": "Deep Purple",
+   "complexity": 0.4,
+   "id": 190,
+   "kid_safe": 1,
+   "length": 0.77,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Wicked Ways"
+  },
+  {
+   "artist": "Staind",
+   "complexity": 0.4,
+   "id": 473,
+   "kid_safe": 0.8,
+   "length": 0.58,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Open Your Eyes"
+  },
+  {
+   "artist": "Thurston Moore",
+   "complexity": 0.2,
+   "id": 987,
+   "kid_safe": 1,
+   "length": 0.39,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Female Cop"
+  },
+  {
+   "artist": "Marian McPartland",
+   "complexity": 0.2,
+   "id": 584,
+   "kid_safe": 1,
+   "length": 0.4,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Once in a While"
+  },
+  {
+   "artist": "Bouzouki Ensemble",
+   "complexity": 0.4,
+   "id": 313,
+   "kid_safe": 1,
+   "length": 0.57,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Never On Sunday"
+  },
+  {
+   "artist": "Andy Williams",
+   "complexity": 0.4,
+   "id": 790,
+   "kid_safe": 1,
+   "length": 0.55,
+   "love": 0.4,
+   "mood": 0.67,
+   "title": "Under Paris Skies"
+  },
+  {
+   "artist": "Elvis Crespo",
+   "complexity": 0.4,
+   "id": 914,
+   "kid_safe": 1,
+   "length": 0.76,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Mas Que Una Caricia"
+  },
+  {
+   "artist": "Lonestar",
+   "complexity": 0.4,
+   "id": 412,
+   "kid_safe": 1,
+   "length": 0.99,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Let Me Love You"
+  },
+  {
+   "artist": "William Bell",
+   "complexity": 0.2,
+   "id": 224,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Every Day Will Be Like A Holiday"
+  },
+  {
+   "artist": "Jack Elliott",
+   "complexity": 0.2,
+   "id": 136,
+   "kid_safe": 1,
+   "length": 0.24,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Night Herding Song"
+  },
+  {
+   "artist": "Maroon 5",
+   "complexity": 0.2,
+   "id": 849,
+   "kid_safe": 1,
+   "length": 0.52,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Pure Imagination"
+  },
+  {
+   "artist": "James Kochalka Superstar",
+   "complexity": 0.2,
+   "id": 78,
+   "kid_safe": 1,
+   "length": 0.64,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Hockey Monkey"
+  },
+  {
+   "artist": "145th Street",
+   "complexity": 0.2,
+   "id": 521,
+   "kid_safe": 1,
+   "length": 0.52,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Mary Ann"
+  },
+  {
+   "artist": "Buy This Song",
+   "complexity": 0.2,
+   "id": 495,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Timeless"
+  },
+  {
+   "artist": "Imix Children's Choir",
+   "complexity": 0.2,
+   "id": 268,
+   "kid_safe": 1,
+   "length": 0.46,
+   "love": 0.0,
+   "mood": 1,
+   "title": "Paseo en Trineo (Sleigh Ride)"
+  },
+  {
+   "artist": "Yuri",
+   "complexity": 0.2,
+   "id": 438,
+   "kid_safe": 1,
+   "length": 0.6,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Vivir Sin Ti"
+  },
+  {
+   "artist": "Humane",
+   "complexity": 0.2,
+   "id": 371,
+   "kid_safe": 1,
+   "length": 0.87,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Rescue Me"
+  },
+  {
+   "artist": "Crosby & Nash",
+   "complexity": 0.4,
+   "id": 370,
+   "kid_safe": 1,
+   "length": 0.67,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Half Your Angels"
+  },
+  {
+   "artist": "Carmen McRae",
+   "complexity": 0.2,
+   "id": 699,
+   "kid_safe": 1,
+   "length": 0.77,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Just One of Those Things"
+  },
+  {
+   "artist": "Here We Go Magic",
+   "complexity": 0.6,
+   "id": 183,
+   "kid_safe": 1,
+   "length": 0.73,
+   "love": 0.2,
+   "mood": 1,
+   "title": "How Do I Know"
+  },
+  {
+   "artist": "Terrel, Tammi",
+   "complexity": 0.2,
+   "id": 275,
+   "kid_safe": 1,
+   "length": 0.69,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "You're All I Need to Get By"
+  },
+  {
+   "artist": "Christopher Cross",
+   "complexity": 0.2,
+   "id": 398,
+   "kid_safe": 1,
+   "length": 0.42,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "No Time for Talk"
+  },
+  {
+   "artist": "Hatebreed",
+   "complexity": 0.6,
+   "id": 377,
+   "kid_safe": 0.8,
+   "length": 0.52,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Idolized and Vilified"
+  },
+  {
+   "artist": "Patsy Cline",
+   "complexity": 0.2,
+   "id": 680,
+   "kid_safe": 1,
+   "length": 0.36,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Crazy"
+  },
+  {
+   "artist": "The Beta Band",
+   "complexity": 0.2,
+   "id": 70,
+   "kid_safe": 1,
+   "length": 0.26,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Broke"
+  },
+  {
+   "artist": "The Beatles",
+   "complexity": 0.2,
+   "id": 860,
+   "kid_safe": 1,
+   "length": 0.6,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Get Back"
+  },
+  {
+   "artist": "Xzibit",
+   "complexity": 1.0,
+   "id": 825,
+   "kid_safe": 0.4,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.33,
+   "title": "Harder"
+  },
+  {
+   "artist": "Geri Halliwell",
+   "complexity": 0.4,
+   "id": 847,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.6,
+   "mood": 1.0,
+   "title": "Love Never Loved Me"
+  },
+  {
+   "artist": "Beyonc\u00e9",
+   "complexity": 0.2,
+   "id": 137,
+   "kid_safe": 0.9,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Ego [Fan Exclusive] [Video]"
+  },
+  {
+   "artist": "Jos\u00e9 Feliciano",
+   "complexity": 0.2,
+   "id": 209,
+   "kid_safe": 1,
+   "length": 0.83,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Ahora Si Quiero Amar"
+  },
+  {
+   "artist": "Georgie Fame & the Blue Flames",
+   "complexity": 0.4,
+   "id": 743,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Sweet Thing"
+  },
+  {
+   "artist": "Helen Humes",
+   "complexity": 0.2,
+   "id": 851,
+   "kid_safe": 1,
+   "length": 0.53,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Jet Propelled Papa"
+  },
+  {
+   "artist": "Patricia Neway",
+   "complexity": 0.6,
+   "id": 289,
+   "kid_safe": 1,
+   "length": 0.35,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Climb Ev'ry Mountain"
+  },
+  {
+   "artist": "Rappin' 4 Tay",
+   "complexity": 1.0,
+   "id": 525,
+   "kid_safe": -0.10000000000000009,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Sweet Love"
+  },
+  {
+   "artist": "Belinda Carlisle",
+   "complexity": 0.2,
+   "id": 935,
+   "kid_safe": 1,
+   "length": 0.47,
+   "love": 0.6,
+   "mood": 1,
+   "title": "Vision of You"
+  },
+  {
+   "artist": "Melanie Martinez",
+   "complexity": 0.4,
+   "id": 802,
+   "kid_safe": 0.8,
+   "length": 0.69,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Milk and Cookies"
+  },
+  {
+   "artist": "Billie Holiday",
+   "complexity": 0.2,
+   "id": 288,
+   "kid_safe": 1,
+   "length": 0.25,
+   "love": 0.4,
+   "mood": 1,
+   "title": "No Regrets"
+  },
+  {
+   "artist": "Eddie Santiago",
+   "complexity": 0.4,
+   "id": 864,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Una Nueva Oportunidad"
+  },
+  {
+   "artist": "Club 8",
+   "complexity": 0.6,
+   "id": 585,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Close to Me"
+  },
+  {
+   "artist": "Lightnin' Hopkins",
+   "complexity": 0.6,
+   "id": 306,
+   "kid_safe": 1,
+   "length": 0.62,
+   "love": 0.6,
+   "mood": 0.5,
+   "title": "Everything Happens to Me"
+  },
+  {
+   "artist": "The Barking Dogs",
+   "complexity": 0.4,
+   "id": 193,
+   "kid_safe": 1,
+   "length": 0.77,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "It's Alrigh"
+  },
+  {
+   "artist": "Wilbert Harrison",
+   "complexity": 0.0,
+   "id": 729,
+   "kid_safe": 1,
+   "length": 0.76,
+   "love": 0.0,
+   "mood": 1,
+   "title": "Let's Stick Together"
+  },
+  {
+   "artist": "JimBo Whaley",
+   "complexity": 0.8,
+   "id": 921,
+   "kid_safe": 1,
+   "length": 0.92,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Summer of '69"
+  },
+  {
+   "artist": "Earl Scruggs",
+   "complexity": 0.2,
+   "id": 159,
+   "kid_safe": 1,
+   "length": 0.66,
+   "love": 0.2,
+   "mood": 0.25,
+   "title": "Some of Shelley's Blues"
+  },
+  {
+   "artist": "Van Dyke Parks",
+   "complexity": 0.8,
+   "id": 21,
+   "kid_safe": 1,
+   "length": 0.6,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "The All Golden"
+  },
+  {
+   "artist": "I Am Kloot",
+   "complexity": 0.4,
+   "id": 857,
+   "kid_safe": 1,
+   "length": 0.49,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Over My Shoulder"
+  },
+  {
+   "artist": "Jacob Miller",
+   "complexity": 0.2,
+   "id": 147,
+   "kid_safe": 1,
+   "length": 0.93,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Westbound Train"
+  },
+  {
+   "artist": "Ricasso",
+   "complexity": 0.4,
+   "id": 706,
+   "kid_safe": 1,
+   "length": 0.86,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Guitar Town"
+  },
+  {
+   "artist": "Oscar Peterson",
+   "complexity": 0.4,
+   "id": 99,
+   "kid_safe": 1,
+   "length": 0.26,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Stella by Starligh"
+  },
+  {
+   "artist": "Willie Bobo",
+   "complexity": 0.2,
+   "id": 995,
+   "kid_safe": 1,
+   "length": 0.83,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Knock on Wood"
+  },
+  {
+   "artist": ".38 Special",
+   "complexity": 0.2,
+   "id": 33,
+   "kid_safe": 1,
+   "length": 0.93,
+   "love": 0.4,
+   "mood": 0.5,
+   "title": "Hold On Loosely"
+  },
+  {
+   "artist": "Waylon Jennings",
+   "complexity": 0.2,
+   "id": 68,
+   "kid_safe": 1,
+   "length": 0.49,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Pretend I Never Happened"
+  },
+  {
+   "artist": "Bobby Womack",
+   "complexity": 0.2,
+   "id": 609,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Save the Children"
+  },
+  {
+   "artist": "Hunters & Collectors",
+   "complexity": 0.6,
+   "id": 930,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Inside a Fireball"
+  },
+  {
+   "artist": "Ligabue",
+   "complexity": 0.4,
+   "id": 647,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "A  Che Ora \u00e8 la Fine del Mondo? [It's the End of the World as We Know I"
+  },
+  {
+   "artist": "Hank Snow",
+   "complexity": 0.4,
+   "id": 952,
+   "kid_safe": 1,
+   "length": 0.46,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Somewhere Along Life's Highway"
+  },
+  {
+   "artist": "Gene Autry",
+   "complexity": 0.2,
+   "id": 661,
+   "kid_safe": 1,
+   "length": 0.57,
+   "love": 0.6,
+   "mood": 1,
+   "title": "Have I Told You Lately That I Love You"
+  },
+  {
+   "artist": "Jodeci",
+   "complexity": 0.2,
+   "id": 779,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.33,
+   "title": "Stay"
+  },
+  {
+   "artist": "Generation X",
+   "complexity": 0.2,
+   "id": 898,
+   "kid_safe": 1,
+   "length": 0.56,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Revenge"
+  },
+  {
+   "artist": "Shabba Ranks",
+   "complexity": 0.4,
+   "id": 502,
+   "kid_safe": 1,
+   "length": 0.15,
+   "love": 0.0,
+   "mood": 1,
+   "title": "Turn It Down"
+  },
+  {
+   "artist": "Selena Gomez & the Scene",
+   "complexity": 0.2,
+   "id": 852,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 1,
+   "title": "Who Says"
+  },
+  {
+   "artist": "Eddie \"Lockjaw\" Davis",
+   "complexity": 0.2,
+   "id": 640,
+   "kid_safe": 1,
+   "length": 0.34,
+   "love": 0.2,
+   "mood": 1,
+   "title": "I Only Have Eyes for You"
+  },
+  {
+   "artist": "Dead Kennedys",
+   "complexity": 0.8,
+   "id": 1,
+   "kid_safe": 0.6,
+   "length": 0.64,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Police Truck"
+  },
+  {
+   "artist": "Michelle Williams",
+   "complexity": 0.2,
+   "id": 816,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.33,
+   "title": "Heard a Word"
+  },
+  {
+   "artist": "Mariah Carey",
+   "complexity": 0.8,
+   "id": 953,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.8,
+   "mood": 1.0,
+   "title": "We Belong Together"
+  },
+  {
+   "artist": "Tina Turner",
+   "complexity": 0.2,
+   "id": 498,
+   "kid_safe": 1,
+   "length": 0.64,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "A Fool In Love"
+  },
+  {
+   "artist": "Blondestreak",
+   "complexity": 0.2,
+   "id": 198,
+   "kid_safe": 1,
+   "length": 0.88,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Do You Know the Way to San Jose?"
+  },
+  {
+   "artist": "Audrey Gallagher",
+   "complexity": 0.2,
+   "id": 908,
+   "kid_safe": 1,
+   "length": 0.83,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Big Sky"
+  },
+  {
+   "artist": "Aerosmith",
+   "complexity": 0.6,
+   "id": 841,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.6,
+   "mood": 1.0,
+   "title": "Love in an Elevator [Live]"
+  },
+  {
+   "artist": "Kasabian",
+   "complexity": 0.2,
+   "id": 803,
+   "kid_safe": 1,
+   "length": 0.6,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Cutt Off"
+  },
+  {
+   "artist": "Dolly Parton",
+   "complexity": 0.2,
+   "id": 361,
+   "kid_safe": 1,
+   "length": 0.57,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Puppy Love"
+  },
+  {
+   "artist": "Bob Marley & the Wailers",
+   "complexity": 0.2,
+   "id": 98,
+   "kid_safe": 1,
+   "length": 0.63,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Lively Up Yourself"
+  },
+  {
+   "artist": "Domenico Modugno",
+   "complexity": 0.4,
+   "id": 515,
+   "kid_safe": 1,
+   "length": 0.87,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "La Lontananza"
+  },
+  {
+   "artist": "Los \u00c1ngeles Azules",
+   "complexity": 0.4,
+   "id": 645,
+   "kid_safe": 1,
+   "length": 0.55,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "El  Pecado"
+  },
+  {
+   "artist": "Cherri Bomb",
+   "complexity": 0.2,
+   "id": 185,
+   "kid_safe": 1,
+   "length": 0.18,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Take This Now"
+  },
+  {
+   "artist": "Rick Wakeman",
+   "complexity": 0.2,
+   "id": 284,
+   "kid_safe": 1,
+   "length": 0.66,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Eleanor Rigby"
+  },
+  {
+   "artist": "Michael Mind",
+   "complexity": 0.2,
+   "id": 204,
+   "kid_safe": 1,
+   "length": 0.46,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Show Me Love"
+  },
+  {
+   "artist": "Butthole Surfers",
+   "complexity": 0.4,
+   "id": 18,
+   "kid_safe": 0.9,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Pepper"
+  },
+  {
+   "artist": "Frank Griffith",
+   "complexity": 0.2,
+   "id": 707,
+   "kid_safe": 1,
+   "length": 0.45,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Body and Soul"
+  },
+  {
+   "artist": "Amy Macdonald",
+   "complexity": 0.2,
+   "id": 837,
+   "kid_safe": 1,
+   "length": 0.68,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "In the End"
+  },
+  {
+   "artist": "James Lee Stanley",
+   "complexity": 0.2,
+   "id": 753,
+   "kid_safe": 1,
+   "length": 0.39,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "Daydream Believer"
+  },
+  {
+   "artist": "Small Faces",
+   "complexity": 0.4,
+   "id": 421,
+   "kid_safe": 1,
+   "length": 0.96,
+   "love": 0.0,
+   "mood": 1,
+   "title": "Happydaystoytown"
+  },
+  {
+   "artist": "Vera Lynn",
+   "complexity": 0.4,
+   "id": 127,
+   "kid_safe": 1,
+   "length": 0.5,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "White Cliffs of Dover"
+  },
+  {
+   "artist": "Mark Knopfler",
+   "complexity": 0.2,
+   "id": 295,
+   "kid_safe": 1,
+   "length": 0.88,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Laughs and Jokes and Drinks and Smokes"
+  },
+  {
+   "artist": "Los Andariegos",
+   "complexity": 0.2,
+   "id": 428,
+   "kid_safe": 1,
+   "length": 0.63,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "No Te Olvidare"
+  },
+  {
+   "artist": "Los Yonic's",
+   "complexity": 0.4,
+   "id": 389,
+   "kid_safe": 1,
+   "length": 0.66,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Quincea\u00f1era"
+  },
+  {
+   "artist": "Bright Eyes",
+   "complexity": 0.4,
+   "id": 354,
+   "kid_safe": 1,
+   "length": 0.7,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "One For You, One For Me"
+  },
+  {
+   "artist": "Terry Callier",
+   "complexity": 0.2,
+   "id": 384,
+   "kid_safe": 1,
+   "length": 0.68,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Live with Me"
+  },
+  {
+   "artist": "Zao",
+   "complexity": 0.4,
+   "id": 221,
+   "kid_safe": 1,
+   "length": 0.33,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Repressed"
+  },
+  {
+   "artist": "Moe Tucker",
+   "complexity": 0.2,
+   "id": 975,
+   "kid_safe": 1,
+   "length": 0.51,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Danny Boy"
+  },
+  {
+   "artist": "Iron Maiden",
+   "complexity": 0.4,
+   "id": 160,
+   "kid_safe": 1,
+   "length": 0.88,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Hallowed Be Thy Name"
+  },
+  {
+   "artist": "Mario Lanza",
+   "complexity": 0.4,
+   "id": 407,
+   "kid_safe": 1,
+   "length": 0.53,
+   "love": 0.6,
+   "mood": 1,
+   "title": "Be My Love (from the film The Toast of New Orleans)"
+  },
+  {
+   "artist": "Doc Watson",
+   "complexity": 0.2,
+   "id": 950,
+   "kid_safe": 1,
+   "length": 0.55,
+   "love": 1.0,
+   "mood": 1,
+   "title": "Shady Grove"
+  },
+  {
+   "artist": "Belchior",
+   "complexity": 0.2,
+   "id": 32,
+   "kid_safe": 1,
+   "length": 0.28,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Mucuripe"
+  },
+  {
+   "artist": "Elton John",
+   "complexity": 0.2,
+   "id": 999,
+   "kid_safe": 1,
+   "length": 0.11,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Song for Guy"
+  },
+  {
+   "artist": "Peter Frampton",
+   "complexity": 0.4,
+   "id": 839,
+   "kid_safe": 1,
+   "length": 0.74,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Verge of a Thing"
+  },
+  {
+   "artist": "Buy This Song",
+   "complexity": 0.4,
+   "id": 472,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.67,
+   "title": "He's Funny That Way"
+  },
+  {
+   "artist": "The Black Eyed Peas",
+   "complexity": 0.6,
+   "id": 671,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.33,
+   "title": "Fallin' Up"
+  },
+  {
+   "artist": "Tristan Prettyman",
+   "complexity": 0.6,
+   "id": 586,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.6,
+   "mood": 1.0,
+   "title": "Never Say Never"
+  },
+  {
+   "artist": "Portishead",
+   "complexity": 0.2,
+   "id": 146,
+   "kid_safe": 1,
+   "length": 0.38,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Silence"
+  },
+  {
+   "artist": "Duncan Dhu",
+   "complexity": 0.4,
+   "id": 93,
+   "kid_safe": 1,
+   "length": 0.63,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Cien Gaviotas"
+  },
+  {
+   "artist": "Bloodhound Gang",
+   "complexity": 1.0,
+   "id": 467,
+   "kid_safe": 0.7,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Three Point One Four"
+  },
+  {
+   "artist": "Athlete",
+   "complexity": 0.2,
+   "id": 267,
+   "kid_safe": 1,
+   "length": 0.5,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Beautiful"
+  },
+  {
+   "artist": "The Dixie Cups",
+   "complexity": 0.4,
+   "id": 796,
+   "kid_safe": 1,
+   "length": 0.63,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Iko Iko"
+  },
+  {
+   "artist": "Ani DiFranco",
+   "complexity": 0.2,
+   "id": 491,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.33,
+   "title": "What If No One's Watching"
+  },
+  {
+   "artist": "Smiley Lewis",
+   "complexity": 0.4,
+   "id": 494,
+   "kid_safe": 1,
+   "length": 0.6,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "When Did You Leave Heaven"
+  },
+  {
+   "artist": "Kim Fowley",
+   "complexity": 0.2,
+   "id": 234,
+   "kid_safe": 1,
+   "length": 0.66,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "The Trip"
+  },
+  {
+   "artist": "The Cure",
+   "complexity": 0.6,
+   "id": 723,
+   "kid_safe": 1,
+   "length": 0.71,
+   "love": 0.0,
+   "mood": 1,
+   "title": "Let's Go to Bed"
+  },
+  {
+   "artist": "Fleetwood Mac",
+   "complexity": 0.2,
+   "id": 719,
+   "kid_safe": 1,
+   "length": 0.77,
+   "love": 0.6,
+   "mood": 1,
+   "title": "Homework"
+  },
+  {
+   "artist": "Bad Manners",
+   "complexity": 0.8,
+   "id": 946,
+   "kid_safe": 1,
+   "length": 0.82,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "That'll Do Nicely"
+  },
+  {
+   "artist": "It's a Beautiful Day",
+   "complexity": 0.4,
+   "id": 932,
+   "kid_safe": 1,
+   "length": 0.6,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "White Bird"
+  },
+  {
+   "artist": "The Velvets",
+   "complexity": 0.2,
+   "id": 341,
+   "kid_safe": 1,
+   "length": 0.56,
+   "love": 0.4,
+   "mood": 1,
+   "title": "I"
+  },
+  {
+   "artist": "Bee Gees",
+   "complexity": 0.2,
+   "id": 572,
+   "kid_safe": 1,
+   "length": 0.43,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Turn Around, Look at Me"
+  },
+  {
+   "artist": "David",
+   "complexity": 0.2,
+   "id": 755,
+   "kid_safe": 1,
+   "length": 0.3,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Nature Boy"
+  },
+  {
+   "artist": "Rochelle",
+   "complexity": 0.4,
+   "id": 517,
+   "kid_safe": 1,
+   "length": 0.69,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Think Twice"
+  },
+  {
+   "artist": "Vico C",
+   "complexity": 0.8,
+   "id": 191,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Te Voy a Tomar"
+  },
+  {
+   "artist": "Lee Greenwood",
+   "complexity": 0.2,
+   "id": 216,
+   "kid_safe": 1,
+   "length": 0.72,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "I.O.U"
+  },
+  {
+   "artist": "O Mega",
+   "complexity": 0.2,
+   "id": 310,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "I Believe"
+  },
+  {
+   "artist": "Mark Trichka",
+   "complexity": 0.4,
+   "id": 641,
+   "kid_safe": 1,
+   "length": 0.75,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Begin The Beguine"
+  },
+  {
+   "artist": "Memphis Slim",
+   "complexity": 0.2,
+   "id": 912,
+   "kid_safe": 0.8,
+   "length": 0.6,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Caught the Old Coon at Las"
+  },
+  {
+   "artist": "2 Chainz",
+   "complexity": 0.4,
+   "id": 460,
+   "kid_safe": 0.5,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "Cut Her Off"
+  },
+  {
+   "artist": "Pablo Albor\u00e1n",
+   "complexity": 0.2,
+   "id": 215,
+   "kid_safe": 1,
+   "length": 0.71,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Ser\u00e9"
+  },
+  {
+   "artist": "Black Grape",
+   "complexity": 0.8,
+   "id": 314,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "In the Name of the Father"
+  },
+  {
+   "artist": "The Jeff Healey Band",
+   "complexity": 0.6,
+   "id": 240,
+   "kid_safe": 1,
+   "length": 0.8,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Confidence Man"
+  },
+  {
+   "artist": "Stereo MC's",
+   "complexity": 0.2,
+   "id": 974,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Step It Up"
+  },
+  {
+   "artist": "The Chemical Brothers",
+   "complexity": 0.6,
+   "id": 230,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "This Is Not a Game"
+  },
+  {
+   "artist": "Chris Botti",
+   "complexity": 0.2,
+   "id": 519,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Lola's Mambo"
+  },
+  {
+   "artist": "Agust\u00edn Lara",
+   "complexity": 0.4,
+   "id": 111,
+   "kid_safe": 1,
+   "length": 0.6,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Mar\u00eda Bonita"
+  },
+  {
+   "artist": "Barrington Levy",
+   "complexity": 0.4,
+   "id": 120,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1,
+   "title": "She's Mine"
+  },
+  {
+   "artist": "The Belmonts",
+   "complexity": 0.2,
+   "id": 910,
+   "kid_safe": 1,
+   "length": 0.78,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "A Teenager in Love"
+  },
+  {
+   "artist": "Brenda Lee",
+   "complexity": 0.2,
+   "id": 316,
+   "kid_safe": 1,
+   "length": 0.75,
+   "love": 0.2,
+   "mood": 1,
+   "title": "I'm Learning About Love [*]"
+  },
+  {
+   "artist": "Michael Mcleavy",
+   "complexity": 0.2,
+   "id": 690,
+   "kid_safe": 1,
+   "length": 0.51,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Danny Boy"
+  },
+  {
+   "artist": "Dokken",
+   "complexity": 0.2,
+   "id": 677,
+   "kid_safe": 1,
+   "length": 0.79,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "The Hunter"
+  },
+  {
+   "artist": "Buy This Song",
+   "complexity": 0.2,
+   "id": 210,
+   "kid_safe": 1,
+   "length": 0.65,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Sophisticated Lady"
+  },
+  {
+   "artist": "Little Richard",
+   "complexity": 0.4,
+   "id": 966,
+   "kid_safe": 1,
+   "length": 0.94,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Tutti Frutti"
+  },
+  {
+   "artist": "Michael Ross",
+   "complexity": 0.2,
+   "id": 419,
+   "kid_safe": 1,
+   "length": 0.72,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "That Summer Nigh"
+  },
+  {
+   "artist": "Percy Faith",
+   "complexity": 0.4,
+   "id": 292,
+   "kid_safe": 1,
+   "length": 0.38,
+   "love": 0.6,
+   "mood": 1,
+   "title": "Theme from \"A Summer Place\""
+  },
+  {
+   "artist": "Neil Young & Crazy Horse",
+   "complexity": 0.4,
+   "id": 387,
+   "kid_safe": 1,
+   "length": 0.69,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Blowin' in the Wind"
+  },
+  {
+   "artist": "Big Mama Thornton",
+   "complexity": 0.2,
+   "id": 909,
+   "kid_safe": 1,
+   "length": 0.49,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "I Smell a Ra"
+  },
+  {
+   "artist": "Sammy Kershaw",
+   "complexity": 0.2,
+   "id": 320,
+   "kid_safe": 1,
+   "length": 0.82,
+   "love": 0.6,
+   "mood": 1,
+   "title": "Me and Maxine"
+  },
+  {
+   "artist": "Earth, Wind & Fire",
+   "complexity": 0.4,
+   "id": 404,
+   "kid_safe": 1,
+   "length": 0.42,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Jingle Bell Rock"
+  },
+  {
+   "artist": "Howlin' Wolf",
+   "complexity": 0.4,
+   "id": 827,
+   "kid_safe": 1,
+   "length": 0.37,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "How Many More Years"
+  },
+  {
+   "artist": "Gonzales",
+   "complexity": 0.4,
+   "id": 107,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Too Long"
+  },
+  {
+   "artist": "G.B.H.",
+   "complexity": 0.2,
+   "id": 365,
+   "kid_safe": 1,
+   "length": 0.23,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Time Bomb"
+  },
+  {
+   "artist": "Tee",
+   "complexity": 0.4,
+   "id": 369,
+   "kid_safe": 1,
+   "length": 0.69,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Think Twice"
+  },
+  {
+   "artist": "Alvaro Torres",
+   "complexity": 0.4,
+   "id": 152,
+   "kid_safe": 1,
+   "length": 0.54,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Hazme Olvidarla"
+  },
+  {
+   "artist": "Hagfish",
+   "complexity": 0.2,
+   "id": 133,
+   "kid_safe": 1,
+   "length": 0.34,
+   "love": 0.0,
+   "mood": 1,
+   "title": "California"
+  },
+  {
+   "artist": "Wallace Roney",
+   "complexity": 0.2,
+   "id": 239,
+   "kid_safe": 1,
+   "length": 0.79,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Just My Imagination"
+  },
+  {
+   "artist": "Loverboy",
+   "complexity": 0.2,
+   "id": 570,
+   "kid_safe": 1,
+   "length": 0.9,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Turn Me Loose"
+  },
+  {
+   "artist": "Crimson Glory",
+   "complexity": 0.0,
+   "id": 58,
+   "kid_safe": 1,
+   "length": 0.89,
+   "love": 0.8,
+   "mood": 1.0,
+   "title": "In the Mood"
+  },
+  {
+   "artist": "Coleman Hawkins",
+   "complexity": 0.2,
+   "id": 627,
+   "kid_safe": 1,
+   "length": 0.25,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Day by Day"
+  },
+  {
+   "artist": "Bert Kaempfert & His Orchestra",
+   "complexity": 0.4,
+   "id": 270,
+   "kid_safe": 1,
+   "length": 0.64,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Whispering"
+  },
+  {
+   "artist": "Feist",
+   "complexity": 0.2,
+   "id": 560,
+   "kid_safe": 1,
+   "length": 0.48,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "One Evening"
+  },
+  {
+   "artist": "Dalida",
+   "complexity": 0.2,
+   "id": 513,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Bambino"
+  },
+  {
+   "artist": "Buzzcocks",
+   "complexity": 0.2,
+   "id": 208,
+   "kid_safe": 1,
+   "length": 0.78,
+   "love": 0.4,
+   "mood": 0.33,
+   "title": "Jerk"
+  },
+  {
+   "artist": "Delta Goodrem",
+   "complexity": 0.2,
+   "id": 402,
+   "kid_safe": 1,
+   "length": 0.59,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Born To Try"
+  },
+  {
+   "artist": "Brian McKnight",
+   "complexity": 0.4,
+   "id": 244,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Shoulda, Woulda, Coulda"
+  },
+  {
+   "artist": "Deborah Brown",
+   "complexity": 0.2,
+   "id": 684,
+   "kid_safe": 1,
+   "length": 0.72,
+   "love": 0.8,
+   "mood": 0.0,
+   "title": "After You've Gone"
+  },
+  {
+   "artist": "Toots Thielemans",
+   "complexity": 0.4,
+   "id": 110,
+   "kid_safe": 1,
+   "length": 0.36,
+   "love": 0.4,
+   "mood": 0.5,
+   "title": "Autumn Leaves"
+  },
+  {
+   "artist": "R.E.M.",
+   "complexity": 0.2,
+   "id": 178,
+   "kid_safe": 1,
+   "length": 0.54,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Kohoutek"
+  },
+  {
+   "artist": "The Band",
+   "complexity": 0.4,
+   "id": 163,
+   "kid_safe": 1,
+   "length": 0.76,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Across the Great Divide"
+  },
+  {
+   "artist": "Ronny",
+   "complexity": 0.2,
+   "id": 608,
+   "kid_safe": 1,
+   "length": 0.56,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Oh, My Darling Caroline"
+  },
+  {
+   "artist": "Elis",
+   "complexity": 0.2,
+   "id": 895,
+   "kid_safe": 1,
+   "length": 0.68,
+   "love": 0.4,
+   "mood": 1,
+   "title": "I Come Undone"
+  },
+  {
+   "artist": "Dennis Brown",
+   "complexity": 0.2,
+   "id": 993,
+   "kid_safe": 1,
+   "length": 0.69,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Lips of Wine"
+  },
+  {
+   "artist": "Charlie Parker",
+   "complexity": 0.2,
+   "id": 479,
+   "kid_safe": 1,
+   "length": 0.22,
+   "love": 0.6,
+   "mood": 1,
+   "title": "Cherokee"
+  },
+  {
+   "artist": "You Say Party! We Say Die!",
+   "complexity": 0.2,
+   "id": 13,
+   "kid_safe": 1,
+   "length": 0.88,
+   "love": 0.0,
+   "mood": 0.33,
+   "title": "Monster"
+  },
+  {
+   "artist": "Gomez",
+   "complexity": 0.2,
+   "id": 786,
+   "kid_safe": 1,
+   "length": 0.62,
+   "love": 0.0,
+   "mood": 0.33,
+   "title": "78 Stone Wobble"
+  },
+  {
+   "artist": "Cherise",
+   "complexity": 0.2,
+   "id": 630,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Other Half"
+  },
+  {
+   "artist": "Bob Marley",
+   "complexity": 0.2,
+   "id": 375,
+   "kid_safe": 1,
+   "length": 0.64,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Corner Stone"
+  },
+  {
+   "artist": "DMX",
+   "complexity": 0.4,
+   "id": 553,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 0.67,
+   "title": "Head Up"
+  },
+  {
+   "artist": "Piero Odorici",
+   "complexity": 0.2,
+   "id": 454,
+   "kid_safe": 1,
+   "length": 0.68,
+   "love": 0.0,
+   "mood": 1,
+   "title": "Over the Rainbow"
+  },
+  {
+   "artist": "Luis Miguel",
+   "complexity": 0.4,
+   "id": 51,
+   "kid_safe": 1,
+   "length": 0.55,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Amor de Escuela"
+  },
+  {
+   "artist": "Cliff Richard",
+   "complexity": 0.4,
+   "id": 754,
+   "kid_safe": 1,
+   "length": 0.81,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "On The Beach"
+  },
+  {
+   "artist": "Stephen Fearing",
+   "complexity": 0.8,
+   "id": 968,
+   "kid_safe": 1,
+   "length": 0.67,
+   "love": 0.4,
+   "mood": 0.25,
+   "title": "The Finest Kind"
+  },
+  {
+   "artist": "Rocket from the Tombs",
+   "complexity": 0.2,
+   "id": 557,
+   "kid_safe": 1,
+   "length": 0.54,
+   "love": 0.6,
+   "mood": 1,
+   "title": "Search & Destroy"
+  },
+  {
+   "artist": "Cataract",
+   "complexity": 0.2,
+   "id": 340,
+   "kid_safe": 1,
+   "length": 0.51,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Killing Tool"
+  },
+  {
+   "artist": "Tommy Torres",
+   "complexity": 0.4,
+   "id": 274,
+   "kid_safe": 1,
+   "length": 0.95,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Por un Beso Tuyo"
+  },
+  {
+   "artist": "Jeff Bridges",
+   "complexity": 0.2,
+   "id": 622,
+   "kid_safe": 1,
+   "length": 0.62,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Hold on You"
+  },
+  {
+   "artist": "Doctor E",
+   "complexity": 0.2,
+   "id": 400,
+   "kid_safe": 1,
+   "length": 0.28,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Here's That Rainy Day"
+  },
+  {
+   "artist": "Woody Guthrie",
+   "complexity": 1.0,
+   "id": 633,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.25,
+   "title": "Mean Talking Blues"
+  },
+  {
+   "artist": "Shark Island",
+   "complexity": 0.2,
+   "id": 538,
+   "kid_safe": 1,
+   "length": 0.36,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Temptation"
+  },
+  {
+   "artist": "Mekong Delta",
+   "complexity": 0.0,
+   "id": 228,
+   "kid_safe": 1,
+   "length": 0.99,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "The Healer"
+  },
+  {
+   "artist": "Leonard Cohen",
+   "complexity": 0.2,
+   "id": 418,
+   "kid_safe": 1,
+   "length": 0.91,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "The Partisan [Hartwall Arena, Helsinki, Finland, October 10, 2008]"
+  },
+  {
+   "artist": "Informatik",
+   "complexity": 0.2,
+   "id": 818,
+   "kid_safe": 1,
+   "length": 0.31,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Watching You Watching Me"
+  },
+  {
+   "artist": "Stereo Total",
+   "complexity": 0.2,
+   "id": 237,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "Chelsea Girls [Thieves Like Us Remix]"
+  },
+  {
+   "artist": "Chris Thompson",
+   "complexity": 0.2,
+   "id": 105,
+   "kid_safe": 1,
+   "length": 0.68,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "If You Remember Me"
+  },
+  {
+   "artist": "Mary Witt",
+   "complexity": 0.2,
+   "id": 286,
+   "kid_safe": 1,
+   "length": 0.56,
+   "love": 0.2,
+   "mood": 1,
+   "title": "If You Don't Know Me by Now"
+  },
+  {
+   "artist": "Paul Kotheimer",
+   "complexity": 0.4,
+   "id": 678,
+   "kid_safe": 1,
+   "length": 0.38,
+   "love": 0.0,
+   "mood": 1,
+   "title": "Hallelujah, I'm a Bum"
+  },
+  {
+   "artist": "Sean Paul",
+   "complexity": 0.6,
+   "id": 602,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "Temperature"
+  },
+  {
+   "artist": "Fergie",
+   "complexity": 0.6,
+   "id": 917,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Big Girls Don't Cry"
+  },
+  {
+   "artist": "Otis Rush & His Band",
+   "complexity": 0.2,
+   "id": 659,
+   "kid_safe": 1,
+   "length": 0.25,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Double Trouble"
+  },
+  {
+   "artist": "Sunrise Avenue",
+   "complexity": 0.2,
+   "id": 509,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Fairytale Gone Bad [Radio Edit]"
+  },
+  {
+   "artist": "Fra Lippo Lippi",
+   "complexity": 0.2,
+   "id": 36,
+   "kid_safe": 1,
+   "length": 0.27,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "The Treasure"
+  },
+  {
+   "artist": "Anne Murray",
+   "complexity": 0.2,
+   "id": 698,
+   "kid_safe": 1,
+   "length": 0.93,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Time Don't Run Out on Me"
+  },
+  {
+   "artist": "Tyler Bryant & the Shakedown",
+   "complexity": 0.2,
+   "id": 740,
+   "kid_safe": 1,
+   "length": 0.75,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Say a Prayer"
+  },
+  {
+   "artist": "Johnny Winter",
+   "complexity": 0.2,
+   "id": 181,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Parchman Farm"
+  },
+  {
+   "artist": "Jeffrey Hattrick",
+   "complexity": 0.4,
+   "id": 922,
+   "kid_safe": 1,
+   "length": 0.41,
+   "love": 0.2,
+   "mood": 1,
+   "title": "All the Way"
+  },
+  {
+   "artist": "Scherrie",
+   "complexity": 0.2,
+   "id": 695,
+   "kid_safe": 1,
+   "length": 0.73,
+   "love": 0.6,
+   "mood": 0.67,
+   "title": "Baby Love"
+  },
+  {
+   "artist": "Shalamar",
+   "complexity": 0.2,
+   "id": 79,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Take That to the Bank"
+  },
+  {
+   "artist": "Buy This Song",
+   "complexity": 0.2,
+   "id": 639,
+   "kid_safe": 1,
+   "length": 0.77,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Superstition"
+  },
+  {
+   "artist": "Thirty Seconds to Mars",
+   "complexity": 0.2,
+   "id": 595,
+   "kid_safe": 1,
+   "length": 0.65,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Savior"
+  },
+  {
+   "artist": "Falco",
+   "complexity": 0.6,
+   "id": 784,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Der Kommissar"
+  },
+  {
+   "artist": "Dolly Parton",
+   "complexity": 0.2,
+   "id": 302,
+   "kid_safe": 1,
+   "length": 0.65,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Hold Me"
+  },
+  {
+   "artist": "Kenny Drew",
+   "complexity": 0.2,
+   "id": 820,
+   "kid_safe": 1,
+   "length": 0.38,
+   "love": 0.4,
+   "mood": 1,
+   "title": "There Is No Greater Love"
+  },
+  {
+   "artist": "Barbara & Al Boudreau",
+   "complexity": 0.4,
+   "id": 801,
+   "kid_safe": 1,
+   "length": 0.49,
+   "love": 0.4,
+   "mood": 1,
+   "title": "I'm Old Fashioned"
+  },
+  {
+   "artist": "Jennifer Weatherly",
+   "complexity": 0.2,
+   "id": 346,
+   "kid_safe": 1,
+   "length": 0.51,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "The Fine Art of Holding a Woman"
+  },
+  {
+   "artist": "Buy This Song",
+   "complexity": 0.6,
+   "id": 549,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Fixer Upper"
+  },
+  {
+   "artist": "The Bristols",
+   "complexity": 0.2,
+   "id": 422,
+   "kid_safe": 1,
+   "length": 0.53,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "My Bonnie"
+  },
+  {
+   "artist": "Albert Hammond, Jr.",
+   "complexity": 0.4,
+   "id": 87,
+   "kid_safe": 1,
+   "length": 0.39,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Postal Blowfish"
+  },
+  {
+   "artist": "Buy This Song",
+   "complexity": 0.8,
+   "id": 308,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Could You Use Me?"
+  },
+  {
+   "artist": "Big Joe Turner",
+   "complexity": 0.4,
+   "id": 433,
+   "kid_safe": 1,
+   "length": 0.46,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Chains of Love"
+  },
+  {
+   "artist": "Big Maybelle",
+   "complexity": 0.2,
+   "id": 840,
+   "kid_safe": 1,
+   "length": 0.38,
+   "love": 0.6,
+   "mood": 1.0,
+   "title": "Candy"
+  },
+  {
+   "artist": "Natalia Oreiro",
+   "complexity": 0.0,
+   "id": 385,
+   "kid_safe": 1,
+   "length": 0.35,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Sabrosito Y Dulz\u00f3n"
+  },
+  {
+   "artist": "The Sound",
+   "complexity": 0.2,
+   "id": 682,
+   "kid_safe": 1,
+   "length": 0.77,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "The Fire"
+  },
+  {
+   "artist": "Buy This Song",
+   "complexity": 0.2,
+   "id": 104,
+   "kid_safe": 1,
+   "length": 0.58,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "The Zoo"
+  },
+  {
+   "artist": "Nina Simone",
+   "complexity": 0.2,
+   "id": 663,
+   "kid_safe": 1,
+   "length": 0.47,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "My Baby Just Cares for Me"
+  },
+  {
+   "artist": "Jazz Ambassadors",
+   "complexity": 0.4,
+   "id": 638,
+   "kid_safe": 1,
+   "length": 0.37,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "I'll Be Seeing You"
+  },
+  {
+   "artist": "Foo Fighters",
+   "complexity": 0.4,
+   "id": 100,
+   "kid_safe": 1,
+   "length": 0.42,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Home"
+  },
+  {
+   "artist": "Flaming Ember",
+   "complexity": 0.2,
+   "id": 772,
+   "kid_safe": 1,
+   "length": 0.37,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Spinning Wheel"
+  },
+  {
+   "artist": "Al Green",
+   "complexity": 0.2,
+   "id": 94,
+   "kid_safe": 1,
+   "length": 0.69,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Call Me (Come Back Home)"
+  },
+  {
+   "artist": "Bang Tango",
+   "complexity": 0.2,
+   "id": 938,
+   "kid_safe": 1,
+   "length": 0.77,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Someone Like You"
+  },
+  {
+   "artist": "The Mamas & the Papas",
+   "complexity": 0.2,
+   "id": 43,
+   "kid_safe": 1,
+   "length": 0.7,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "California Dreamin'"
+  },
+  {
+   "artist": "Amy Winehouse",
+   "complexity": 0.4,
+   "id": 40,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Moody's Mood For Love"
+  },
+  {
+   "artist": "Steely Dan",
+   "complexity": 0.4,
+   "id": 601,
+   "kid_safe": 1,
+   "length": 0.75,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Do It Again"
+  },
+  {
+   "artist": "Goodies",
+   "complexity": 0.2,
+   "id": 681,
+   "kid_safe": 1,
+   "length": 0.38,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Wild Thing"
+  },
+  {
+   "artist": "Syd Barrett",
+   "complexity": 0.4,
+   "id": 235,
+   "kid_safe": 1,
+   "length": 0.2,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Golden Hair [Takes 5] [*][Take]"
+  },
+  {
+   "artist": "The Kingston Trio",
+   "complexity": 0.2,
+   "id": 734,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Tom Dooley"
+  },
+  {
+   "artist": "Neon Blonde",
+   "complexity": 0.4,
+   "id": 867,
+   "kid_safe": 0.9,
+   "length": 0.79,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Headlines"
+  },
+  {
+   "artist": "Webb Pierce",
+   "complexity": 0.2,
+   "id": 702,
+   "kid_safe": 1,
+   "length": 0.4,
+   "love": 0.4,
+   "mood": 1,
+   "title": "Slowly"
+  },
+  {
+   "artist": "Jimmy Buffett*",
+   "complexity": 0.2,
+   "id": 877,
+   "kid_safe": 1,
+   "length": 0.64,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Good Guys Win"
+  },
+  {
+   "artist": "Ebony Eyez",
+   "complexity": 0.2,
+   "id": 189,
+   "kid_safe": 0.4,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 1.0,
+   "title": "Good Vibrations"
+  },
+  {
+   "artist": "Benny Goodman & His Orchestra",
+   "complexity": 0.2,
+   "id": 915,
+   "kid_safe": 1,
+   "length": 0.73,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Shine"
+  },
+  {
+   "artist": "Nicolai Dunger",
+   "complexity": 0.2,
+   "id": 66,
+   "kid_safe": 1,
+   "length": 0.51,
+   "love": 0.2,
+   "mood": 0.5,
+   "title": "This Town"
+  },
+  {
+   "artist": "The Pussycat Dolls",
+   "complexity": 1.0,
+   "id": 587,
+   "kid_safe": 0.7,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Don't Cha"
+  },
+  {
+   "artist": "Keith Thompson",
+   "complexity": 0.4,
+   "id": 35,
+   "kid_safe": 1,
+   "length": 0.35,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Strange Brew"
+  },
+  {
+   "artist": "Rex Foster",
+   "complexity": 0.2,
+   "id": 783,
+   "kid_safe": 1,
+   "length": 0.62,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Song to Woody"
+  },
+  {
+   "artist": "Junior Jack",
+   "complexity": 0.0,
+   "id": 603,
+   "kid_safe": 1,
+   "length": 0.02,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Thrill Me"
+  },
+  {
+   "artist": "Ike Quebec",
+   "complexity": 0.4,
+   "id": 712,
+   "kid_safe": 1,
+   "length": 0.47,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "It Might As Well Be Spring"
+  },
+  {
+   "artist": "Christopher Boscole",
+   "complexity": 0.2,
+   "id": 644,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.2,
+   "mood": 1,
+   "title": "O Little Town of Bethlehem"
+  },
+  {
+   "artist": "Wye Oak",
+   "complexity": 0.4,
+   "id": 844,
+   "kid_safe": 1,
+   "length": 0.5,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Plains"
+  },
+  {
+   "artist": "Savoy Hotel Orpheans",
+   "complexity": 0.2,
+   "id": 9,
+   "kid_safe": 1,
+   "length": 0.21,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Laura"
+  },
+  {
+   "artist": "Mika",
+   "complexity": 0.6,
+   "id": 813,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "Grace Kelly"
+  },
+  {
+   "artist": "Thievery Corporation",
+   "complexity": 0.2,
+   "id": 88,
+   "kid_safe": 1,
+   "length": 0.66,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Lebanese Blonde"
+  },
+  {
+   "artist": "Randy Travis",
+   "complexity": 0.2,
+   "id": 675,
+   "kid_safe": 0.9,
+   "length": 1.0,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Three Wooden Crosses [*]"
+  },
+  {
+   "artist": "Ibrahim Ferrer",
+   "complexity": 0.2,
+   "id": 828,
+   "kid_safe": 1,
+   "length": 0.53,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Ay Candela"
+  },
+  {
+   "artist": "Johnny Burnette",
+   "complexity": 0.4,
+   "id": 333,
+   "kid_safe": 1,
+   "length": 0.59,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "You're Sixteen"
+  },
+  {
+   "artist": "Blanca",
+   "complexity": 0.4,
+   "id": 416,
+   "kid_safe": 1,
+   "length": 0.78,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Chosen Ones"
+  },
+  {
+   "artist": "Thomas Dolby",
+   "complexity": 0.2,
+   "id": 649,
+   "kid_safe": 1,
+   "length": 0.85,
+   "love": 0.6,
+   "mood": 1,
+   "title": "She Blinded Me With Science"
+  },
+  {
+   "artist": "Altan",
+   "complexity": 0.4,
+   "id": 945,
+   "kid_safe": 1,
+   "length": 0.62,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Donal Agus Morag"
+  },
+  {
+   "artist": "Jimmy Johnson",
+   "complexity": 0.2,
+   "id": 546,
+   "kid_safe": 1,
+   "length": 0.36,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Something You Go"
+  },
+  {
+   "artist": "Lead Belly",
+   "complexity": 0.2,
+   "id": 870,
+   "kid_safe": 1,
+   "length": 0.79,
+   "love": 0.0,
+   "mood": 0.0,
+   "title": "House Of The Rising Sun"
+  },
+  {
+   "artist": "Sean Paul",
+   "complexity": 0.4,
+   "id": 948,
+   "kid_safe": 1,
+   "length": 0.95,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "My Name"
+  },
+  {
+   "artist": "The Band Perry",
+   "complexity": 0.6,
+   "id": 169,
+   "kid_safe": 0.9,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 0.0,
+   "title": "Uptown Funk"
+  },
+  {
+   "artist": "Marvin Gaye",
+   "complexity": 0.4,
+   "id": 474,
+   "kid_safe": 1,
+   "length": 0.39,
+   "love": 0.4,
+   "mood": 1.0,
+   "title": "Third World Girl"
+  },
+  {
+   "artist": "Martin Solveig",
+   "complexity": 0.2,
+   "id": 936,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Everybody"
+  },
+  {
+   "artist": "Glenn Miller",
+   "complexity": 0.2,
+   "id": 865,
+   "kid_safe": 1,
+   "length": 0.51,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "I've Got No Strings"
+  },
+  {
+   "artist": "O Zone",
+   "complexity": 0.2,
+   "id": 350,
+   "kid_safe": 1,
+   "length": 0.35,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Despre Tine (Original Version)"
+  },
+  {
+   "artist": "Cedarmont Kids",
+   "complexity": 0.4,
+   "id": 490,
+   "kid_safe": 1,
+   "length": 1.0,
+   "love": 0.2,
+   "mood": 1,
+   "title": "Old Time Religion"
+  },
+  {
+   "artist": "Yves Montand",
+   "complexity": 0.4,
+   "id": 300,
+   "kid_safe": 1,
+   "length": 0.77,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "Le Gamin de Paris"
+  },
+  {
+   "artist": "The Kinks",
+   "complexity": 0.4,
+   "id": 766,
+   "kid_safe": 1,
+   "length": 0.78,
+   "love": 0.0,
+   "mood": 0.5,
+   "title": "You Really Got Me"
+  },
+  {
+   "artist": "Alkaline Trio",
+   "complexity": 0.2,
+   "id": 789,
+   "kid_safe": 1,
+   "length": 0.97,
+   "love": 0.2,
+   "mood": 1.0,
+   "title": "Hell Yes"
+  },
+  {
+   "artist": "Bryon Garrison",
+   "complexity": 0.2,
+   "id": 537,
+   "kid_safe": 1,
+   "length": 0.4,
+   "love": 0.2,
+   "mood": 1,
+   "title": "I Had the Craziest Dream"
+  },
+  {
+   "artist": "Tony Messina",
+   "complexity": 0.4,
+   "id": 149,
+   "kid_safe": 1,
+   "length": 0.44,
+   "love": 0.6,
+   "mood": 1,
+   "title": "Green Dolphin Stree"
+  }
+ ]
+}
