@@ -117,7 +117,7 @@ if __name__ == "__main__":
             obj=data,
             fp=fp,
             indent=True,  # pretty printing
-            sort_keys=True,  # sorting for easier lookup by a human, sort alphebetically
+            #sort_keys=True,  # sorting for easier lookup by a human, sort alphebetically
         )
     with open('CSV-JSON-lyrics-out.json','r') as fp:
         print_data = json.load(fp)
