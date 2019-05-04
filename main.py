@@ -3,6 +3,10 @@ import sys
 from collections import Counter
 import json
 
+#import language recognizer
+#$ pip install cld2-cffi
+import cld2
+
 
 #kid safe description
 def kid_safe(words):
@@ -75,6 +79,14 @@ def read_data(file_path):
         item["title"] = infos[2].replace("-", " ").strip('.txt')
         file_name = os.path.join(file_path, i)
         words = []
+        
+        with open(file_name, encoding='utf-8') as fp:
+            for line in fp.readlines():
+                if item.get("language"):
+                    pass
+                else:
+                    item["language"] = cld2.detect(line)[2][0][0]
+        
         with open(file_name, encoding='utf-8') as fp:
             for line in fp.readlines():
                 line = line.replace("\n", "").split(" ")
