@@ -4,7 +4,7 @@ from collections import Counter
 import json
 
 #import language recognizer
-#$ pip install cld2-cffi
+#please enter "$ pip install cld2-cffi" in terminal before testing this program
 import cld2
 
 
