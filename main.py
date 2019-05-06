@@ -22,8 +22,13 @@ def kid_safe(words):
 
 # adding love function 
 def love(words):
-    love_words = {"love", "lovesick", "lovestruck", "crush", "infatuation", "romantic", "darling", "marriage",
-                  "proposal", "loved", "sweet", "honey", "kiss", "miss", "heart"}
+    love_words = ["love", 'loved', 'loving',"lovesick", 
+                  "lovestruck", 'hug', 'sex', 'husband', 
+                  'wife', 'affection', 'amour', 'amore',
+                  "crush", "infatuation", "romantic", 'forever',
+                  'passion', 'romance', "darling", "marriage",
+                  "proposal", "sweet", "honey", "kiss", 
+                  'kisses', "miss", "heart", 'caring', 'fancy']
     num = 0
     for word in words.keys():
         if word in love_words:
@@ -32,9 +37,65 @@ def love(words):
 
 #mood description
 def mood(words):
-    happy_words = {"happy", "excited", "high", "proud", "perfect", "joy", "joyful", "hope", "confiedent", "powerful", "sweet", "nice", "love", "exciting", "amuse", "amazing", "happily", "great", "lucky"}
-    sad_words = {"sad", "down", "low", "sorry", "tear", "war", "bitter",'bad', 'annoy','hard','hate','cry', 'cold','criminal','cruel','dirty','fell','guilty','hurt','jealous','lose','lost','poor','scared','scary','sinister','terrible',
-                'unhappy','ugly','wary'}
+    happy_words = ["happy", 'happiness', "excited", "high",
+                   "proud", "perfect", "joy", "joyful",
+                   "hope", "confident", "powerful", "sweet",
+                   "nice", "love", "exciting", "amuse",
+                   "amazing", "happily", "great", "lucky",
+                   'beaming', 'cheerful', 'cheer', 'radiant',
+                   'merry', 'wonder', 'wonderful', 'delight',
+                   'delightful', 'glad', 'sprightly', 'felicity',
+                   'glorified', 'nirvana', 'enlightenment',
+                   'blessedness', 'blissful', 'bliss', 'upbeat',
+                   'jubilant', 'glorious', 'fanciful', 'elated',
+                   'exciting', 'excitement', 'pleased', 'blithe',
+                   'exstatic', 'convival', 'cheery', 'dazed',
+                   'chirpy', 'glorious', 'felicitous', 'laugh',
+                   'laughing', 'laughter','hilarious', 'lively',
+                   'mirth', 'mirthful', 'intoxicated', 'perky',
+                   'sanguine', 'splendid', 'zestful', 'sybaritic',
+                   'satisfied', 'optimistic', 'joyous', 'pleasant',
+                   'content', 'jubilant', 'rejoicing', 'tickled',
+                   'enraptured', 'euphoric', 'overjoyed', 'rapturous',
+                   'thrilled', 'exuberant', 'animated', 'dynamic',
+                   'spirited', 'gay', 'jaunty', 'resilient', 'vivacious',
+                   'energized', 'zealous', 'hopeful']
+    
+    sad_words = ["sad", 'sadness', "down", "low", "sorry", 
+                 "tear", "war", "bitter",'bad', 'annoy',
+                 'hard','hate','cry', 'cold','criminal',
+                 'cruel','dirty','fell','guilty','hurt',
+                 'jealous','lose','lost','poor','scared',
+                 'scary','sinister','terrible', 'unhappy',
+                 'ugly','wary', 'depress', 'depressed',
+                 'depressing', 'disappointed', 'unfriendly',
+                 'hopeless', 'disturbed', 'grave',
+                 'melancholy', 'miserable', 'sorrow',
+                 'sorrowful', 'sorrowness', 'troubled', 'upset',
+                 'discouraged', 'dissatisfied', 'forsaken',
+                 'morose', 'pained', 'painful', 'unfortunate',
+                 'pensive', 'wistful', 'deplorable', 'doleful',
+                 'lamentable', 'mournful', 'pitiful', 'tragic',
+                 'tragical', 'blue', 'brokenhearted', 'brokenheart',
+                 'distressed', 'crestfallen', 'miserable', 'woeful',
+                 'woe', 'dejected', 'despondent', 'disconsolate',
+                 'downcast', 'downhearted', 'droopy', 'forlorn',
+                 'gloomy', 'glum', 'hangdog', 'heartbroken',
+                 'heartsick', 'heartsore', 'heavyhearted',
+                 'inconsolable', 'joyless', 'low-spirited',
+                 'melancholic', 'saddened', 'woebegone', 'wretched',
+                 'aggrieved', 'distress', 'uneasy', 'unquiet',
+                 'worried', 'worry', 'worries', 'despairing',
+                 'sunk', 'disheartened', 'dispirited','suicidal',
+                 'dolorous', 'lachrymose', 'lugubrious', 'plaintive',
+                 'tearful', 'regretful', 'rueful', 'agonized', 'agony',
+                 'agonize', 'anguished', 'grieving', 'grief', 'wailing',
+                 'weeping', 'weep', 'weeps', 'bleak', 'cheerless',
+                 'comfortless', 'dark', 'darkening', 'desolate',
+                 'dismal', 'drear', 'dreary', 'elegiac', 'elegiacal',
+                 'funereal', 'gray', 'grey', 'morbid', 'morose', 'murky',
+                 'saturnine', 'somber', 'sombre', 'sullen']
+    
     happy_num = 0
     sad_num = 0
 
@@ -43,16 +104,21 @@ def mood(words):
             happy_num += 1
         if word in sad_words:
             sad_num += 1
-    if sad_num == 0:
-        if happy_num == 0:
-            return 0.5
-        return 1
+    #if sad_num == 0:
+        #if happy_num == 0:
+            #return 0.5
+        #return 1
+    ratio = 0
+    if sad_num != 0:
+        ratio = float(happy_num/sad_num)
+    else:
+        ratio = 1.0
 
-    return round(min(1.0, 1.0 * happy_num / sad_num),1)
+    return round(min(1.0, ratio), 1)
 
 #added length function
 def length(words):
-    return round(min(1.0, sum(words.values()) / 300),1)
+    return round(min(1.0, sum(words.values()) / 300), 1)
 
 #complexity description
 def complexity(words):
