@@ -118,7 +118,7 @@ def mood(words):
             return 0.5
         else:
             ratio = float(happy_num / (sad_num + happy_num))
-            return round(min(1.0, ratio), 1)
+            return round(ratio, 1)
 
 #added length function
 def length(words):
