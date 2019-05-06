@@ -1,0 +1,1 @@
+!!!!!!:Please note, you may need to install the language detecting package by entering "$ pip install cld2-cffi" in terminal before test our program. Thanks!!!!!!!!!
