@@ -94,7 +94,8 @@ def mood(words):
                  'comfortless', 'dark', 'darkening', 'desolate',
                  'dismal', 'drear', 'dreary', 'elegiac', 'elegiacal',
                  'funereal', 'gray', 'grey', 'morbid', 'morose', 'murky',
-                 'saturnine', 'somber', 'sombre', 'sullen']
+                 'saturnine', 'somber', 'sombre', 'sullen', 'cried',
+                 'cries', 'weep', 'weeping', 'weeps', 'crying']
     
     happy_num = 0
     sad_num = 0
@@ -104,17 +105,20 @@ def mood(words):
             happy_num += 1
         if word in sad_words:
             sad_num += 1
-    #if sad_num == 0:
-        #if happy_num == 0:
-            #return 0.5
-        #return 1
-    ratio = 0
-    if sad_num != 0:
-        ratio = float(happy_num/sad_num)
-    else:
-        ratio = 1.0
-
-    return round(min(1.0, ratio), 1)
+    if (sad_num == 0 and happy_num == 0):
+        return 0.5
+    elif sad_num == 0 and happy_num != 0:
+        return 1.0
+        
+    elif sad_num != 0 and happy_num == 0:
+        return 0.0 #float(1.0 - sad_num/5.0)
+    
+    elif sad_num != 0 and happy_num!=0:
+        if sad_num == happy_num:
+            return 0.5
+        else:
+            ratio = float(happy_num / (sad_num + happy_num))
+            return round(min(1.0, ratio), 1)
 
 #added length function
 def length(words):

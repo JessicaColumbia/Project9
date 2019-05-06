@@ -18,7 +18,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -40,7 +40,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -62,7 +62,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.8,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -73,7 +73,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -84,7 +84,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -106,7 +106,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.9,
    "complexity": 0.4
   },
@@ -128,7 +128,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -161,7 +161,7 @@
    "language": "Unknown",
    "kid_safe": 0.9,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -172,7 +172,7 @@
    "language": "ITALIAN",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.7,
    "complexity": 0.6
   },
@@ -194,7 +194,7 @@
    "language": "Unknown",
    "kid_safe": 0.4,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -227,7 +227,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.9,
    "complexity": 0.2
   },
@@ -238,7 +238,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -249,7 +249,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.2,
    "complexity": 0.4
   },
@@ -260,7 +260,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.4
   },
@@ -282,7 +282,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -293,7 +293,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -304,7 +304,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.9,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.3,
    "complexity": 0.6
   },
@@ -337,7 +337,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.6,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -348,7 +348,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.7,
    "complexity": 0.4
   },
@@ -370,7 +370,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -403,7 +403,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.7,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -414,7 +414,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.4
   },
@@ -425,7 +425,7 @@
    "language": "Unknown",
    "kid_safe": 0.9,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 1.0,
    "complexity": 0.6
   },
@@ -436,7 +436,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.7,
    "complexity": 0.4
   },
@@ -458,7 +458,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.9,
    "complexity": 0.4
   },
@@ -469,7 +469,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -502,7 +502,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -513,7 +513,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -535,7 +535,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.2,
    "complexity": 0.2
   },
@@ -546,7 +546,7 @@
    "language": "Japanese",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.2,
    "complexity": 0.2
   },
@@ -568,7 +568,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -579,7 +579,7 @@
    "language": "DANISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -590,7 +590,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -601,7 +601,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.2,
    "complexity": 0.2
   },
@@ -623,7 +623,7 @@
    "language": "SPANISH",
    "kid_safe": 0.9,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -634,7 +634,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -645,7 +645,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.9,
    "complexity": 0.4
   },
@@ -667,7 +667,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -689,7 +689,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -700,7 +700,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -711,7 +711,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -733,7 +733,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -744,7 +744,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -766,7 +766,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.9,
    "complexity": 0.6
   },
@@ -777,7 +777,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -788,7 +788,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -799,7 +799,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -810,7 +810,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -832,7 +832,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -854,7 +854,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -876,7 +876,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.6
   },
@@ -898,7 +898,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -920,7 +920,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -931,7 +931,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.7,
    "complexity": 0.4
   },
@@ -942,7 +942,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -953,7 +953,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -975,7 +975,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.1,
    "complexity": 0.2
   },
@@ -986,7 +986,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.6,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -997,7 +997,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -1041,7 +1041,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.5,
    "complexity": 0.6
   },
@@ -1052,7 +1052,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.8,
    "complexity": 0.4
   },
@@ -1063,7 +1063,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -1074,7 +1074,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.8,
    "complexity": 0.0
   },
@@ -1096,7 +1096,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.2,
    "complexity": 0.2
   },
@@ -1107,7 +1107,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -1129,7 +1129,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -1140,7 +1140,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.9,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -1151,7 +1151,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -1162,7 +1162,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.8,
    "length": 0.7,
    "complexity": 0.4
   },
@@ -1173,7 +1173,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 0.5,
    "complexity": 0.8
   },
@@ -1184,7 +1184,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.5,
    "complexity": 0.8
   },
@@ -1195,7 +1195,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -1206,7 +1206,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -1217,7 +1217,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.8,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -1228,7 +1228,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -1239,7 +1239,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -1283,7 +1283,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.7,
    "complexity": 0.0
   },
@@ -1305,7 +1305,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.9,
    "complexity": 0.2
   },
@@ -1316,7 +1316,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -1327,7 +1327,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.3,
    "complexity": 0.0
   },
@@ -1338,7 +1338,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.7,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -1360,7 +1360,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.1,
    "complexity": 0.0
   },
@@ -1371,7 +1371,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.6
   },
@@ -1393,7 +1393,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -1415,7 +1415,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -1437,7 +1437,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.8,
    "complexity": 0.0
   },
@@ -1448,7 +1448,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.0
   },
@@ -1481,7 +1481,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.4
   },
@@ -1514,7 +1514,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -1525,7 +1525,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -1536,7 +1536,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -1547,7 +1547,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.9,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -1558,7 +1558,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -1569,7 +1569,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -1580,7 +1580,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.9,
    "complexity": 0.6
   },
@@ -1591,7 +1591,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -1602,7 +1602,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 1.0,
    "complexity": 0.8
   },
@@ -1613,7 +1613,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.0
   },
@@ -1624,7 +1624,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -1635,7 +1635,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -1646,7 +1646,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -1657,7 +1657,7 @@
    "language": "GERMAN",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.6
   },
@@ -1679,7 +1679,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -1701,7 +1701,7 @@
    "language": "FRENCH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.9,
    "complexity": 0.4
   },
@@ -1723,7 +1723,7 @@
    "language": "GERMAN",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.6
   },
@@ -1734,7 +1734,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.1,
    "complexity": 0.0
   },
@@ -1745,7 +1745,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -1767,7 +1767,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -1778,7 +1778,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -1789,7 +1789,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -1800,7 +1800,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -1811,7 +1811,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -1822,7 +1822,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -1844,7 +1844,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -1866,7 +1866,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.7,
    "complexity": 0.4
   },
@@ -1910,7 +1910,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -1921,7 +1921,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -1965,7 +1965,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -1976,7 +1976,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -1987,7 +1987,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.6
   },
@@ -1998,7 +1998,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.8,
    "complexity": 0.4
   },
@@ -2009,7 +2009,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -2020,7 +2020,7 @@
    "language": "FRENCH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -2042,7 +2042,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -2075,7 +2075,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -2097,7 +2097,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.8,
    "complexity": 0.6
   },
@@ -2108,7 +2108,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.8,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.4
   },
@@ -2119,7 +2119,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -2130,7 +2130,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -2141,7 +2141,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -2152,7 +2152,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -2174,7 +2174,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -2185,7 +2185,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -2196,7 +2196,7 @@
    "language": "FRENCH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.1,
    "complexity": 0.0
   },
@@ -2207,7 +2207,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -2218,7 +2218,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.2,
    "complexity": 0.2
   },
@@ -2229,7 +2229,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.6
   },
@@ -2262,7 +2262,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.19999999999999996,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -2273,7 +2273,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -2306,7 +2306,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.9,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -2317,7 +2317,7 @@
    "language": "FRENCH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -2328,7 +2328,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -2350,7 +2350,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -2361,7 +2361,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -2383,7 +2383,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.9,
    "complexity": 0.4
   },
@@ -2394,7 +2394,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -2405,7 +2405,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.8,
    "complexity": 0.6
   },
@@ -2427,7 +2427,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -2449,7 +2449,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -2460,7 +2460,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -2482,7 +2482,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -2493,7 +2493,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.9,
    "complexity": 0.6
   },
@@ -2504,7 +2504,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -2515,7 +2515,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.3,
+   "mood": 0.2,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -2526,7 +2526,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -2537,7 +2537,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.3,
    "complexity": 0.0
   },
@@ -2548,7 +2548,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -2559,7 +2559,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -2570,7 +2570,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -2592,7 +2592,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -2603,7 +2603,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 1.0,
    "complexity": 0.6
   },
@@ -2647,7 +2647,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.6,
    "length": 1.0,
    "complexity": 0.6
   },
@@ -2658,7 +2658,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.19999999999999996,
    "length": 0.5,
    "complexity": 0.0
   },
@@ -2669,7 +2669,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -2691,7 +2691,7 @@
    "language": "PORTUGUESE",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -2713,7 +2713,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.4
   },
@@ -2724,7 +2724,7 @@
    "language": "ITALIAN",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.4
   },
@@ -2735,7 +2735,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -2757,7 +2757,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -2790,7 +2790,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.9,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -2801,7 +2801,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -2812,7 +2812,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -2823,7 +2823,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -2834,7 +2834,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -2856,7 +2856,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.8,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.4
   },
@@ -2867,7 +2867,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -2878,7 +2878,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -2911,7 +2911,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.3,
    "complexity": 0.4
   },
@@ -2922,7 +2922,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -2944,7 +2944,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -2966,7 +2966,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -2977,7 +2977,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -2988,7 +2988,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.2,
    "complexity": 0.6
   },
@@ -2999,7 +2999,7 @@
    "language": "KINYARWANDA",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -3010,7 +3010,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -3032,7 +3032,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -3054,7 +3054,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.8,
    "complexity": 0.4
   },
@@ -3065,7 +3065,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.9,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.1,
    "complexity": 0.0
   },
@@ -3098,7 +3098,7 @@
    "language": "GERMAN",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.0,
    "complexity": 0.0
   },
@@ -3120,7 +3120,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -3153,7 +3153,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -3175,7 +3175,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.6,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -3219,7 +3219,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.19999999999999996,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -3230,7 +3230,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -3241,7 +3241,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -3252,7 +3252,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.7,
    "length": 1.0,
    "complexity": 1.0
   },
@@ -3263,7 +3263,7 @@
    "language": "ITALIAN",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -3274,7 +3274,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.6,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -3285,7 +3285,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -3296,7 +3296,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -3307,7 +3307,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -3340,7 +3340,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -3351,7 +3351,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.7,
    "complexity": 0.0
   },
@@ -3362,7 +3362,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -3373,7 +3373,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.9,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.5,
    "complexity": 0.6
   },
@@ -3384,7 +3384,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -3406,7 +3406,7 @@
    "language": "GERMAN",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.8
   },
@@ -3417,7 +3417,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -3439,7 +3439,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -3461,7 +3461,7 @@
    "language": "FRENCH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.4
   },
@@ -3494,7 +3494,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.4,
    "complexity": 0.6
   },
@@ -3505,7 +3505,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -3516,7 +3516,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -3527,7 +3527,7 @@
    "language": "Unknown",
    "kid_safe": 0.9,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -3538,7 +3538,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -3549,7 +3549,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -3593,7 +3593,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.5,
+   "mood": 0.3,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -3604,7 +3604,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -3615,7 +3615,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.0,
    "complexity": 0.0
   },
@@ -3637,7 +3637,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.2,
    "complexity": 0.0
   },
@@ -3648,7 +3648,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -3659,7 +3659,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -3670,7 +3670,7 @@
    "language": "LATVIAN",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.6
   },
@@ -3692,7 +3692,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.3,
    "complexity": 0.4
   },
@@ -3703,7 +3703,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -3714,7 +3714,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -3725,7 +3725,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -3747,7 +3747,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.9,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -3758,7 +3758,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -3769,7 +3769,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -3802,7 +3802,7 @@
    "language": "PORTUGUESE",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.4
   },
@@ -3824,7 +3824,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 0.5,
    "complexity": 1.0
   },
@@ -3835,7 +3835,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -3846,7 +3846,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -3857,7 +3857,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.6,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -3868,7 +3868,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.3,
    "complexity": 0.4
   },
@@ -3879,7 +3879,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.19999999999999996,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -3890,7 +3890,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -3912,7 +3912,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -3923,7 +3923,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.2,
    "complexity": 0.0
   },
@@ -3934,7 +3934,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -3945,7 +3945,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -3956,7 +3956,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -3967,7 +3967,7 @@
    "language": "FRENCH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -3978,7 +3978,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -4011,7 +4011,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.6,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -4022,7 +4022,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.9,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -4033,7 +4033,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.0
   },
@@ -4055,7 +4055,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.4,
    "complexity": 0.4
   },
@@ -4066,7 +4066,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.9,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -4088,7 +4088,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.9,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -4110,7 +4110,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -4121,7 +4121,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -4143,7 +4143,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -4154,7 +4154,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -4176,7 +4176,7 @@
    "language": "PORTUGUESE",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -4198,7 +4198,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.6,
    "length": 0.2,
    "complexity": 0.0
   },
@@ -4209,7 +4209,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -4242,7 +4242,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -4264,7 +4264,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -4297,7 +4297,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.8,
    "complexity": 0.8
   },
@@ -4319,7 +4319,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.4
   },
@@ -4330,7 +4330,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -4352,7 +4352,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -4363,7 +4363,7 @@
    "language": "Unknown",
    "kid_safe": 0.9,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -4374,7 +4374,7 @@
    "language": "ITALIAN",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.3,
    "complexity": 0.0
   },
@@ -4396,7 +4396,7 @@
    "language": "ICELANDIC",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -4418,7 +4418,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 1.0,
    "complexity": 0.6
   },
@@ -4429,7 +4429,7 @@
    "language": "GALICIAN",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -4440,7 +4440,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -4451,7 +4451,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.4,
    "complexity": 0.4
   },
@@ -4473,7 +4473,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -4484,7 +4484,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -4495,7 +4495,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -4506,7 +4506,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -4517,7 +4517,7 @@
    "language": "PORTUGUESE",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -4528,7 +4528,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -4550,7 +4550,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.4
   },
@@ -4561,7 +4561,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.7,
    "complexity": 0.4
   },
@@ -4572,7 +4572,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -4594,7 +4594,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.9,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.0
   },
@@ -4605,7 +4605,7 @@
    "language": "GERMAN",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -4616,7 +4616,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -4627,7 +4627,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -4649,7 +4649,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -4671,7 +4671,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -4682,7 +4682,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.9,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 0.9,
    "complexity": 0.4
   },
@@ -4693,7 +4693,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -4704,7 +4704,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -4715,7 +4715,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -4737,7 +4737,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -4759,7 +4759,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.5,
    "complexity": 0.6
   },
@@ -4770,7 +4770,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -4781,7 +4781,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 0.9,
    "complexity": 0.2
   },
@@ -4792,7 +4792,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.4,
    "complexity": 0.4
   },
@@ -4803,7 +4803,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -4814,7 +4814,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -4836,7 +4836,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -4847,7 +4847,7 @@
    "language": "NYANJA",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -4869,7 +4869,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -4880,7 +4880,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -4891,7 +4891,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.7,
    "complexity": 0.4
   },
@@ -4902,7 +4902,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.19999999999999996,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -4913,7 +4913,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.9,
    "complexity": 0.2
   },
@@ -4935,7 +4935,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -4946,7 +4946,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -4979,7 +4979,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -4990,7 +4990,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -5001,7 +5001,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -5012,7 +5012,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.7,
    "complexity": 0.6
   },
@@ -5034,7 +5034,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -5045,7 +5045,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -5056,7 +5056,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.2,
    "complexity": 0.2
   },
@@ -5111,7 +5111,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.9,
    "complexity": 0.4
   },
@@ -5122,7 +5122,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -5144,7 +5144,7 @@
    "language": "PORTUGUESE",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -5155,7 +5155,7 @@
    "language": "FRENCH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -5166,7 +5166,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -5177,7 +5177,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -5188,7 +5188,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -5199,7 +5199,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -5210,7 +5210,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -5232,7 +5232,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.8,
    "complexity": 0.4
   },
@@ -5243,7 +5243,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.1,
    "complexity": 0.0
   },
@@ -5265,7 +5265,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -5276,7 +5276,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -5287,7 +5287,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.7,
    "complexity": 0.4
   },
@@ -5309,7 +5309,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -5331,7 +5331,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -5342,7 +5342,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -5353,7 +5353,7 @@
    "language": "Unknown",
    "kid_safe": 0.7,
    "love": 0.4,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 1.0,
    "complexity": 1.0
   },
@@ -5364,7 +5364,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.7,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 1.0,
    "complexity": 1.0
   },
@@ -5419,7 +5419,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -5430,7 +5430,7 @@
    "language": "DANISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -5463,7 +5463,7 @@
    "language": "FRENCH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -5474,7 +5474,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -5485,7 +5485,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.2,
    "complexity": 0.0
   },
@@ -5496,7 +5496,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 0.8,
    "complexity": 0.6
   },
@@ -5507,7 +5507,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -5518,7 +5518,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -5529,7 +5529,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -5540,7 +5540,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -5562,7 +5562,7 @@
    "language": "GALICIAN",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.7,
    "complexity": 0.4
   },
@@ -5573,7 +5573,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -5595,7 +5595,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -5628,7 +5628,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -5639,7 +5639,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -5661,7 +5661,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.9,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -5683,7 +5683,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -5727,7 +5727,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -5738,7 +5738,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.7,
    "complexity": 0.0
   },
@@ -5749,7 +5749,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -5771,7 +5771,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -5782,7 +5782,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.19999999999999996,
    "length": 0.8,
    "complexity": 0.4
   },
@@ -5793,7 +5793,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -5804,7 +5804,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -5815,7 +5815,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -5837,7 +5837,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -5848,7 +5848,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -5859,7 +5859,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.8,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -5870,7 +5870,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.09999999999999998,
    "love": 0.4,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 1.0,
    "complexity": 0.8
   },
@@ -5881,7 +5881,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.2,
    "complexity": 0.2
   },
@@ -5892,7 +5892,7 @@
    "language": "ITALIAN",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -5925,7 +5925,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -5947,7 +5947,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.3,
    "complexity": 0.4
   },
@@ -5958,7 +5958,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.2,
    "complexity": 0.2
   },
@@ -5969,7 +5969,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -6013,7 +6013,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.9,
    "complexity": 0.4
   },
@@ -6024,7 +6024,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -6035,7 +6035,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.7,
    "complexity": 0.4
   },
@@ -6134,7 +6134,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -6145,7 +6145,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.6,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.7,
    "complexity": 0.4
   },
@@ -6156,7 +6156,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.30000000000000004,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 1.0,
    "complexity": 0.8
   },
@@ -6167,7 +6167,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -6211,7 +6211,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -6233,7 +6233,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -6255,7 +6255,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.0
   },
@@ -6266,7 +6266,7 @@
    "language": "ITALIAN",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.4
   },
@@ -6288,7 +6288,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -6299,7 +6299,7 @@
    "language": "GERMAN",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.4,
    "complexity": 0.0
   },
@@ -6343,7 +6343,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -6354,7 +6354,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -6365,7 +6365,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -6376,7 +6376,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -6387,7 +6387,7 @@
    "language": "Unknown",
    "kid_safe": 0.9,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -6409,7 +6409,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -6420,7 +6420,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -6442,7 +6442,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -6453,7 +6453,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -6464,7 +6464,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -6475,7 +6475,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.4
   },
@@ -6486,7 +6486,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -6508,7 +6508,7 @@
    "language": "FINNISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -6530,7 +6530,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.5,
+   "mood": 0.2,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -6552,7 +6552,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -6563,7 +6563,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -6574,7 +6574,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -6607,7 +6607,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -6629,7 +6629,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -6640,7 +6640,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -6651,7 +6651,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.2,
    "complexity": 0.2
   },
@@ -6662,7 +6662,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.4,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 1.0,
    "complexity": 1.0
   },
@@ -6706,7 +6706,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.7,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -6728,7 +6728,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -6772,7 +6772,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.30000000000000004,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 1.0
   },
@@ -6794,7 +6794,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -6805,7 +6805,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -6816,7 +6816,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -6827,7 +6827,7 @@
    "language": "FRENCH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -6838,7 +6838,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -6871,7 +6871,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.9,
    "complexity": 0.2
   },
@@ -6882,7 +6882,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -6915,7 +6915,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -6926,7 +6926,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -6948,7 +6948,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -6959,7 +6959,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.6
   },
@@ -6981,7 +6981,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -7003,7 +7003,7 @@
    "language": "GERMAN",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -7036,7 +7036,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -7047,7 +7047,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.2,
    "complexity": 0.4
   },
@@ -7058,7 +7058,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -7080,7 +7080,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -7091,7 +7091,7 @@
    "language": "PORTUGUESE",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -7102,7 +7102,7 @@
    "language": "FRENCH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -7113,7 +7113,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -7124,7 +7124,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -7135,7 +7135,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.3,
    "complexity": 0.4
   },
@@ -7146,7 +7146,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -7157,7 +7157,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -7201,7 +7201,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -7234,7 +7234,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.9,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.7,
    "complexity": 0.4
   },
@@ -7245,7 +7245,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -7256,7 +7256,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.3,
    "complexity": 0.4
   },
@@ -7267,7 +7267,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -7300,7 +7300,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.9,
    "complexity": 0.4
   },
@@ -7322,7 +7322,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.4
   },
@@ -7344,7 +7344,7 @@
    "language": "GERMAN",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.7,
    "complexity": 0.4
   },
@@ -7366,7 +7366,7 @@
    "language": "FRENCH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -7388,7 +7388,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -7399,7 +7399,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -7410,7 +7410,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.7,
    "complexity": 0.4
   },
@@ -7421,7 +7421,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.30000000000000004,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 1.0,
    "complexity": 0.8
   },
@@ -7432,7 +7432,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -7443,7 +7443,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -7454,7 +7454,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.2,
    "complexity": 0.2
   },
@@ -7465,7 +7465,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.6,
    "length": 0.9,
    "complexity": 0.2
   },
@@ -7476,7 +7476,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.9,
    "complexity": 0.2
   },
@@ -7498,7 +7498,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -7509,7 +7509,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -7531,7 +7531,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -7553,7 +7553,7 @@
    "language": "FRENCH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.4
   },
@@ -7564,7 +7564,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -7586,7 +7586,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 1.0,
    "complexity": 0.6
   },
@@ -7597,7 +7597,7 @@
    "language": "GERMAN",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -7608,7 +7608,7 @@
    "language": "GERMAN",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -7619,7 +7619,7 @@
    "language": "Unknown",
    "kid_safe": 0.8,
    "love": 0.2,
-   "mood": 0.5,
+   "mood": 0.3,
    "length": 0.9,
    "complexity": 0.4
   },
@@ -7641,7 +7641,7 @@
    "language": "Unknown",
    "kid_safe": 0.5,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 1.0,
    "complexity": 1.0
   },
@@ -7652,7 +7652,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -7663,7 +7663,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -7674,7 +7674,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.6,
    "length": 0.6,
    "complexity": 0.6
   },
@@ -7685,7 +7685,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -7696,7 +7696,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -7707,7 +7707,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -7718,7 +7718,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -7729,7 +7729,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -7740,7 +7740,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -7762,7 +7762,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.0
   },
@@ -7784,7 +7784,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.3,
    "complexity": 0.4
   },
@@ -7817,7 +7817,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.9,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -7828,7 +7828,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -7861,7 +7861,7 @@
    "language": "PORTUGUESE",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -7872,7 +7872,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -7883,7 +7883,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -7894,7 +7894,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.8,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 1.0,
    "complexity": 1.0
   },
@@ -7905,7 +7905,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -7927,7 +7927,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -7949,7 +7949,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -7971,7 +7971,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -7982,7 +7982,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.19999999999999996,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -7993,7 +7993,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -8004,7 +8004,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -8015,7 +8015,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 0.4,
+   "mood": 0.3,
    "length": 0.8,
    "complexity": 0.0
   },
@@ -8048,7 +8048,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -8059,7 +8059,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -8081,7 +8081,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -8103,7 +8103,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -8114,7 +8114,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -8125,7 +8125,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.8,
    "complexity": 0.4
   },
@@ -8136,7 +8136,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.8,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -8147,7 +8147,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -8158,7 +8158,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -8169,7 +8169,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -8191,7 +8191,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.4
   },
@@ -8213,7 +8213,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -8224,7 +8224,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.2,
    "complexity": 0.2
   },
@@ -8235,7 +8235,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -8257,7 +8257,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -8279,7 +8279,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -8290,7 +8290,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -8301,7 +8301,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.9,
    "complexity": 0.2
   },
@@ -8312,7 +8312,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.7,
    "complexity": 0.4
   },
@@ -8334,7 +8334,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.7,
    "complexity": 0.6
   },
@@ -8389,7 +8389,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -8400,7 +8400,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -8466,7 +8466,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -8499,7 +8499,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -8510,7 +8510,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.8,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.7,
    "complexity": 0.4
   },
@@ -8521,7 +8521,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.8,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.2,
    "complexity": 0.2
   },
@@ -8532,7 +8532,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -8576,7 +8576,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.8,
    "complexity": 0.0
   },
@@ -8609,7 +8609,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.6,
    "complexity": 0.8
   },
@@ -8620,7 +8620,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -8631,7 +8631,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.9,
    "complexity": 0.2
   },
@@ -8653,7 +8653,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.3,
    "complexity": 0.4
   },
@@ -8708,7 +8708,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 1.0,
    "complexity": 0.6
   },
@@ -8719,7 +8719,7 @@
    "language": "ITALIAN",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -8730,7 +8730,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -8741,7 +8741,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.8,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -8763,7 +8763,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -8774,7 +8774,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.1,
    "complexity": 0.4
   },
@@ -8785,7 +8785,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -8796,7 +8796,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -8807,7 +8807,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.6,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.6,
    "complexity": 0.8
   },
@@ -8829,7 +8829,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.8,
-   "mood": 1.0,
+   "mood": 0.7,
    "length": 1.0,
    "complexity": 0.8
   },
@@ -8862,7 +8862,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -8884,7 +8884,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -8906,7 +8906,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -8917,7 +8917,7 @@
    "language": "ITALIAN",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.9,
    "complexity": 0.4
   },
@@ -8928,7 +8928,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -8939,7 +8939,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.2,
    "complexity": 0.2
   },
@@ -8950,7 +8950,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -8961,7 +8961,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -8983,7 +8983,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -8994,7 +8994,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -9038,7 +9038,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.9,
    "complexity": 0.2
   },
@@ -9049,7 +9049,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -9060,7 +9060,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.7,
    "complexity": 0.4
   },
@@ -9071,7 +9071,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.7,
    "complexity": 0.4
   },
@@ -9082,7 +9082,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -9093,7 +9093,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.3,
    "complexity": 0.4
   },
@@ -9115,7 +9115,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": -0.3999999999999999,
    "length": 0.9,
    "complexity": 0.4
   },
@@ -9126,7 +9126,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.8,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -9137,7 +9137,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 1.2,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -9148,7 +9148,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -9159,7 +9159,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.1,
    "complexity": 0.2
   },
@@ -9170,7 +9170,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.7,
    "complexity": 0.4
   },
@@ -9214,7 +9214,7 @@
    "language": "PORTUGUESE",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.8,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -9225,7 +9225,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -9247,7 +9247,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -9258,7 +9258,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -9291,7 +9291,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -9313,7 +9313,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -9324,7 +9324,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.8
   },
@@ -9335,7 +9335,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -9346,7 +9346,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -9357,7 +9357,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -9368,7 +9368,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -9379,7 +9379,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.7,
    "complexity": 0.4
   },
@@ -9390,7 +9390,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.8
   },
@@ -9401,7 +9401,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -9456,7 +9456,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -9489,7 +9489,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -9511,7 +9511,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -9522,7 +9522,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -9533,7 +9533,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -9544,7 +9544,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -9555,7 +9555,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -9599,7 +9599,7 @@
    "language": "PORTUGUESE",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.9,
    "complexity": 0.4
   },
@@ -9632,7 +9632,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.7,
    "complexity": 0.4
   },
@@ -9643,7 +9643,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -9654,7 +9654,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -9665,7 +9665,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.4
   },
@@ -9676,7 +9676,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.4,
    "complexity": 0.4
   },
@@ -9687,7 +9687,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -9698,7 +9698,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.2,
    "complexity": 0.2
   },
@@ -9709,7 +9709,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.7,
    "complexity": 0.4
   },
@@ -9720,7 +9720,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -9731,7 +9731,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -9742,7 +9742,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -9753,7 +9753,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.9,
    "complexity": 0.2
   },
@@ -9775,7 +9775,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.2,
    "complexity": 0.2
   },
@@ -9797,7 +9797,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -9808,7 +9808,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -9830,7 +9830,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -9852,7 +9852,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.8,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -9863,7 +9863,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.4
   },
@@ -9874,7 +9874,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -9896,7 +9896,7 @@
    "language": "NORWEGIAN",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -9907,7 +9907,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -9918,7 +9918,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -9929,7 +9929,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.2,
    "complexity": 0.2
   },
@@ -9962,7 +9962,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -9973,7 +9973,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -10006,7 +10006,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -10017,7 +10017,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.4
   },
@@ -10039,7 +10039,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -10050,7 +10050,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -10061,7 +10061,7 @@
    "language": "KINYARWANDA",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.9,
    "complexity": 0.4
   },
@@ -10105,7 +10105,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -10127,7 +10127,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.9,
    "complexity": 0.2
   },
@@ -10171,7 +10171,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.6,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -10182,7 +10182,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.4
   },
@@ -10226,7 +10226,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -10237,7 +10237,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.3,
    "complexity": 0.2
   },
@@ -10248,7 +10248,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.9,
    "complexity": 0.2
   },
@@ -10259,7 +10259,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -10314,7 +10314,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -10325,7 +10325,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -10347,7 +10347,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -10358,7 +10358,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -10369,7 +10369,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -10380,7 +10380,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -10402,7 +10402,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -10413,7 +10413,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.4,
    "complexity": 0.4
   },
@@ -10424,7 +10424,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 1.0,
    "complexity": 0.8
   },
@@ -10457,7 +10457,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.0
   },
@@ -10468,7 +10468,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -10490,7 +10490,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -10501,7 +10501,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.4
   },
@@ -10512,7 +10512,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.4,
    "complexity": 0.4
   },
@@ -10523,7 +10523,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.8,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -10534,7 +10534,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -10545,7 +10545,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -10556,7 +10556,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -10589,7 +10589,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -10600,7 +10600,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.2,
    "complexity": 0.4
   },
@@ -10611,7 +10611,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 1.0,
    "complexity": 0.2
   },
@@ -10622,7 +10622,7 @@
    "language": "ENGLISH",
    "kid_safe": 0.9,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.4
   },
@@ -10633,7 +10633,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.4,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -10666,7 +10666,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.7,
    "complexity": 0.2
   },
@@ -10699,7 +10699,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.3,
    "complexity": 0.4
   },
@@ -10710,7 +10710,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 0.6,
    "complexity": 0.2
   },
@@ -10721,7 +10721,7 @@
    "language": "Unknown",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.0,
    "complexity": 0.0
   },
@@ -10754,7 +10754,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.5,
    "complexity": 0.4
   },
@@ -10776,7 +10776,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 0.0,
+   "mood": 0.6,
    "length": 1.0,
    "complexity": 0.6
   },
@@ -10809,7 +10809,7 @@
    "language": "SPANISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.5,
    "complexity": 0.2
   },
@@ -10842,7 +10842,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.6,
-   "mood": 1.0,
+   "mood": 0.4,
    "length": 0.8,
    "complexity": 0.2
   },
@@ -10853,7 +10853,7 @@
    "language": "SCOTS_GAELIC",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.6,
    "complexity": 0.4
   },
@@ -10864,7 +10864,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -10897,7 +10897,7 @@
    "language": "Unknown",
    "kid_safe": 0.9,
    "love": 0.2,
-   "mood": 0.0,
+   "mood": 0.4,
    "length": 1.0,
    "complexity": 0.6
   },
@@ -10919,7 +10919,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -10941,7 +10941,7 @@
    "language": "ROMANIAN",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -10952,7 +10952,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 1.0,
    "complexity": 0.4
   },
@@ -10963,7 +10963,7 @@
    "language": "FRENCH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.4
   },
@@ -10974,7 +10974,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.0,
-   "mood": 1.0,
+   "mood": 0.5,
    "length": 0.8,
    "complexity": 0.4
   },
@@ -10996,7 +10996,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.2,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.2
   },
@@ -11007,7 +11007,7 @@
    "language": "ENGLISH",
    "kid_safe": 1,
    "love": 0.8,
-   "mood": 1.0,
+   "mood": 0.2,
    "length": 0.4,
    "complexity": 0.4
   }
